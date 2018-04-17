@@ -1,435 +1,375 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Sportv 3">
-    <display-name lang="pt">Sportv 3</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="SporTV HD">
+    <display-name lang="pt">SporTV HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sportv.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="Sportv 2">
-    <display-name lang="pt">Sportv 2</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="SporTV 2 HD">
+    <display-name lang="pt">SporTV 2 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sportv2.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="SporTV">
-    <display-name lang="pt">SporTV</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="SporTV 3 HD">
+    <display-name lang="pt">SporTV 3 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sportv3.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
-  <programme start="20180417010000 -0300" stop="20180417020000 -0300" channel="Sportv 3">
-    <title lang="pt">VT - Vasco x Atlético MG</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417020000 -0300" stop="20180417030000 -0300" channel="Sportv 3">
-    <title lang="pt">VT - Vitória x Flamengo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417030000 -0300" stop="20180417060000 -0300" channel="Sportv 3">
-    <title lang="pt">Ufc: Poirier X Gaethje</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417060000 -0300" stop="20180417080000 -0300" channel="Sportv 3">
-    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417080000 -0300" stop="20180417100000 -0300" channel="Sportv 3">
-    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417100000 -0300" stop="20180417120000 -0300" channel="Sportv 3">
-    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417120000 -0300" stop="20180417143000 -0300" channel="Sportv 3">
-    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417143000 -0300" stop="20180417150000 -0300" channel="Sportv 3">
-    <title lang="pt">Globo Esporte - São Paulo</title>
-    <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417150000 -0300" stop="20180417160000 -0300" channel="Sportv 3">
-    <title lang="pt">VT - Cruzeiro x Grêmio</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417160000 -0300" stop="20180417163000 -0300" channel="Sportv 3">
-    <title lang="pt">Globo Esporte - Rio de Janeiro</title>
-    <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417163000 -0300" stop="20180417173000 -0300" channel="Sportv 3">
-    <title lang="pt">VT - Corinthians x Fluminense</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417173000 -0300" stop="20180417183000 -0300" channel="Sportv 3">
-    <title lang="pt">VT - Botafogo x Palmeiras</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417183000 -0300" stop="20180417190000 -0300" channel="Sportv 3">
-    <title lang="pt">NBA Inside Stuff</title>
-    <desc lang="pt">As técnicas do basquete, os melhores momentos das partidas e o que acontece com alguns dos principais jogadores da maior liga de basquete do mundo fora das quadras Isso e muito mais você confere nou0027NBA Inside Stuff'(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417190000 -0300" stop="20180417193000 -0300" channel="Sportv 3">
-    <title lang="pt">Pré Jogo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417193000 -0300" stop="20180417213000 -0300" channel="Sportv 3">
-    <title lang="pt">NBB - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417213000 -0300" stop="20180417233000 -0300" channel="Sportv 3">
-    <title lang="pt">Millonarios (COL) x Deportivo Lara (VEN) - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417020000 -0300" stop="20180417033000 -0300" channel="Sportv 2">
-    <title lang="pt">Bem, Amigos</title>
-    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417033000 -0300" stop="20180417040000 -0300" channel="Sportv 2">
+  <programme start="20180417000000 -0300" stop="20180417010000 -0300" channel="SporTV HD">
     <title lang="pt">Giro da Rodada</title>
     <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20180417040000 -0300" stop="20180417050000 -0300" channel="Sportv 2">
-    <title lang="pt">VT - Santos x Ceará</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417050000 -0300" stop="20180417060000 -0300" channel="Sportv 2">
-    <title lang="pt">VT - São Paulo x Paraná</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417060000 -0300" stop="20180417070000 -0300" channel="Sportv 2">
-    <title lang="pt">VT - Cruzeiro x Grêmio</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417070000 -0300" stop="20180417080000 -0300" channel="Sportv 2">
-    <title lang="pt">VT - Vitória x Flamengo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417080000 -0300" stop="20180417090000 -0300" channel="Sportv 2">
-    <title lang="pt">VT - Corinthians x Fluminense</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417090000 -0300" stop="20180417100000 -0300" channel="Sportv 2">
+  <programme start="20180417010000 -0300" stop="20180417020000 -0300" channel="SporTV HD">
     <title lang="pt">VT - Botafogo x Palmeiras</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
   </programme>
-  <programme start="20180417100000 -0300" stop="20180417110000 -0300" channel="Sportv 2">
+  <programme start="20180417020000 -0300" stop="20180417030000 -0300" channel="SporTV HD">
     <title lang="pt">VT - São Paulo x Paraná</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
   </programme>
-  <programme start="20180417110000 -0300" stop="20180417120000 -0300" channel="Sportv 2">
+  <programme start="20180417030000 -0300" stop="20180417040000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417040000 -0300" stop="20180417050000 -0300" channel="SporTV HD">
     <title lang="pt">VT - Vasco x Atlético MG</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
   </programme>
-  <programme start="20180417120000 -0300" stop="20180417130000 -0300" channel="Sportv 2">
-    <title lang="pt">VT - Corinthians x Fluminense</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417130000 -0300" stop="20180417131000 -0300" channel="Sportv 2">
-    <title lang="pt">SporTV News - Vivo</title>
-    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417131000 -0300" stop="20180417141000 -0300" channel="Sportv 2">
+  <programme start="20180417050000 -0300" stop="20180417060000 -0300" channel="SporTV HD">
     <title lang="pt">VT - Botafogo x Palmeiras</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
   </programme>
-  <programme start="20180417141000 -0300" stop="20180417142000 -0300" channel="Sportv 2">
-    <title lang="pt">SporTV News - Vivo</title>
-    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417142000 -0300" stop="20180417152000 -0300" channel="Sportv 2">
+  <programme start="20180417060000 -0300" stop="20180417063000 -0300" channel="SporTV HD">
     <title lang="pt">Giro da Rodada</title>
     <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20180417152000 -0300" stop="20180417153000 -0300" channel="Sportv 2">
-    <title lang="pt">SporTV News - Vivo</title>
-    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417063000 -0300" stop="20180417083000 -0300" channel="SporTV HD">
+    <title lang="pt">Bem, Amigos!</title>
+    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos, como Arnaldo Cezar Coelho e Caio Ribeiro(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20180417153000 -0300" stop="20180417163000 -0300" channel="Sportv 2">
-    <title lang="pt">VT - Vitória x Flamengo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417163000 -0300" stop="20180417164000 -0300" channel="Sportv 2">
-    <title lang="pt">SporTV News - Vivo</title>
-    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417164000 -0300" stop="20180417174000 -0300" channel="Sportv 2">
-    <title lang="pt">VT - São Paulo x Paraná</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417174000 -0300" stop="20180417175000 -0300" channel="Sportv 2">
-    <title lang="pt">SporTV News - Vivo</title>
-    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417175000 -0300" stop="20180417182000 -0300" channel="Sportv 2">
+  <programme start="20180417083000 -0300" stop="20180417090000 -0300" channel="SporTV HD">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20180417182000 -0300" stop="20180417183000 -0300" channel="Sportv 2">
-    <title lang="pt">SporTV News - Vivo</title>
-    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417090000 -0300" stop="20180417094500 -0300" channel="SporTV HD">
+    <title lang="pt">Planeta SporTV - Vivo</title>
+    <desc lang="pt">As principais notícias do esporte pelo mundo, a repercussão internacional e os aspectos culturais do esporte lá fora, com correspondentes na Europa, EUA, Ásia e Américas pra rodar o mundo sem sair do lugar(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20180417183000 -0300" stop="20180417190000 -0300" channel="Sportv 2">
+  <programme start="20180417094500 -0300" stop="20180417120000 -0300" channel="SporTV HD">
+    <title lang="pt">Redação SporTV - Vivo</title>
+    <desc lang="pt">André Rizek recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. Direto da redação do SporTV, o programa repercute as notícias do rádio, TV, impresso e online. Redação SporTV, de 2ª a 6ª às 10h(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417120000 -0300" stop="20180417124500 -0300" channel="SporTV HD">
+    <title lang="pt">É Gol! - Vivo</title>
+    <desc lang="pt">Conheça o novo É Gol!!! Novo estúdio, novos quadros e nova apresentadora, Ana Helena Goebel. Não perca! De segunda a sexta, sempre ao meio-dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417124500 -0300" stop="20180417160000 -0300" channel="SporTV HD">
+    <title lang="pt">Seleção SporTV - Vivo</title>
+    <desc lang="pt">Seleção SporTV, tudo sobre futebol! O balanço da rodada e os jogos que vem por aí num debate inteligente e com convidados diários. Além de muita interatividade e as criativas hashtags. O comando é de Marcelo Barreto. 2ª a 6ª, 13h ao vivo!(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417160000 -0300" stop="20180417170000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada - Vivo</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180417170000 -0300" stop="20180417183000 -0300" channel="SporTV HD">
+    <title lang="pt">Tá na Área - Vivo</title>
+    <desc lang="pt">A dupla Bárbara Coelho e Thiago Oliveira comanda o Tá na Área, programa diário que fala um pouco de todos os esportes, acompanha o dia a dia dos principais clubes de futebol do Brasil e ainda tem matérias e entrevistas exclusivas(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417183000 -0300" stop="20180417191500 -0300" channel="SporTV HD">
     <title lang="pt">Pré Jogo - Vivo</title>
     <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20180417190000 -0300" stop="20180417210000 -0300" channel="Sportv 2">
-    <title lang="pt">Superliga de Vôlei Masculino: Taubaté x Cruzeiro - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417191500 -0300" stop="20180417211500 -0300" channel="SporTV HD">
+    <title lang="pt">Boa Esporte x Fortaleza - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20180417210000 -0300" stop="20180417213000 -0300" channel="Sportv 2">
+  <programme start="20180417211500 -0300" stop="20180417213000 -0300" channel="SporTV HD">
     <title lang="pt">Pré Jogo - Vivo</title>
     <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20180417213000 -0300" stop="20180417233000 -0300" channel="Sportv 2">
-    <title lang="pt">Superliga de Vôlei Masculino: Sesi x Sesc RJ - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417213000 -0300" stop="20180417233000 -0300" channel="SporTV HD">
+    <title lang="pt">Coritiba x Atlético GO - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20180417233000 -0300" stop="20180418020000 -0300" channel="Sportv 2">
-    <title lang="pt">SporTV News - Vivo</title>
-    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417233000 -0300" stop="20180418010000 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
   </programme>
-  <programme start="20180417010000 -0300" stop="20180417020000 -0300" channel="SporTV">
-    <title lang="pt">VT - Vasco x Atlético MG</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417020000 -0300" stop="20180417040000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Bem, Amigos!</title>
+    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos, como Arnaldo Cezar Coelho e Caio Ribeiro(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20180417020000 -0300" stop="20180417030000 -0300" channel="SporTV">
-    <title lang="pt">VT - Vitória x Flamengo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417040000 -0300" stop="20180417050000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Santos x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20180417030000 -0300" stop="20180417060000 -0300" channel="SporTV">
-    <title lang="pt">Ufc: Poirier X Gaethje</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417050000 -0300" stop="20180417060000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - São Paulo x Paraná</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
   </programme>
-  <programme start="20180417060000 -0300" stop="20180417080000 -0300" channel="SporTV">
-    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417080000 -0300" stop="20180417100000 -0300" channel="SporTV">
-    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417100000 -0300" stop="20180417120000 -0300" channel="SporTV">
-    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417120000 -0300" stop="20180417143000 -0300" channel="SporTV">
-    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417143000 -0300" stop="20180417150000 -0300" channel="SporTV">
-    <title lang="pt">Globo Esporte - São Paulo</title>
-    <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417150000 -0300" stop="20180417160000 -0300" channel="SporTV">
+  <programme start="20180417060000 -0300" stop="20180417070000 -0300" channel="SporTV 2 HD">
     <title lang="pt">VT - Cruzeiro x Grêmio</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
   </programme>
-  <programme start="20180417160000 -0300" stop="20180417163000 -0300" channel="SporTV">
+  <programme start="20180417070000 -0300" stop="20180417080000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Vitória x Flamengo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417080000 -0300" stop="20180417090000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417090000 -0300" stop="20180417100000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417100000 -0300" stop="20180417110000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - São Paulo x Paraná</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417110000 -0300" stop="20180417120000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Vasco x Atlético MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417120000 -0300" stop="20180417130000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417130000 -0300" stop="20180417131000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417131000 -0300" stop="20180417141000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417141000 -0300" stop="20180417142000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417142000 -0300" stop="20180417152000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180417152000 -0300" stop="20180417153000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417153000 -0300" stop="20180417163000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Vitória x Flamengo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417163000 -0300" stop="20180417164000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417164000 -0300" stop="20180417174000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - São Paulo x Paraná</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417174000 -0300" stop="20180417175000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417175000 -0300" stop="20180417182000 -0300" channel="SporTV 2 HD">
     <title lang="pt">Globo Esporte - Rio de Janeiro</title>
     <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20180417163000 -0300" stop="20180417173000 -0300" channel="SporTV">
-    <title lang="pt">VT - Corinthians x Fluminense</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417182000 -0300" stop="20180417183000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20180417173000 -0300" stop="20180417183000 -0300" channel="SporTV">
-    <title lang="pt">VT - Botafogo x Palmeiras</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417183000 -0300" stop="20180417190000 -0300" channel="SporTV">
-    <title lang="pt">NBA Inside Stuff</title>
-    <desc lang="pt">As técnicas do basquete, os melhores momentos das partidas e o que acontece com alguns dos principais jogadores da maior liga de basquete do mundo fora das quadras Isso e muito mais você confere nou0027NBA Inside Stuff'(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180417190000 -0300" stop="20180417193000 -0300" channel="SporTV">
+  <programme start="20180417183000 -0300" stop="20180417190000 -0300" channel="SporTV 2 HD">
     <title lang="pt">Pré Jogo - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20180417193000 -0300" stop="20180417213000 -0300" channel="SporTV">
-    <title lang="pt">NBB - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417190000 -0300" stop="20180417210000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Superliga de Vôlei Masculino: Taubaté x Cruzeiro - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
   </programme>
-  <programme start="20180417213000 -0300" stop="20180417233000 -0300" channel="SporTV">
+  <programme start="20180417210000 -0300" stop="20180417213000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417213000 -0300" stop="20180417233000 -0300" channel="SporTV 2 HD">
     <title lang="pt">Millonarios (COL) x Deportivo Lara (VEN) - Vivo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20180417233000 -0300" stop="20180418020000 -0300" channel="SporTV">
-    <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
+  <programme start="20180417233000 -0300" stop="20180417234000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417234000 -0300" stop="20180418003000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180417010000 -0300" stop="20180417020000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Vasco x Atlético MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417020000 -0300" stop="20180417030000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Vitória x Flamengo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417030000 -0300" stop="20180417060000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Ufc: Poirier X Gaethje</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417060000 -0300" stop="20180417080000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20180417080000 -0300" stop="20180417100000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20180417100000 -0300" stop="20180417120000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20180417120000 -0300" stop="20180417143000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20180417143000 -0300" stop="20180417150000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Globo Esporte - São Paulo</title>
+    <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417150000 -0300" stop="20180417183000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Copa do Mundo de Ginástica Artística</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ginástica Olímpica</category>
+  </programme>
+  <programme start="20180417183000 -0300" stop="20180417190000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">NBA Inside Stuff</title>
+    <desc lang="pt">As técnicas do basquete, os melhores momentos das partidas e o que acontece com alguns dos principais jogadores da maior liga de basquete do mundo fora das quadras! Isso e muito mais você confere no 'NBA Inside Stuff'(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180417190000 -0300" stop="20180417200000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417200000 -0300" stop="20180417210000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Vitória x Flamengo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417210000 -0300" stop="20180417233000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">NBA: Boston Celtics x Milwaukee Bucks - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180417233000 -0300" stop="20180418003000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Vasco x Atlético MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
   </programme>
 </tv>
