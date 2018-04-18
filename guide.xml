@@ -15,6 +15,31 @@
     <icon src="http://www.lineup.tv.br/canais/sportv3.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espn.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN +  HD">
+    <display-name lang="pt">ESPN +  HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espnmais.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espnbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX Sports HD">
+    <display-name lang="pt">FOX Sports HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/foxsports.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX Sports 2 HD">
+    <display-name lang="pt">FOX Sports 2 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/foxsports2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <programme start="20180417000000 -0300" stop="20180417010000 -0300" channel="SporTV HD">
     <title lang="pt">Giro da Rodada</title>
     <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
@@ -130,6 +155,125 @@
     <category lang="pt">Futebol</category>
   </programme>
   <programme start="20180417233000 -0300" stop="20180418010000 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418010000 -0300" stop="20180418020000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418020000 -0300" stop="20180418030000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - São Paulo x Paraná</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418030000 -0300" stop="20180418040000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418040000 -0300" stop="20180418050000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418050000 -0300" stop="20180418053000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180418053000 -0300" stop="20180418063000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Vitória x Flamengo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418063000 -0300" stop="20180418073000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Vasco x Atlético MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418073000 -0300" stop="20180418083000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418083000 -0300" stop="20180418090000 -0300" channel="SporTV HD">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418090000 -0300" stop="20180418094500 -0300" channel="SporTV HD">
+    <title lang="pt">Planeta SporTV - Vivo</title>
+    <desc lang="pt">As principais notícias do esporte pelo mundo, a repercussão internacional e os aspectos culturais do esporte lá fora, com correspondentes na Europa, EUA, Ásia e Américas pra rodar o mundo sem sair do lugar(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418094500 -0300" stop="20180418120000 -0300" channel="SporTV HD">
+    <title lang="pt">Redação SporTV - Vivo</title>
+    <desc lang="pt">André Rizek recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. Direto da redação do SporTV, o programa repercute as notícias do rádio, TV, impresso e online. Redação SporTV, de 2ª a 6ª às 10h(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418120000 -0300" stop="20180418124500 -0300" channel="SporTV HD">
+    <title lang="pt">É Gol! - Vivo</title>
+    <desc lang="pt">Conheça o novo É Gol!!! Novo estúdio, novos quadros e nova apresentadora, Ana Helena Goebel. Não perca! De segunda a sexta, sempre ao meio-dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418124500 -0300" stop="20180418160000 -0300" channel="SporTV HD">
+    <title lang="pt">Seleção SporTV - Vivo</title>
+    <desc lang="pt">Seleção SporTV, tudo sobre futebol! O balanço da rodada e os jogos que vem por aí num debate inteligente e com convidados diários. Além de muita interatividade e as criativas hashtags. O comando é de Marcelo Barreto. 2ª a 6ª, 13h ao vivo!(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418160000 -0300" stop="20180418170000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada - Vivo</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180418170000 -0300" stop="20180418184500 -0300" channel="SporTV HD">
+    <title lang="pt">Tá na Área - Vivo</title>
+    <desc lang="pt">A dupla Bárbara Coelho e Thiago Oliveira comanda o Tá na Área, programa diário que fala um pouco de todos os esportes, acompanha o dia a dia dos principais clubes de futebol do Brasil e ainda tem matérias e entrevistas exclusivas(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418184500 -0300" stop="20180418193000 -0300" channel="SporTV HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418193000 -0300" stop="20180418213000 -0300" channel="SporTV HD">
+    <title lang="pt">Goiás x Avaí - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418213000 -0300" stop="20180418214500 -0300" channel="SporTV HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418214500 -0300" stop="20180418234500 -0300" channel="SporTV HD">
+    <title lang="pt">Independiente (ARG) X Corinthians - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418234500 -0300" stop="20180419010000 -0300" channel="SporTV HD">
     <title lang="pt">Troca de Passes - Vivo</title>
     <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
     <category lang="pt">Jornalismo</category>
@@ -295,6 +439,167 @@
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
+  <programme start="20180418003000 -0300" stop="20180418013000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418013000 -0300" stop="20180418023000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - PSG x Monaco</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418023000 -0300" stop="20180418033000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Atlético PR x Chapecoense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418033000 -0300" stop="20180418050000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Liga Nacional de Futsal: Sorocaba x Jaraguá</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol de Salão</category>
+  </programme>
+  <programme start="20180418050000 -0300" stop="20180418060000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Internacional x Bahia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418060000 -0300" stop="20180418070000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Santos x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418070000 -0300" stop="20180418080000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418080000 -0300" stop="20180418090000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418090000 -0300" stop="20180418100000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - São Paulo x Paraná</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418100000 -0300" stop="20180418110000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418110000 -0300" stop="20180418120000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Internacional x Bahia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418120000 -0300" stop="20180418130000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418130000 -0300" stop="20180418131000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418131000 -0300" stop="20180418141000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418141000 -0300" stop="20180418142000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418142000 -0300" stop="20180418152000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Vasco x Atlético MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418152000 -0300" stop="20180418153000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418153000 -0300" stop="20180418163000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418163000 -0300" stop="20180418164000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418164000 -0300" stop="20180418174000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418174000 -0300" stop="20180418175000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418175000 -0300" stop="20180418185000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418185000 -0300" stop="20180418190000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418190000 -0300" stop="20180418193000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418193000 -0300" stop="20180418213000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">NBB: Mogi das Cruzes x Caxias - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418213000 -0300" stop="20180418214500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418214500 -0300" stop="20180418234500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Náutico x Ponte Preta - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418234500 -0300" stop="20180418235500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418235500 -0300" stop="20180419010000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
   <programme start="20180417010000 -0300" stop="20180417020000 -0300" channel="SporTV 3 HD">
     <title lang="pt">VT - Vasco x Atlético MG</title>
     <category lang="pt">Esporte</category>
@@ -371,5 +676,1136 @@
     <category lang="pt">Esporte</category>
     <category lang="pt">Futebol</category>
     <country>Brasil</country>
+  </programme>
+  <programme start="20180418003000 -0300" stop="20180418013000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Vitória x Flamengo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418013000 -0300" stop="20180418023000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418023000 -0300" stop="20180418030000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">NBA Inside Stuff</title>
+    <desc lang="pt">As técnicas do basquete, os melhores momentos das partidas e o que acontece com alguns dos principais jogadores da maior liga de basquete do mundo fora das quadras! Isso e muito mais você confere no 'NBA Inside Stuff'(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180418030000 -0300" stop="20180418050000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Bem, Amigos!</title>
+    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos, como Arnaldo Cezar Coelho e Caio Ribeiro(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418050000 -0300" stop="20180418060000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Coritiba x Atlético GO</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418060000 -0300" stop="20180418080000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20180418080000 -0300" stop="20180418100000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20180418100000 -0300" stop="20180418120000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20180418120000 -0300" stop="20180418143000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Masters 1000: Monte Carlo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20180418143000 -0300" stop="20180418150000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Globo Esporte - São Paulo</title>
+    <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418150000 -0300" stop="20180418170000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">MLS: Atlanta United x Ny City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418170000 -0300" stop="20180418173000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Globo Esporte - Rio de Janeiro</title>
+    <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418173000 -0300" stop="20180418203000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Ufc: Poirier X Gaethje</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418203000 -0300" stop="20180418223000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Superliga de Vôlei Feminino: Sesc RJ x Praia Clube</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20180418223000 -0300" stop="20180419010000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">NBA: Houston Rockets x Minnesota Timberwolves - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180417000000 -0300" stop="20180417000500 -0300" channel="ESPN HD">
+    <title lang="pt">Abre o Jogo: Compacto Nfl: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20180417000500 -0300" stop="20180417010000 -0300" channel="ESPN HD">
+    <title lang="pt">Compacto NFL: Jacksonville Jaguars x Pittsburgh Steelers</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20180417010000 -0300" stop="20180417020000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417020000 -0300" stop="20180417041500 -0300" channel="ESPN HD">
+    <title lang="pt">NHL: Tampa Bay Lightning x New Jersey Devils</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20180417041500 -0300" stop="20180417060000 -0300" channel="ESPN HD">
+    <title lang="pt">Atalanta x Inter de Milão</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417060000 -0300" stop="20180417070000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417070000 -0300" stop="20180417080000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417080000 -0300" stop="20180417090000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417090000 -0300" stop="20180417113000 -0300" channel="ESPN HD">
+    <title lang="pt">NHL: Tampa Bay Lightning x New Jersey Devils</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20180417113000 -0300" stop="20180417133000 -0300" channel="ESPN HD">
+    <title lang="pt">Manchester United x West Bromwich</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417133000 -0300" stop="20180417143000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 1ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417143000 -0300" stop="20180417150000 -0300" channel="ESPN HD">
+    <title lang="pt">Show da Rodada do Campeonato Espanhol</title>
+    <desc lang="pt">Fique por dentro dos principais momentos da rodada de La Liga, o Campeonato Espanhol de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas estão aqui(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417150000 -0300" stop="20180417153000 -0300" channel="ESPN HD">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417153000 -0300" stop="20180417174500 -0300" channel="ESPN HD">
+    <title lang="pt">Bayer Leverkusen x Bayern de Munique - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417174500 -0300" stop="20180417181500 -0300" channel="ESPN HD">
+    <title lang="pt">Show da Rodada do Campeonato Alemão</title>
+    <desc lang="pt">Fique por dentro dos principais momentos da rodada da Bundesliga, o Campeonato Alemão de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas estão aqui(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417181500 -0300" stop="20180417184500 -0300" channel="ESPN HD">
+    <title lang="pt">Destino Rússia: Portugal e Irã</title>
+    <desc lang="pt">Programas especiais com o raio-x completo das 32 seleções que vão participar da Copa na Rússia(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417184500 -0300" stop="20180417191500 -0300" channel="ESPN HD">
+    <title lang="pt">Destino Rússia: Espanha e Marrocos</title>
+    <desc lang="pt">Programas especiais com o raio-x completo das 32 seleções que vão participar da Copa na Rússia(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417191500 -0300" stop="20180417193000 -0300" channel="ESPN HD">
+    <title lang="pt">NBA Countdown</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180417193000 -0300" stop="20180417193500 -0300" channel="ESPN HD">
+    <title lang="pt">Abre o Jogo: Compacto Nfl: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20180417193500 -0300" stop="20180417203000 -0300" channel="ESPN HD">
+    <title lang="pt">Compacto NFL: Jacksonville Jaguars x Pittsburgh Steelers</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20180417203000 -0300" stop="20180417230000 -0300" channel="ESPN HD">
+    <title lang="pt">NHL: Washington Capitals x Columbus Blue Jackets - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20180417230000 -0300" stop="20180417233000 -0300" channel="ESPN HD">
+    <title lang="pt">NBA: Abre o Jogo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180417233000 -0300" stop="20180418020000 -0300" channel="ESPN HD">
+    <title lang="pt">NBA: New Orleans Pelicans x Portland Trail Blazers - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180418020000 -0300" stop="20180418041500 -0300" channel="ESPN HD">
+    <title lang="pt">MLB: Cleveland Indians x Minnesota Twins</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Beisebol</category>
+  </programme>
+  <programme start="20180418041500 -0300" stop="20180418060000 -0300" channel="ESPN HD">
+    <title lang="pt">Bayer Leverkusen x Bayern de Munique</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418060000 -0300" stop="20180418070000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418070000 -0300" stop="20180418080000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418080000 -0300" stop="20180418090000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418090000 -0300" stop="20180418111000 -0300" channel="ESPN HD">
+    <title lang="pt">NBA: New Orleans Pelicans x Portland Trail Blazers</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180418111000 -0300" stop="20180418125500 -0300" channel="ESPN HD">
+    <title lang="pt">Celta x Barcelona</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418125500 -0300" stop="20180418150000 -0300" channel="ESPN HD">
+    <title lang="pt">Benevento x Atalanta - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418150000 -0300" stop="20180418153500 -0300" channel="ESPN HD">
+    <title lang="pt">Abre o Jogo: Campeonato Italiano - Vivo</title>
+    <desc lang="pt">O "Abre o Jogo" abre a transmissão dos eventos ao vivo nos canais ESPN. Reportagens especiais, as últimas notícias e as informações atualizadas do torneio que virá a seguir(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418153500 -0300" stop="20180418174500 -0300" channel="ESPN HD">
+    <title lang="pt">Crotone x Juventus - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418174500 -0300" stop="20180418194500 -0300" channel="ESPN HD">
+    <title lang="pt">FIFA Filmes: Alemanha 2006 - The Story Of The 2006 Fifa World Cup</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418194500 -0300" stop="20180418200000 -0300" channel="ESPN HD">
+    <title lang="pt">NBA: Abre o Jogo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180418200000 -0300" stop="20180418223000 -0300" channel="ESPN HD">
+    <title lang="pt">NBA: Indiana Pacers x Cleveland Cavaliers - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180418223000 -0300" stop="20180418230000 -0300" channel="ESPN HD">
+    <title lang="pt">Último Trem Para a Rússia E5</title>
+    <desc lang="pt">Série original da ESPN: Último Trem para Rússia: De São Petesburgo à Sibéria, a Rússia - maior país do mundo- pode ser atravessada inteira pelos trens da linha Trans-Siberiana(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418230000 -0300" stop="20180418233000 -0300" channel="ESPN HD">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais, dicas e dribles de FIFA, PES, NBA2k e Madden você encontra no Multiplayer(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418233000 -0300" stop="20180419004500 -0300" channel="ESPN HD">
+    <title lang="pt">EA Sports Madden NFL 18 Ultimate League</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20180417000000 -0300" stop="20180417010000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Espn League</title>
+    <desc lang="pt">Um mosaico do que acontece no esporte em todo o mundo. Os fatos mais importantes, gols, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada, opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417010000 -0300" stop="20180417020000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O emblemático telejornal da ESPN fornece a mais profunda e divertida apresentação das notícias esportivas da noite anterior e do dia atual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417020000 -0300" stop="20180417030000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O emblemático telejornal da ESPN fornece a mais profunda e divertida apresentação das notícias esportivas da noite anterior e do dia atual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417030000 -0300" stop="20180417053000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Boliche Universitário</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Boliche</category>
+  </programme>
+  <programme start="20180417053000 -0300" stop="20180417080000 -0300" channel="ESPN +  HD">
+    <title lang="pt">NHL: Tampa Bay Lightning x New Jersey Devils</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20180417080000 -0300" stop="20180417100000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Benfica x Porto</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417100000 -0300" stop="20180417110000 -0300" channel="ESPN +  HD">
+    <title lang="pt">ESPN AGORA</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417110000 -0300" stop="20180417130000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417130000 -0300" stop="20180417133000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417133000 -0300" stop="20180417143000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Espn League</title>
+    <desc lang="pt">Um mosaico do que acontece no esporte em todo o mundo. Os fatos mais importantes, gols, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada, opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417143000 -0300" stop="20180417153500 -0300" channel="ESPN +  HD">
+    <title lang="pt">Sportscenter: 1ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417153500 -0300" stop="20180417174500 -0300" channel="ESPN +  HD">
+    <title lang="pt">Brighton x Tottenham - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417174500 -0300" stop="20180417180000 -0300" channel="ESPN +  HD">
+    <title lang="pt">NBA Countdown</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180417180000 -0300" stop="20180417183000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Último Trem Para a Rússia E5</title>
+    <desc lang="pt">Série original da ESPN: Último Trem para Rússia: De São Petesburgo à Sibéria, a Rússia - maior país do mundo- pode ser atravessada inteira pelos trens da linha Trans-Siberiana(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417183000 -0300" stop="20180417190000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Matchmaking</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417190000 -0300" stop="20180417200000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Destaques da UEFA Europa League</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417200000 -0300" stop="20180417230000 -0300" channel="ESPN +  HD">
+    <title lang="pt">MLB: Cleveland Indians x Minnesota Twins - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Beisebol</category>
+  </programme>
+  <programme start="20180417230000 -0300" stop="20180418010000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Deportivo La Coruña x Sevilla</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418010000 -0300" stop="20180418020000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O emblemático telejornal da ESPN fornece a mais profunda e divertida apresentação das notícias esportivas da noite anterior e do dia atual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418020000 -0300" stop="20180418030000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O emblemático telejornal da ESPN fornece a mais profunda e divertida apresentação das notícias esportivas da noite anterior e do dia atual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418030000 -0300" stop="20180418040000 -0300" channel="ESPN +  HD">
+    <title lang="pt">WSBK: Mundial de Superbikes: Aragón, Espanha</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20180418040000 -0300" stop="20180418050000 -0300" channel="ESPN +  HD">
+    <title lang="pt">WSBK: Mundial de Superbikes: Aragón, Espanha</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20180418050000 -0300" stop="20180418072500 -0300" channel="ESPN +  HD">
+    <title lang="pt">NBA: New Orleans Pelicans x Portland Trail Blazers</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180418072500 -0300" stop="20180418091000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Brighton x Tottenham</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418091000 -0300" stop="20180418114000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Ciclismo: La Fleche Wallonne - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+  </programme>
+  <programme start="20180418114000 -0300" stop="20180418120500 -0300" channel="ESPN +  HD">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais, dicas e dribles de FIFA, PES, NBA2k e Madden você encontra no Multiplayer(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418120500 -0300" stop="20180418133000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Bola da Vez Nordeste: Falcão, o Rei do Brega</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418133000 -0300" stop="20180418142500 -0300" channel="ESPN +  HD">
+    <title lang="pt">WSBK: Mundial de Superbikes: Aragón, Espanha</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20180418142500 -0300" stop="20180418163000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Valencia x Getafe - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418163000 -0300" stop="20180418180000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Bola da Vez: Alex</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Toda terça, às 21h30, na ESPN Brasil, sob o comando de João Carlos Albuquerque(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418180000 -0300" stop="20180418200000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Celta x Barcelona</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418200000 -0300" stop="20180418220000 -0300" channel="ESPN +  HD">
+    <title lang="pt">Campeonato Italiano de Vôlei Feminino</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei</category>
+  </programme>
+  <programme start="20180418220000 -0300" stop="20180418230000 -0300" channel="ESPN +  HD">
+    <title lang="pt">WSBK: Mundial de Superbikes: Aragón, Espanha</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20180418230000 -0300" stop="20180419010000 -0300" channel="ESPN +  HD">
+    <title lang="pt">ESPN Filmes Especial: O.j - Made In America E3</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417000000 -0300" stop="20180417010000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417010000 -0300" stop="20180417030000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417030000 -0300" stop="20180417040000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417040000 -0300" stop="20180417043000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417043000 -0300" stop="20180417050000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Credencial ESPN: Celso Unzelte</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417050000 -0300" stop="20180417070000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Barcelona x Valencia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417070000 -0300" stop="20180417090000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417090000 -0300" stop="20180417100000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417100000 -0300" stop="20180417115500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bate-Bola Bom Dia - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417115500 -0300" stop="20180417125500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 1ª Edição - Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417125500 -0300" stop="20180417154500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417154500 -0300" stop="20180417180000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Celta x Barcelona - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417180000 -0300" stop="20180417183000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417183000 -0300" stop="20180417203000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417203000 -0300" stop="20180417213000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Brasileirão ESPN - Vivo</title>
+    <desc lang="pt">Tudo sobre o campeonato brasileiro, em três edições: na sexta, uma prévia da rodada. No domingo, os gols e os melhores momentos de todas as partidas. E na segunda, uma edição compacta, logo após o bate-bola 2ª edição!(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417213000 -0300" stop="20180417230000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bola da Vez: Alex</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Toda terça, às 21h30, na ESPN Brasil, sob o comando de João Carlos Albuquerque(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417230000 -0300" stop="20180418000000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418000000 -0300" stop="20180418003000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Último Trem Para a Rússia E5</title>
+    <desc lang="pt">Série original da ESPN: Último Trem para Rússia: De São Petesburgo à Sibéria, a Rússia - maior país do mundo- pode ser atravessada inteira pelos trens da linha Trans-Siberiana(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418003000 -0300" stop="20180418020000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bola da Vez: Alex</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Toda terça, às 21h30, na ESPN Brasil, sob o comando de João Carlos Albuquerque(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418020000 -0300" stop="20180418030000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418030000 -0300" stop="20180418050000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">PSG x Monaco</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418050000 -0300" stop="20180418070000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bayern De Munique x Borussia M'gladbach</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418070000 -0300" stop="20180418073000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Último Trem Para a Rússia E5</title>
+    <desc lang="pt">Série original da ESPN: Último Trem para Rússia: De São Petesburgo à Sibéria, a Rússia - maior país do mundo- pode ser atravessada inteira pelos trens da linha Trans-Siberiana(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418073000 -0300" stop="20180418090000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bola da Vez: Alex</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Toda terça, às 21h30, na ESPN Brasil, sob o comando de João Carlos Albuquerque(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418090000 -0300" stop="20180418100000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418100000 -0300" stop="20180418115500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bate-Bola Bom Dia - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418115500 -0300" stop="20180418125500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 1ª Edição - Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418125500 -0300" stop="20180418153500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418153500 -0300" stop="20180418174000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bournemouth x Manchester United - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418174000 -0300" stop="20180418181500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418181500 -0300" stop="20180418204500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418204500 -0300" stop="20180418214500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 2ª Edição - Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418214500 -0300" stop="20180418231500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Domingo é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418231500 -0300" stop="20180418234000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Celta x Barcelona</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418234000 -0300" stop="20180419004000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417003000 -0300" stop="20180417013000 -0300" channel="FOX Sports HD">
+    <title lang="pt">FOX Nitro</title>
+    <desc lang="pt">Fox Nitro aborda o que mais importante acontece no mundo do automobilismo. Nascar, Fórmula E, WRC, WEC, Fórmula 1, nada é esquecido(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417013000 -0300" stop="20180417023000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <desc lang="pt">Os gols, os melhores lances e o resumo da Bundesliga está no Show do Campeonato Alemão. Acompanhe semanalmente e fique por dentro de tudo o que acontece na competição(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417023000 -0300" stop="20180417043000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Jogo Sagrado</title>
+    <desc lang="pt">Liderado por Benjamin Back, novo programa que mistura esporte e humor, contará ainda com a participação do radialista e comediante stand up Rudy Landucci para reforçar a equipe do programa(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417043000 -0300" stop="20180417050000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Visão Fox</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180417050000 -0300" stop="20180417053000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Show da UEFA Europa League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417053000 -0300" stop="20180417063000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <desc lang="pt">Os gols, os melhores lances e o resumo da Bundesliga está no Show do Campeonato Alemão. Acompanhe semanalmente e fique por dentro de tudo o que acontece na competição(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417063000 -0300" stop="20180417070000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Jogo Sagrado</title>
+    <desc lang="pt">Liderado por Benjamin Back, novo programa que mistura esporte e humor, contará ainda com a participação do radialista e comediante stand up Rudy Landucci para reforçar a equipe do programa(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417070000 -0300" stop="20180417083000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Jogo Sagrado</title>
+    <desc lang="pt">Liderado por Benjamin Back, novo programa que mistura esporte e humor, contará ainda com a participação do radialista e comediante stand up Rudy Landucci para reforçar a equipe do programa(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417083000 -0300" stop="20180417090000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417090000 -0300" stop="20180417120000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417120000 -0300" stop="20180417124500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417124500 -0300" stop="20180417153000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <desc lang="pt">Bom humor, opinião eentrevistas exclusivas são as marcas do "Fox Sports Rádio". Benjamin Back, Fábio Sormani, Osvaldo Pascoal, Flávio Gomes e Mauricio Borges, o Mano, debatem sobre tudo o que acontece no mundo dos esportes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417153000 -0300" stop="20180417173000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Boa Tarde Fox - Vivo</title>
+    <desc lang="pt">Nivaldo Prieto e Helena Calil comandam o "Boa Tarde Fox", que conta também com a opinião de Gustavo Ribeirão. Repercutindo ao vivo as principais notícias do dia, entrevistas exclusivas e análises(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417173000 -0300" stop="20180417191000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <desc lang="pt">O nosso  ´happy hour ´do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417191000 -0300" stop="20180417211500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Defensor (URU) X Monagas - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417211500 -0300" stop="20180417212500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417212500 -0300" stop="20180417233000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Cerro Porteño x Grêmio - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417233000 -0300" stop="20180418003000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418003000 -0300" stop="20180418021500 -0300" channel="FOX Sports HD">
+    <title lang="pt">VT - Cerro Porteño x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418021500 -0300" stop="20180418040000 -0300" channel="FOX Sports HD">
+    <title lang="pt">VT - Defensor (URU) X Monagas</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418040000 -0300" stop="20180418041500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418041500 -0300" stop="20180418051500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <desc lang="pt">Os gols, os melhores lances e o resumo da Bundesliga está no Show do Campeonato Alemão. Acompanhe semanalmente e fique por dentro de tudo o que acontece na competição(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418051500 -0300" stop="20180418070000 -0300" channel="FOX Sports HD">
+    <title lang="pt">VT - Cerro Porteño x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418070000 -0300" stop="20180418073000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418073000 -0300" stop="20180418074500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418074500 -0300" stop="20180418084500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Aqui Com Benja</title>
+    <desc lang="pt">Benjamin Back recebe personalidades do mundo esportivo para um papo descontraído e revelador(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20180418084500 -0300" stop="20180418090000 -0300" channel="FOX Sports HD">
+    <title lang="pt">VT - Cerro Porteño x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418090000 -0300" stop="20180418120000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418120000 -0300" stop="20180418124500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418124500 -0300" stop="20180418154500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <desc lang="pt">Bom humor, opinião eentrevistas exclusivas são as marcas do "Fox Sports Rádio". Benjamin Back, Fábio Sormani, Osvaldo Pascoal, Flávio Gomes e Mauricio Borges, o Mano, debatem sobre tudo o que acontece no mundo dos esportes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418154500 -0300" stop="20180418160000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418160000 -0300" stop="20180418180000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Caen x Paris Saint Germain - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418180000 -0300" stop="20180418193000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Expediente Futebol</title>
+    <desc lang="pt">O nosso  ´happy hour ´do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418193000 -0300" stop="20180418213000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Goiás x Avaí - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418213000 -0300" stop="20180418214500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418214500 -0300" stop="20180418234500 -0300" channel="FOX Sports HD">
+    <title lang="pt">Flamengo x Indep Santa Fé - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418234500 -0300" stop="20180419013000 -0300" channel="FOX Sports HD">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417000000 -0300" stop="20180417014500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Independiente x Boca Juniors</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417014500 -0300" stop="20180417033000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Lazio x Roma</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417033000 -0300" stop="20180417043000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">FOX Nitro</title>
+    <desc lang="pt">Fox Nitro aborda o que mais importante acontece no mundo do automobilismo. Nascar, Fórmula E, WRC, WEC, Fórmula 1, nada é esquecido(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417043000 -0300" stop="20180417061500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - River Plate x Rosario Central</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417061500 -0300" stop="20180417063000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417063000 -0300" stop="20180417070000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Show da UEFA Europa League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417070000 -0300" stop="20180417073000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417073000 -0300" stop="20180417083000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">FOX Nitro</title>
+    <desc lang="pt">Fox Nitro aborda o que mais importante acontece no mundo do automobilismo. Nascar, Fórmula E, WRC, WEC, Fórmula 1, nada é esquecido(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180417083000 -0300" stop="20180417101500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Málaga x Real Madrid</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417101500 -0300" stop="20180417111500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <desc lang="pt">Os gols, os melhores lances e o resumo da Bundesliga está no Show do Campeonato Alemão. Acompanhe semanalmente e fique por dentro de tudo o que acontece na competição(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417111500 -0300" stop="20180417113000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417113000 -0300" stop="20180417131500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Independiente x Boca Juniors</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417131500 -0300" stop="20180417134500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Show da UEFA Europa League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417134500 -0300" stop="20180417153000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Barcelona x Valencia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417153000 -0300" stop="20180417154000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417154000 -0300" stop="20180417174500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Inter x Cagliari - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417174500 -0300" stop="20180417193000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Les Herbiers x Chambly</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417193000 -0300" stop="20180417194000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417194000 -0300" stop="20180417201000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Show da UEFA Europa League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417201000 -0300" stop="20180417210000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">WWE NXT</title>
+    <desc lang="pt">WWE NXT é um programa de wrestling produzido pela World Wrestling Entertainment (WWE). Conta com jovens lutadores do território de desenvolvimento da WWE e profissionais(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20180417210000 -0300" stop="20180417211000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180417211000 -0300" stop="20180417231500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Toronto FC X Chivas Guadalajara - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180417231500 -0300" stop="20180418010000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Celta x Barcelona</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418010000 -0300" stop="20180418024500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Inter x Cagliari</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418024500 -0300" stop="20180418043000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Toronto FC X Chivas Guadalajara</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418043000 -0300" stop="20180418050000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Show da UEFA Europa League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418050000 -0300" stop="20180418051500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418051500 -0300" stop="20180418070000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Celta x Barcelona</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418070000 -0300" stop="20180418080000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">WWE NXT</title>
+    <desc lang="pt">WWE NXT é um programa de wrestling produzido pela World Wrestling Entertainment (WWE). Conta com jovens lutadores do território de desenvolvimento da WWE e profissionais(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20180418080000 -0300" stop="20180418083000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418083000 -0300" stop="20180418093000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <desc lang="pt">Os gols, os melhores lances e o resumo da Bundesliga está no Show do Campeonato Alemão. Acompanhe semanalmente e fique por dentro de tudo o que acontece na competição(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418093000 -0300" stop="20180418094500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418094500 -0300" stop="20180418113000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Cerro Porteño x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418113000 -0300" stop="20180418120000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">MXGP Portugal</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20180418120000 -0300" stop="20180418130000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">FOX Nitro</title>
+    <desc lang="pt">Fox Nitro aborda o que mais importante acontece no mundo do automobilismo. Nascar, Fórmula E, WRC, WEC, Fórmula 1, nada é esquecido(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418130000 -0300" stop="20180418140000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">WWE Vintage</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180418140000 -0300" stop="20180418143000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Show da UEFA Europa League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418143000 -0300" stop="20180418161500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Celta x Barcelona</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418161500 -0300" stop="20180418163000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418163000 -0300" stop="20180418183000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Real Madrid x Athletic Bilbao - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418183000 -0300" stop="20180418190000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Show da UEFA Europa League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418190000 -0300" stop="20180418191500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418191500 -0300" stop="20180418211500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Strongest x Atl. Tucumán - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418211500 -0300" stop="20180418214500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418214500 -0300" stop="20180418234500 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">Ferroviário x Atlético MG - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418234500 -0300" stop="20180419013000 -0300" channel="FOX Sports 2 HD">
+    <title lang="pt">VT - Napoli x Udinese</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
   </programme>
 </tv>
