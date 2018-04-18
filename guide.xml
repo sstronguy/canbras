@@ -1816,7 +1816,7 @@
     <category lang="pt">Esporte</category>
     <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20180418043000 +0200" stop="20180418070500 +0200" channel="Movistar Deportes 1">
+  <programme start="20180418043000 -0300" stop="20180418070500 -0300" channel="Movistar Deportes 1">
     <title lang="es">NBA</title>
     <sub-title lang="es">Philadelphia 76ers-Miami Heat</sub-title>
     <desc lang="es">Ver ficha de NBA(n)</desc>
@@ -1830,7 +1830,7 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180418070500 +0200" stop="20180418080000 +0200" channel="Movistar Deportes 1">
+  <programme start="20180418070500 -0300" stop="20180418080000 -0300" channel="Movistar Deportes 1">
     <title lang="es">Nascar Sprint Cup Series</title>
     <sub-title lang="es">Bristol</sub-title>
     <desc lang="es">Ver ficha de Nascar Sprint Cup Series(n)</desc>
@@ -1845,7 +1845,7 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180418080000 +0200" stop="20180418100000 +0200" channel="Movistar Deportes 1">
+  <programme start="20180418080000 -0300" stop="20180418100000 -0300" channel="Movistar Deportes 1">
     <title lang="es">Euroliga</title>
     <sub-title lang="es">Panathinaikos-Real Madrid</sub-title>
     <desc lang="es">Ver ficha de Euroliga(n)</desc>
@@ -1860,7 +1860,7 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180418100000 +0200" stop="20180418103000 +0200" channel="Movistar Deportes 1">
+  <programme start="20180418100000 -0300" stop="20180418103000 -0300" channel="Movistar Deportes 1">
     <title lang="es">Los especialistas del balonmano</title>
     <sub-title lang="es">&lt;a href="https://sincroguia.tv/deportes/deportes" title="Ver más"&gt;Deportes &lt;/a&gt;</sub-title>
     <desc lang="es">Ver ficha de Los especialistas del balonmano(n)</desc>
@@ -1876,7 +1876,7 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180418103000 +0200" stop="20180418110000 +0200" channel="Movistar Deportes 1">
+  <programme start="20180418103000 -0300" stop="20180418110000 -0300" channel="Movistar Deportes 1">
     <title lang="es">The Insider Euroleague Series</title>
     <sub-title lang="es">Luigi Datome</sub-title>
     <desc lang="es">Los mejores documentales de la Euroliga: una visión única de los iconos de la máxima competición europea de baloncesto. El espacio da voz a los protagonistas y cuenta historias cautivadoras en uno de los niveles más altos del deporte(n)</desc>
@@ -1891,7 +1891,7 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180418044500 +0200" stop="20180418070000 +0200" channel="Movistar Deportes 2">
+  <programme start="20180418044500 -0300" stop="20180418070000 -0300" channel="Movistar Deportes 2">
     <title lang="es">ATP: Montecarlo</title>
     <sub-title lang="es">&lt;a href="https://sincroguia.tv/deportes/deportes-tenis" title="Ver más"&gt;Tenis &lt;/a&gt;</sub-title>
     <desc lang="es">El torneo de Montecarlo es uno de los más prestigiosos del calendario ATP. Un Masters donde Rafa Nadal se siente como pez en el agua, ya que se ha impuesto en diez ocasiones en la tierra batida del principado. Djokovic, Cilic o Dimitrov intentarán evitar la undécima(n)</desc>
@@ -1905,7 +1905,7 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180418070000 +0200" stop="20180418073000 +0200" channel="Movistar Deportes 2">
+  <programme start="20180418070000 -0300" stop="20180418073000 -0300" channel="Movistar Deportes 2">
     <title lang="es">Inside Stuff</title>
     <sub-title lang="es">&lt;a href="https://sincroguia.tv/deportes/deportes" title="Ver más"&gt;Deportes &lt;/a&gt;</sub-title>
     <desc lang="es">Ver ficha de Inside Stuff(n)</desc>
@@ -1920,7 +1920,7 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180418073000 +0200" stop="20180418080000 +0200" channel="Movistar Deportes 2">
+  <programme start="20180418073000 -0300" stop="20180418080000 -0300" channel="Movistar Deportes 2">
     <title lang="es">Los especialistas del balonmano</title>
     <sub-title lang="es">&lt;a href="https://sincroguia.tv/deportes/deportes" title="Ver más"&gt;Deportes &lt;/a&gt;</sub-title>
     <desc lang="es">Ver ficha de Los especialistas del balonmano(n)</desc>
@@ -1936,7 +1936,7 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180418080000 +0200" stop="20180418110000 +0200" channel="Movistar Deportes 2">
+  <programme start="20180418080000 -0300" stop="20180418110000 -0300" channel="Movistar Deportes 2">
     <title lang="es">ATP: Montecarlo</title>
     <sub-title lang="es">&lt;a href="https://sincroguia.tv/deportes/deportes-tenis" title="Ver más"&gt;Tenis &lt;/a&gt;</sub-title>
     <desc lang="es">El torneo de Montecarlo es uno de los más prestigiosos del calendario ATP. Un Masters donde Rafa Nadal se siente como pez en el agua, ya que se ha impuesto en diez ocasiones en la tierra batida del principado. Djokovic, Cilic o Dimitrov intentarán evitar la undécima(n)</desc>
@@ -1950,7 +1950,7 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180418110000 +0200" stop="20180418131500 +0200" channel="Movistar Deportes 2">
+  <programme start="20180418110000 -0300" stop="20180418131500 -0300" channel="Movistar Deportes 2">
     <title lang="es">ATP: Montecarlo</title>
     <sub-title lang="es">&lt;a href="https://sincroguia.tv/deportes/deportes-tenis" title="Ver más"&gt;Tenis &lt;/a&gt;</sub-title>
     <desc lang="es">El torneo de Montecarlo es uno de los más prestigiosos del calendario ATP. Un Masters donde Rafa Nadal se siente como pez en el agua, ya que se ha impuesto en diez ocasiones en la tierra batida del principado. Djokovic, Cilic o Dimitrov intentarán evitar la undécima(n)</desc>
