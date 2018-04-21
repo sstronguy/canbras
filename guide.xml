@@ -10,6 +10,46 @@
     <icon src="http://www.lineup.tv.br/canais/telecineaction.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
+  <channel id="Telecine Touch HD">
+    <display-name lang="pt">Telecine Touch HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telecinetouch.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="pt">Telecine Fun HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telecinefun.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telecinepipoca.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telecine Cult HD">
+    <display-name lang="pt">Telecine Cult HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telecinecult.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/hbo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/hbo2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="HBO Family HD">
+    <display-name lang="pt">HBO Family HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/hbofamily.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/hboplus.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <channel id="Band HD">
     <display-name lang="pt">Band HD</display-name>
     <icon src="http://www.lineup.tv.br/canais/band.gif" />
@@ -496,6 +536,1725 @@
     <title lang="pt">Amanhecer Violento</title>
     <desc lang="pt">Parecia um dia como outro qualquer, até que a população de uma cidade americana acorda sendo invadida pela Coreia do Norte. Alguns jovens conseguem se refugiar na floresta, formam um grupo(n)</desc>
     <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421014500 -0300" stop="20180421042500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Ray</title>
+    <desc lang="pt">Cinebiografia de Ray Charles, músico negro americano que ficou cego aos 7 anos de idade e superou vários obstáculos para se tornar um ídolo internacional na década de 60. O filme aborda também seus problemas com drogas e mulheres(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421042500 -0300" stop="20180421061500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Sem Direito a Resgate</title>
+    <desc lang="pt">"Mickey Dawson é sequestrada e seu rico marido, que está com a amante se recusa a pagar o resgate exigido pelos criminosos."(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421061500 -0300" stop="20180421081500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Roteiro de Casamento</title>
+    <desc lang="pt">"Uma atriz iniciante, namorada do diretor do filme no qual está trabalhando, acaba se apaixonando por outro homem. No entanto, o problema é que sua nova paixão não é uma pessoa real: é o personagem que é o protagonista do filme."(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20180421081500 -0300" stop="20180421102000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Grandes Esperanças</title>
+    <desc lang="pt">Jovem artista de origem humilde vê seus sonhos serem realizados por misterioso patrocinador. Baseado no livro de Charles Dickens(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421102000 -0300" stop="20180421122500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Um Pouco de Caos</title>
+    <desc lang="pt">O Rei Luís XIV incumbe o famoso arquiteto André Le Notre de projetar os jardins do Palácio de Versalhes. Ele contrata a bela e arrojada paisagista Sabine de Barra para auxiliá-lo, dona de um estilo oposto ao seu(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180421122500 -0300" stop="20180421142500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Um Conto Quase de Fadas</title>
+    <desc lang="pt">Esteticista de Nova Iorque vai trabalhar como tutora dos filhos do ditador de uma república, gerando muitas confusões na vida da família(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421142500 -0300" stop="20180421161000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Madrugada a Dois</title>
+    <desc lang="pt">Depois de uma noite divertida com Madeline, Kevin descobre que ela é ex-amante do seu chefe e que foi abandonada por ele. Deprimida, ela toma muitos comprimidos e agora Kevin precisa mantê-la acordada(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421161000 -0300" stop="20180421180500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Negócio das Arábias</title>
+    <desc lang="pt">Durante a recessão nos Estados Unidos, um homem de negócios falido procura recuperar suas perdas financeiras viajando para a Arábia Saudita, a fim de vender sua ideia "genial" para um monarca(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421180500 -0300" stop="20180421200500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">O Grande Milagre</title>
+    <desc lang="pt">Em plena Guerra Fria, uma ativista do Greenpeace e um repórter voltam seus olhos para outro tipo de problema: uma família de baleias que está presa sob o gelo do Ártico(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Inglaterra/EUA</country>
+  </programme>
+  <programme start="20180421200500 -0300" stop="20180421220000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Alguém como Você</title>
+    <desc lang="pt">Mulher desenvolve teoria de que os homens se comportam como animais nas conquistas, ao mesmo tempo que divide atenção por dois rapazes(n)</desc>
+    <date>2001</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180422011500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Pearl Harbor</title>
+    <desc lang="pt">Um épico de patriotismo americano, guerra e paixão. O filme focaliza o impacto devastador da guerra em dois jovens pilotos e uma bela enfermeira em 1941(n)</desc>
+    <date>2001</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422011500 -0300" stop="20180422031000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Cartas para Julieta</title>
+    <desc lang="pt">Sophie vai à Verona, Itália, e descobre uma carta antiga não respondida pelas secretárias de Julieta. Ela entra em contato com a dona da carta e logo começam uma busca ao amor perdido do passado(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422031000 -0300" stop="20180422051000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Música e Rebeldia</title>
+    <desc lang="pt">Nos anos 1960, em Nova Jersey, um grupo de amigos liderados por Doug e Joe começa uma banda de rock. Conforme o sucesso aumenta, Doug é pressionado por seu pai que acredita que música não dá futuro(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422051000 -0300" stop="20180422070500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">#garotas: O Filme</title>
+    <desc lang="pt">As amigas Beth, Milena e Carina vivem sem regras, onde o lance é aproveitar cada instante, com tudo que a vida oferece. Sempre com uma bebida numa mão e um cigarro na outra, as três colocam a amizade à prova na noite de ano novo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422070500 -0300" stop="20180422084500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Cão Vermelho</title>
+    <desc lang="pt">Baseado em fatos reais, o filme conta a história de um cão que cruza os desertos da Austrália em busca de seu dono, um motorista de ônibus já falecido. Por onde passa, o cão vermelho toca os corações de quem encontra(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA/Austrália</country>
+  </programme>
+  <programme start="20180422084500 -0300" stop="20180422104000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Amor Impossível</title>
+    <desc lang="pt">Harriet é representante de um sheik que quer introduzir a pesca de salmão no Iêmen. Para isso, ela procura o Dr. Alfred que não acredita no projeto, mas é obrigado a tentar torná-lo realidade(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180422104000 -0300" stop="20180422123000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Encalhados</title>
+    <desc lang="pt">Quando uma jovem mulher irresponsável e imatura (Keira Knightley) recebe um pedido de casamento de seu namorado, ela entra em crise(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422123000 -0300" stop="20180422141500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Um Encontro com Seu Ídolo!</title>
+    <desc lang="pt">Imagine encontrar seu ídolo do cinema e ele acabar idealizando você. É o que acontece uma garota interiorana e apaixonada por astros, que ganha um encontro com o galã Tad Hamilton(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422141500 -0300" stop="20180422161000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">De Repente Ela</title>
+    <desc lang="pt">Sam é um cara muito mulherengo. Após uma noitada, ele recebe uma bebida misteriosa e acorda no corpo de uma mulher(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422161000 -0300" stop="20180422180500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Mundos Opostos</title>
+    <desc lang="pt">Adam e Eden se apaixonam ainda adolescentes. Eles vivem em planetas com forças gravitacionais opostas e são brutalmente afastados. Dez anos depois, Adam descobre que ela está trabalhando num prédio que conecta os dois planetas(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country>Canadá/França</country>
+  </programme>
+  <programme start="20180422180500 -0300" stop="20180422200000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Honey 3: No Ritmo do Amor</title>
+    <desc lang="pt">Na Cidade Do Cabo, Melea é uma estudante americana de dança. Incapaz de continuar a pagar seus estudos, ela é obrigada a largar a faculdade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422220000 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Enquanto Você Dormia</title>
+    <desc lang="pt">Atrás de um guichê do metrô, Lucy leva uma vida solitária. Sua grande alegria é ver o charmoso advogado Peter passar sempre apressado pela roleta(n)</desc>
+    <date>1995</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180423000500 -0300" channel="Telecine Touch HD">
+    <title lang="pt">Para o Que Der e Vier</title>
+    <desc lang="pt">Dois amigos vivem a vida de forma irresponsável. Mas essa rotina se transforma quando o pai de um deles morre, deixando grande parte de sua herança para o filho(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421013000 -0300" stop="20180421034000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Duelo de Dinastias</title>
+    <desc lang="pt">Após se tornar discípulo de um grande feiticeiro, um órfão parte na busca da conquista do seu espaço no mundo mágico(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>China/Camboja</country>
+  </programme>
+  <programme start="20180421034000 -0300" stop="20180421054000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Ela é Demais Pra Mim</title>
+    <desc lang="pt">Adolescente conhece uma garota e pensa ser ela a mulher de sua vida. Mas sua falta de autoconfiança e a influência dos amigos e da família podem colocar tudo a perder neste novo relacionamento(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421054000 -0300" stop="20180421071000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Marvel Aventuras dos Super-Heróis</title>
+    <desc lang="pt">Loki e o gigante Ymir tentam roubar os poderes do Papai Noel com o objetivo de conquistar o mundo. Para impedir os planos malignos dos vilões, os heróis da Marvel se unem para combatê-los(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421071000 -0300" stop="20180421091000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">A Incrível Jornada de Chris Fable</title>
+    <desc lang="pt">Chris é um menino sem rumo, quando um homem lhe diz que seu pai está vivo, ele tem que decidir entre continuar preso ao mundo da marginalidade ou lutar para encontrar sua família e conquistar uma vida melhor(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421091000 -0300" stop="20180421103500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Hannah Montana &amp; Miley Cyrus - Show: O Melhor dos Dois Mundos</title>
+    <desc lang="pt">Os fãs de Hanna Montana verão sua cantora e atriz favorita, Miley Cyrus, em um incrível concerto. Acompanhe os melhores momentos de sua tournée por 69 cidades e divirta-se com a música desta talentosa garota(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421103500 -0300" stop="20180421123500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Santo Homem</title>
+    <desc lang="pt">Executivo de um canal de compras está por um fio. Os índices de audiência e claro, de venda, são sofríveis. Sem falar na sua conta bancária(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421123500 -0300" stop="20180421143000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">O Pequeno Príncipe</title>
+    <desc lang="pt">Uma pequena garota é criada por uma mãe extremamente controladora. Quando seu vizinho aviador introduz a menina à história do Pequeno Príncipe, ela embarca em uma aventura de descobertas através de sua imaginação(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180421143000 -0300" stop="20180421162000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Ponte para Terabítia</title>
+    <desc lang="pt">Jess e Leslie tornam-se grandes amigos e juntos, criam o reino secreto de Terabítia, um lugar mágico e com muitas aventuras(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421162000 -0300" stop="20180421182000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Loucas pra Casar</title>
+    <desc lang="pt">Malu tem 40 anos e trabalha como secretária de Samuel, o homem de sua vida. Namorados há três anos, ela espera ansiosa pelo pedido de casamento(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421182000 -0300" stop="20180421200500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Doze é Demais 2</title>
+    <desc lang="pt">A família Baker está de volta em uma aventura maior ainda. O casal Tom e Kate dessa vez embarca com seus 12 filhos em uma viagem ao rústico Lago Winnetka, no que pode ser sua última viagem como uma família(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421200500 -0300" stop="20180421220000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">A Chefa</title>
+    <desc lang="pt">Michelle Darnell, uma tirana empresária de sucesso, é presa por uso de informações privilegiadas. Após cumprir pena, sem dinheiro e sem lar, ela acaba indo morar na casa de sua assistente, Claire(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180422000500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Mulheres ao Ataque</title>
+    <desc lang="pt">Quando descobre que seu namorado é casado, Carly procura a esposa dele, e as duas se unem para se vingar. Uma amizade inesperada surge entre elas, mas a situação piora quando descobrem que ele tem uma terceira pretendente(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422000500 -0300" stop="20180422015500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">American Pie: A Primeira Vez é Inesquecível</title>
+    <desc lang="pt">Quatro estudantes fazem um pacto para perderem a virgindade até o baile de formatura(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422015500 -0300" stop="20180422033500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Popstar: Sem Parar, Sem Limites</title>
+    <desc lang="pt">Conner, um popstar de sucesso, está lidando com o fracasso de seu novo disco. Com medo de perder seu status de celebridade e vendo sua carreira entrar em colapso, ele pretende fazer de tudo para se manter no topo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422033500 -0300" stop="20180422052500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Meu Vizinho Mafioso</title>
+    <desc lang="pt">Assassino acabou de sair da prisão e tem a cabeça a prêmio. Ele se muda para Montreal, porém seu novo vizinho acaba por descobrir sua real identidade(n)</desc>
+    <date>2000</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180422052500 -0300" stop="20180422074000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">A Revolta dos Brinquedos</title>
+    <desc lang="pt">O filho de um fabricante de brinquedos precisa lutar para manter seu espírito inocente, após a fábrica do pai passar para as mãos do tio inescrupuloso(n)</desc>
+    <date>1992</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422074000 -0300" stop="20180422092000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Legalmente Loiras</title>
+    <desc lang="pt">Quando Annie e Izzy se mudaram da Inglaterra para a Califórnia, elas acharam que suas habilidades sociais fariam com elas se integrassem imediatamente. Mas elas precisarão mostrar que nunca se deve subestimar o poder das loiras(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422092000 -0300" stop="20180422110000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Salvando o Natal</title>
+    <desc lang="pt">O pequeno Danny tenta provar que Papai Noel existe com toda sua inteligência. Para isso, ele reúne seu leal grupo de amigos em uma incrível aventura atrás do Bom Velhinho(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422110000 -0300" stop="20180422125500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Loucas por Amor, Viciadas em Dinheiro</title>
+    <desc lang="pt">Três funcionárias do Tesouro Federal Americano, armam plano para roubar uma enorme quantidade de dinheiro, prestes a ser destruída(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422125500 -0300" stop="20180422145500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Meu Passado Me Condena 2</title>
+    <desc lang="pt">A vida de casado de Fábio e Miá cai na rotina. Após Fábio esquecer o terceiro aniversário de casamento, Miá decide pedir um tempo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422145500 -0300" stop="20180422163000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Alexandre e o Dia Terrivel, Horrível, Espantoso e Horroroso</title>
+    <desc lang="pt">Alexander acha que tudo de pior só acontece com ele, enquanto sua família tem uma vida perfeita. Em seu aniversário, ele deseja que eles também experimentem ter um dia horrível(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422163000 -0300" stop="20180422181500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Legalmente Loira 2</title>
+    <desc lang="pt">A loira mais divertida das telas está de volta! Após abandonar sua carreira, Elle tem de conciliar o casamento e uma luta pelo direito dos animais!(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422181500 -0300" stop="20180422200000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">O Rei Leão</title>
+    <desc lang="pt">Mufasa, o Rei Leão, e a rainha Sarabi apresentam ao reino o herdeiro do trono, Simba. O recém-nascido recebe a bênção do sábio babuíno Rafiki, mas ao crescer é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa(n)</desc>
+    <date>1994</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422220000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Um Time Show de Bola</title>
+    <desc lang="pt">Juan José Campanella dirige esta genial animação. O jovem Amadeo é um jogador de totó imbatível, cuja vida sofre uma reviravolta quando os pequenos craques de ferro ganham vida e tentam ajudá-lo(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>Argentina / Espanha</country>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180423000500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Anjos da Lei</title>
+    <desc lang="pt">Rivais no colegial, Schmidt e Jenko se reencontram na academia de polícia. Em uma missão, os dois terão que voltar à antiga escola, disfarçados de alunos, para mapear a distribuição de uma nova droga sintética(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421002500 -0300" stop="20180421020000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Sereia Predadora</title>
+    <desc lang="pt">Jonah está comemorando sua despedida de solteiro. Mas a celebração logo se transforma em um pesadelo quando o clube noturno revela um segredo mortal(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421020000 -0300" stop="20180421040000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Imperium: Resistência Sem Líder</title>
+    <desc lang="pt">O agente do FBI Nate Foster trabalha infiltrado em um grupo de neonazistas americanos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421040000 -0300" stop="20180421055500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Confronto Final</title>
+    <desc lang="pt">Alexander tenta levar uma vida tranquila. Mas quando sua família fica na mira de um gângster russo, ele é arrastado para uma guerra total entre gangues rivais de chineses e russos(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421055500 -0300" stop="20180421082500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Snowden: Herói ou Traidor</title>
+    <desc lang="pt">Ex-funcionário terceirizado da Agência de Segurança dos EUA, Edward Snowden torna-se inimigo número um da nação ao divulgar a jornalistas uma série de documentos sigilosos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>França/Alemanha</country>
+  </programme>
+  <programme start="20180421082500 -0300" stop="20180421095500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Michelle e Obama</title>
+    <desc lang="pt">Em 1989, Barack Obama é calouro na faculdade de Direito de Harvard. Ele arruma um emprego temporário em um escritório de Chicago, ficando sob as ordens da jovem advogada Michelle(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421095500 -0300" stop="20180421115500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">A Liga Extraordinária</title>
+    <desc lang="pt">Final do século XIX, a rainha Vitória nomeia uma liga de figuras lendárias com extraordinários poderes para combater um perigoso inimigo(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA/ALE/TCH/GB</country>
+  </programme>
+  <programme start="20180421115500 -0300" stop="20180421140000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Fora do Rumo</title>
+    <desc lang="pt">Depois da morte de seu parceiro, o detetive Bennie Chan quer a todo custo provar o envolvimento do político Victor Wong com a máfia(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>China/Hong Kong/EUA</country>
+  </programme>
+  <programme start="20180421140000 -0300" stop="20180421160000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Um Namorado para Minha Mulher</title>
+    <desc lang="pt">Chico está cansado do seu relacionamento e das reclamações da esposa, Nena. Após 15 anos vivendo juntos, ele não tem coragem de perdir divórcio, então decide seguir o conselho dos amigos e contrata um amante para sua esposa, o sedutor Corvo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421160000 -0300" stop="20180421180000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Sing - Quem Canta Seus Males Espanta</title>
+    <desc lang="pt">Um empolgado coala chamado Buster decide criar uma competição de canto para aumentar os rendimentos de seu antigo teatro(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421180000 -0300" stop="20180421200000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">A Grande Muralha</title>
+    <desc lang="pt">No século XV, William e Tovar são dois mercenários em busca de "pó negro" (pólvora). Depois de escaparem do ataque de uma criatura misteriosa, eles se encontram, acidentalmente, aos pés da Grande Muralha(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA/China</country>
+  </programme>
+  <programme start="20180421200000 -0300" stop="20180421220000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+    <desc lang="pt">Moana é uma corajosa jovem, filha do chefe de uma tribo na Oceania(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180421235500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">A Vigilante do Amanhã: Ghost in the Shell</title>
+    <desc lang="pt">Em um mundo pós-2029, é bastante comum o aperfeiçoamento do corpo humano a partir de inserções tecnológicas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Índia/China</country>
+  </programme>
+  <programme start="20180421235500 -0300" stop="20180422021000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">O Bebê de Bridget Jones</title>
+    <desc lang="pt">Estável no emprego como produtora de TV, Bridget Jones continua solteira. Porém após dormir com o desconhecido e sedutor Jack e também com Mark, seu amor do passado, Bridget se encontra grávida e sem ter certeza de quem é o pai da criança(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA/Reino Unido</country>
+  </programme>
+  <programme start="20180422021000 -0300" stop="20180422034500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">O Rei das Armas</title>
+    <desc lang="pt">Rich é um traficante de armas de Detroit que está sendo procurado pela polícia ao mesmo tempo em que parece ter um informante dentro de seu grupo. Para sobreviver, ele terá que se esquivar de ambos(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422034500 -0300" stop="20180422052000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Sereia Predadora</title>
+    <desc lang="pt">Jonah está comemorando sua despedida de solteiro. Mas a celebração logo se transforma em um pesadelo quando o clube noturno revela um segredo mortal(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422052000 -0300" stop="20180422065500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Toque de Mestre</title>
+    <desc lang="pt">Antes da apresentação que marcará seu retorno, o pianista Tom Selznick encontra um bilhete aterrorizante em suas partituras. A ameaça feita é que Tom deve tocar perfeitamente a composição sem errar uma única vez(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>Espanha</country>
+  </programme>
+  <programme start="20180422065500 -0300" stop="20180422082500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Hulk: Onde os Monstros Habitam</title>
+    <desc lang="pt">O vilão Pesadelo planeja conquistar o mundo através dos sonhos, convertendo cada sonhador em um monstro. Para combatê-lo, Hulk vai contar com a ajuda do Doutor Estranho e de um esquadrão peculiar da S.H.I.E.L.D.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422082500 -0300" stop="20180422101500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Real: O Plano por Trás da História</title>
+    <desc lang="pt">Em 1993, a economia brasileira sofre com a hiperinflação. Gustavo Franco é um economista ambicioso que anseia por uma carreira além da vida acadêmica(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422101500 -0300" stop="20180422124000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Rogue One: Uma História Star Wars</title>
+    <desc lang="pt">Em busca de uma nova esperança para a galáxia, a Aliança Rebelde enfrenta uma arriscada missão: roubar os planos que revelam uma falha na construção da Estrela da Morte(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Reino Unido</country>
+  </programme>
+  <programme start="20180422124000 -0300" stop="20180422144000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">O Último Vice-Rei</title>
+    <desc lang="pt">Em 1947, o lorde Louis Mountbatten é nomeado como o novo vice-rei da Índia britânica. Ele vai para o país com sua esposa e sua filha, passando a morar em uma casa com 500 criados hindus, muçulmanos e sikh(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Reino Unido/Índia/Suécia</country>
+  </programme>
+  <programme start="20180422144000 -0300" stop="20180422173000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Piratas do Caribe: O Baú da Morte</title>
+    <desc lang="pt">O capitão Jack Sparrow, Will Turner e a bela Elizabeth Swann estão juntos em uma nova aventura no mar. Agora a vida de Jack está em perigo e ele precisa encontrar o misterioso baú da morte para se livrar de uma maldição pós-morte(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422173000 -0300" stop="20180422200000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Piratas do Caribe: Navegando em Águas Misteriosas</title>
+    <desc lang="pt">Johnny Depp volta como Jack Sparrow em uma história de traição, juventude e morte. Quando Jack se encontra com uma mulher do seu passado, não sabe se é amor ou uma interesseira usando-o para encontrar a Fonte da Juventude(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422222500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Piratas do Caribe: A Vingança de Salazar</title>
+    <desc lang="pt">O capitão Salazar lidera um exército de piratas fantasmas assassinos e está disposto a matar todos os piratas existentes na face da Terra(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422222500 -0300" stop="20180423003500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Alien: Covenant</title>
+    <desc lang="pt">2104. Viajando pela galáxia, a nave colonizadora Covenant, com destino a um planeta remoto, descobre um paraíso inexplorado com uma ameaça e devem tentar uma fuga angustiante(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421015500 -0300" stop="20180421034000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Noivo Neurótico, Noiva Nervosa</title>
+    <desc lang="pt">As atribulações de um casal vistas pelo olho crítico e satírico de Woody Allen. Oscar de melhor filme, melhor atriz (Diane Keaton), melhor diretor e melhor roteiro(n)</desc>
+    <date>1977</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421034000 -0300" stop="20180421053000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Os Anarquistas</title>
+    <desc lang="pt">No final do século 19, o sargento Jean Albertini trabalha infiltrado em um grupo de anarquistas em Paris. No entanto, ele passa pelas pessoas e as ideias do grupo e começa a questionar sua missão(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180421053000 -0300" stop="20180421072000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Belém: Zona de Conflito</title>
+    <desc lang="pt">O jovem palestino Sanfur foi recrutado aos 15 anos por Razi, oficial do serviço secreto de Israel, para ser seu informante(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Bélgica/Alemanha/Israel</country>
+  </programme>
+  <programme start="20180421072000 -0300" stop="20180421091000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">A Espera</title>
+    <desc lang="pt">Anna mora em uma mansão isolada na Sicília. Um dia, Jeanne, namorada de seu filho Giuseppe, aparece em uma visita inesperada. As duas passam a conviver enquanto aguardam a chegada de Giuseppe, que disse que voltaria para a Páscoa(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>França/Itália</country>
+  </programme>
+  <programme start="20180421091000 -0300" stop="20180421105000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Rainha do Mundo</title>
+    <desc lang="pt">Melhores amigas, Catherine e Virgínia cresceram juntas. Em busca de se recuperar de traumas recentes, Catherine vai para a casa de campo da amiga(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421105000 -0300" stop="20180421123500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Beijei uma Garota</title>
+    <desc lang="pt">Após beber muito em uma noite, Jérémie acorda ao lado de uma jovem e bela sueca. O problema é que Jérémie é homossexual, de casamento marcado com Antoine. Confuso com a atração que sente pela mulher, tudo piora quando ele volta a encontrá-la(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180421123500 -0300" stop="20180421143000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Allan Quatermain e a Cidade do Ouro Perdido</title>
+    <desc lang="pt">Aventureiro sai em busca de uma mística cidade perdida nas selvas da África(n)</desc>
+    <date>1987</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421143000 -0300" stop="20180421162000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Por um Punhado de Dólares</title>
+    <desc lang="pt">San Miguel vive em meio à guerra entre dois grupos rivais. Quando o habilidoso pistoleiro Joe chega ao local, esses grupos oferecem-lhe propostas pelos seus serviços(n)</desc>
+    <date>1964</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Western</category>
+    <country>Itália/Espanha/Alemanha</country>
+  </programme>
+  <programme start="20180421162000 -0300" stop="20180421184500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Por Uns Dólares a Mais</title>
+    <desc lang="pt">Caçador de recompensas se alia a antigo rival para matar índio assassino de sua irmã(n)</desc>
+    <date>1965</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Western</category>
+    <country>Itália/Espanha/Alemanha/M</country>
+  </programme>
+  <programme start="20180421184500 -0300" stop="20180421220000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Três Homens em Conflito</title>
+    <desc lang="pt">Durante a Guerra Civil Americana, três aventureiros tentam pôr as mãos numa fortuna(n)</desc>
+    <date>1966</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Western</category>
+    <country>Itália/Espanha</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180422010000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Era uma Vez no Oeste</title>
+    <desc lang="pt">Em nome de uma disputa por terras por onde passaria futuramente uma estrada de ferro, quatro protagonistas terão seus destinos cruzados em uma violenta trama: uma ex-prostituta, um bandido, um pistoleiro de aluguel e um homem misterioso(n)</desc>
+    <date>1968</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Western</category>
+    <country>ITA/EUA</country>
+  </programme>
+  <programme start="20180422010000 -0300" stop="20180422035000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Quando Explode a Vingança</title>
+    <desc lang="pt">Esta história, ambientada em plena revolução mexicana, foi filmada na Itália pelo diretor e especialista em "spaghetti westerns", Sergio Leone. Rod Steiger é Juan Miranda, um conhecido criminoso que planeja roubar um banco(n)</desc>
+    <date>1971</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Western</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20180422035000 -0300" stop="20180422054500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">A Garota Desconhecida</title>
+    <desc lang="pt">Jenny é uma jovem médica que, certo dia, deixa de atender uma pessoa após o encerramento do expediente da clínica. No dia seguinte, a polícia a procura e informa que uma mulher morreu ali perto do consultório(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Bélgica/França</country>
+  </programme>
+  <programme start="20180422054500 -0300" stop="20180422080000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Rock'n Roll - Por Trás da Fama</title>
+    <desc lang="pt">Guillaume Canet tem 43 anos e uma vida realizada: é casado com a atriz Marion Cotillard, tem uma carreira premiada e é pai de família(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180422080000 -0300" stop="20180422095000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Os Anarquistas</title>
+    <desc lang="pt">No final do século 19, o sargento Jean Albertini trabalha infiltrado em um grupo de anarquistas em Paris. No entanto, ele passa pelas pessoas e as ideias do grupo e começa a questionar sua missão(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180422095000 -0300" stop="20180422121000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">O Grande Amor de Nossas Vidas</title>
+    <desc lang="pt">Após o divórcio dos pais, irmãs gêmeas são separadas indo viver uma com a mãe e a outra com o pai. Elas crescem sem saber uma da outra e, por coincidência, se conhecem em um acampamento de verão(n)</desc>
+    <date>1961</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422121000 -0300" stop="20180422140000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Quem Vê Cara Não Vê Coração</title>
+    <desc lang="pt">O tio vem para cuidar de duas crianças pequenas e endiabradas e uma adolescente problemática, quando seus pais têm que viajar às pressas. Tremendamente irresponsável e trapalhão, as confusões não demoram a acontecer(n)</desc>
+    <date>1989</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422140000 -0300" stop="20180422162000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Trumbo: Lista Negra</title>
+    <desc lang="pt">Dalton Trumbo é um roteirista cujo talento lhe rendeu prêmios e reconhecimento em Hollywood. Durante a Guerra Fria, porém, ele foi perseguido pelo Comitê de Atividades Antiamericanas e preso e proibido de trabalhar(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Biografia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422162000 -0300" stop="20180422181500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Ela é o Diabo</title>
+    <desc lang="pt">Inconformada, dona-de-casa se transforma em mulher cruel e vingativa armando plano para destruir a vida do ex-marido e da mulher por quem ele a deixou(n)</desc>
+    <date>1989</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422181500 -0300" stop="20180422220000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Guerra e Paz</title>
+    <desc lang="pt">Na Moscou do século 19, com Napoleão ameaçando invadir o país, as famílias da aristocracia russa enfrentam diversos dilemas pessoais(n)</desc>
+    <date>1956</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA/Itália</country>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180422235500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">É Apenas o Fim do Mundo</title>
+    <desc lang="pt">Após 12 anos afastado de casa, o escritor Louis vai até sua família para informar que, em breve, irá morrer. O reencontro, no entanto, será um despertar de mágoas e brigas sobre o passado(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Canadá/França</country>
+  </programme>
+  <programme start="20180422235500 -0300" stop="20180423015500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">O Estranho que Nós Amamos</title>
+    <desc lang="pt">Soldado ferido na Guerra de Secessão se aloja em um internato feminino. O filme mostra as reações das internas, que se encantam pelo rapaz(n)</desc>
+    <date>1971</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421005000 -0300" stop="20180421023500 -0300" channel="HBO HD">
+    <title lang="pt">Se Beber, Não Case! Parte 2</title>
+    <desc lang="pt">O que era para ser uma simples despedida de solteiro acabou se transformando em outra aventura muito louca, só que agora num país diferente, com suas proprias regras e a promessa de ser "marcante"(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421023500 -0300" stop="20180421041000 -0300" channel="HBO HD">
+    <title lang="pt">Hancock</title>
+    <desc lang="pt">Hancok não é um heroi comum. Seus atos salvam muitas vidas, mas sempre provocam um grande desastre. Hancock não se importa com o que as pessoas pensam, até que salva a vida do relações-públicas Ray Embrey, que mudará sua vida completamente(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421041000 -0300" stop="20180421062500 -0300" channel="HBO HD">
+    <title lang="pt">V de Vingança</title>
+    <desc lang="pt">Guerrilheiro das sombras, conhecido apenas como ''V'', usa táticas terroristas para lutar contra o totalitarismo na sociedade. Após resgatar uma garota da polícia secreta, ele também descobre que tem a chance de ter uma aliada(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>ING /EUA /ALE</country>
+  </programme>
+  <programme start="20180421062500 -0300" stop="20180421083500 -0300" channel="HBO HD">
+    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+    <desc lang="pt">Arthur é um jovem das ruas e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421083500 -0300" stop="20180421090500 -0300" channel="HBO HD">
+    <title lang="pt">Destino Rússia 2018 E3</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180421090500 -0300" stop="20180421110500 -0300" channel="HBO HD">
+    <title lang="pt">Dois Caras Legais</title>
+    <desc lang="pt">O detetive particular Holland March e o bandido Jackson Healy são obrigados a trabalhar juntos para resolver um caso de desaparecimento de uma garota e o suicídio de uma estrela de filmes pornô(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421110500 -0300" stop="20180421113500 -0300" channel="HBO HD">
+    <title lang="pt">Last Week Tonight With John Oliver - S5E8</title>
+    <desc lang="pt">John Oliver é o responsável por conduzir este programa de humor onde, durante trinta minutos, ele mostra um olhar satírico sobre as notícias, a política e fatos da atualidade(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421113500 -0300" stop="20180421121000 -0300" channel="HBO HD">
+    <title lang="pt">Barry - S1E4</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421121000 -0300" stop="20180421124500 -0300" channel="HBO HD">
+    <title lang="pt">Silicon Valley - S5E4</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421124500 -0300" stop="20180421145500 -0300" channel="HBO HD">
+    <title lang="pt">Conexão Escobar</title>
+    <desc lang="pt">Robert Mazur é um agente infiltrado no negócio de cocaína chefiado por Pablo Escobar. Sob o disfarce de Bob Musella, o agente se arrisca para tentar incriminar a rede de traficantes e banqueiros que mantém as operações do cartel(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180421145500 -0300" stop="20180421163000 -0300" channel="HBO HD">
+    <title lang="pt">Refém do Medo</title>
+    <desc lang="pt">Mary Portman é uma psicóloga infantil no interior do Maine. Um acidente de carro a deixou viúva e deixou seu enteado Stephen dependente de cuidados especiais(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180421163000 -0300" stop="20180421183500 -0300" channel="HBO HD">
+    <title lang="pt">Inferno</title>
+    <desc lang="pt">Após acordar em um hospital com um ferimento na cabeça, Robert Langdon não se lembra de nada que lhe aconteceu nas últimas 48h. Subitamente, ele é atacado por uma mulher misteriosa(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421183500 -0300" stop="20180421191000 -0300" channel="HBO HD">
+    <title lang="pt">Destino Rússia 2018 E3</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180421191000 -0300" stop="20180421194500 -0300" channel="HBO HD">
+    <title lang="pt">Greg News Com Gregório Duvivier - S2E5</title>
+    <desc lang="pt">O humorístico terá um formato um pouco diferente dos programas de entrevista no ar, no qual o apresentador irá comentar as notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180421194500 -0300" stop="20180421220000 -0300" channel="HBO HD">
+    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+    <desc lang="pt">Arthur é um jovem das ruas e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180421234500 -0300" channel="HBO HD">
+    <title lang="pt">A Torre Negra</title>
+    <desc lang="pt">Um pistoleiro chamado Roland Deschain percorre o mundo em busca da famosa Torre Negra. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421234500 -0300" stop="20180422013500 -0300" channel="HBO HD">
+    <title lang="pt">A Noite é Delas</title>
+    <desc lang="pt">Cinco amigas se reúnem durante um fim de semana em uma casa de praia em Miami para comemorar a despedida de solteira de uma delas. Mas as coisas saem do controle quando matam, acidentalmente, um stripper(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422013500 -0300" stop="20180422040000 -0300" channel="HBO HD">
+    <title lang="pt">Manchester à Beira-Mar</title>
+    <desc lang="pt">Lee é forçado a retornar para sua cidade natal para tomar conta de seu sobrinho após o pai dele, seu irmão, falecer. Este retorno ficará ainda mais complicado quando Lee precisar enfrentar as razões que o fizeram ir embora(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422040000 -0300" stop="20180422064500 -0300" channel="HBO HD">
+    <title lang="pt">Superman - O Retorno</title>
+    <desc lang="pt">Anos após um súbito desaparecimento, Superman retorna. Mas a situação é outra, a cidade se acostumou a viver sem ele. Agora além de se adaptar à nova realidade, terá de enfrentar um antigo inimigo que planeja acabar com ele(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Austália/EUA</country>
+  </programme>
+  <programme start="20180422064500 -0300" stop="20180422083000 -0300" channel="HBO HD">
+    <title lang="pt">Frente Atômica</title>
+    <desc lang="pt">Este documentário analisa o impacto médico e ambiental do permanente despejo de resíduo nuclear em duas comunidades de St. Louis, cada vez mais preocupadas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422083000 -0300" stop="20180422103000 -0300" channel="HBO HD">
+    <title lang="pt">A Longa Caminhada de Billy Lynn</title>
+    <desc lang="pt">Billy Lynn é um jovem soldado, que consegue sobreviver a um tiroteio no Iraque em 2005. Para recompensá-los, o presidente Bush leva toda a tropa de volta aos EUA, a tempo de receber uma homenagem(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Reino Unido/China/EUA</country>
+  </programme>
+  <programme start="20180422103000 -0300" stop="20180422125000 -0300" channel="HBO HD">
+    <title lang="pt">Homem-Aranha - De Volta ao Lar</title>
+    <desc lang="pt">Após atuar ao lado dos Vingadores, o pequeno Peter Parker volta para casa e para a sua vida. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422125000 -0300" stop="20180422132500 -0300" channel="HBO HD">
+    <title lang="pt">Greg News Com Gregório Duvivier - S2E5</title>
+    <desc lang="pt">O humorístico terá um formato um pouco diferente dos programas de entrevista no ar, no qual o apresentador irá comentar as notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180422132500 -0300" stop="20180422150500 -0300" channel="HBO HD">
+    <title lang="pt">Floresta Maldita</title>
+    <desc lang="pt">Uma mulher viaja até o Japão em busca de sua irmã gêmea após receber a notícia de seu desaparecimento(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422150500 -0300" stop="20180422170000 -0300" channel="HBO HD">
+    <title lang="pt">Especialista em Crise</title>
+    <desc lang="pt">A consultora política Jane Bodine é especialista em conseguir contornar situações adversas. Apesar de estar aposentada, decide trabalhar para o candido a presidência Pedro Castillo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422170000 -0300" stop="20180422183500 -0300" channel="HBO HD">
+    <title lang="pt">Emoji - O Filme</title>
+    <desc lang="pt">Textopolis é a cidade onde os Emojis favoritos dos usuários de smartphones vivem e trabalham. Lá, todos eles vivem em função de um sonho: serem usados nos textos dos humanos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422183500 -0300" stop="20180422210000 -0300" channel="HBO HD">
+    <title lang="pt">Homem-Aranha - De Volta ao Lar</title>
+    <desc lang="pt">Após atuar ao lado dos Vingadores, o pequeno Peter Parker volta para casa e para a sua vida. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422210000 -0300" stop="20180422220300 -0300" channel="HBO HD">
+    <title lang="pt">O Negócio - S4E6</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422220300 -0300" stop="20180422232000 -0300" channel="HBO HD">
+    <title lang="pt">Westworld - S2E1</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422232000 -0300" stop="20180422235000 -0300" channel="HBO HD">
+    <title lang="pt">Silicon Valley - S5E5</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422235000 -0300" stop="20180423002500 -0300" channel="HBO HD">
+    <title lang="pt">Barry - S1E5</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421004000 -0300" stop="20180421014000 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Negócio - S4E5</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421014000 -0300" stop="20180421032000 -0300" channel="HBO 2 HD">
+    <title lang="pt">A Torre Negra</title>
+    <desc lang="pt">Um pistoleiro chamado Roland Deschain percorre o mundo em busca da famosa Torre Negra. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421032000 -0300" stop="20180421050000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Austin Powers - O Agente Bond Cama</title>
+    <desc lang="pt">Austin Powers volta a lutar contra o terrível Dr. Evil que, desta vez, pretende roubar a arma secreta do super-espião: o mojo, a potência sexual de Austin(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421050000 -0300" stop="20180421063500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Austin Powers em O Homem do Membro de Ouro</title>
+    <desc lang="pt">Austin Powers enfrenta novamente o Dr. Evil ao lado de uma nova e bela agente. Ao mesmo tempo, descobre um novo inimigo, Goldmember(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421063500 -0300" stop="20180421083000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Um Salão do Barulho 3</title>
+    <desc lang="pt">Dez anos se passaram após a última ida a barbearia de Calvin. Seus amigos de longa data continuam os mesmos. No entanto, uma onda de violência começa a tomar conta do bairro, fazendo com que os moradores se juntem novamente salvar a comunidade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421083000 -0300" stop="20180421103000 -0300" channel="HBO 2 HD">
+    <title lang="pt">A Chegada</title>
+    <desc lang="pt">Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks, uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421103000 -0300" stop="20180421110000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Greg News Com Gregório Duvivier - S2E5</title>
+    <desc lang="pt">O humorístico terá um formato um pouco diferente dos programas de entrevista no ar, no qual o apresentador irá comentar as notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180421110000 -0300" stop="20180421131000 -0300" channel="HBO 2 HD">
+    <title lang="pt">A Lei da Noite</title>
+    <desc lang="pt">Boston, década de 1920. Joe Coughlin, filho mais novo de um capitão de polícia, se envolve com o crime organizado. Ele aproveita seus dias rodeado de dinheiro e poder, mas suas escolhas podem levá-lo à prisão ou até mesmo à morte(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421131000 -0300" stop="20180421145500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Paixão Obsessiva</title>
+    <desc lang="pt">Quando o casamento entre David e Tessa termina, ele fica com a casa e com a guarda da filha pequena(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421145500 -0300" stop="20180421152500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Destino Rússia 2018 E3</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180421152500 -0300" stop="20180421170500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Despedida em Grande Estilo</title>
+    <desc lang="pt">Willie, Joe e Albert são amigos há décadas. Eles levam uma vida pacata, mas sofrem com problemas financeiros. Quando Willie testemunha o assalto milionário a um banco, decide chamar Joe e Albert para elaborarem o seu próprio assalto(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421170500 -0300" stop="20180421180000 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Negócio - S4E1</title>
+    <desc lang="pt">Karin está pronta para lançar seu livro. Cada uma a sua maneira planeja como contar a verdade à sua família(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421180000 -0300" stop="20180421190000 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Negócio - S4E2</title>
+    <desc lang="pt">Karin está pronta para lançar seu livro. Cada uma a sua maneira planeja como contar a verdade à sua família(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421190000 -0300" stop="20180421200000 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Negócio - S4E3</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421200000 -0300" stop="20180421210000 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Negócio - S4E4</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421210000 -0300" stop="20180421220000 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Negócio - S4E5</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180421235500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Como Ser Solteira</title>
+    <desc lang="pt">Alice acabou de sair de um relacionamento e não sabe muito bem como agir sem outra metade. Para sua sorte, ela tem uma animada amiga especialista na vida noturna de Nova York, que passa a ensiná-la como ser solteira(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421235500 -0300" stop="20180422015500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Sangue pela Glória</title>
+    <desc lang="pt">A inspiradora história do campeão mundial de boxe, Vinny Pazienza (Miles Teller), que após um grave acidente automobilístico não sabia se voltaria a andar. Um dos retornos mais incríveis do mundo do esporte(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422015500 -0300" stop="20180422035500 -0300" channel="HBO 2 HD">
+    <title lang="pt">300</title>
+    <desc lang="pt">O rei Leônidas (Gerard Butler) e seus 300 guerreiros de Esparta lutam até a morte contra o exército do rei Xerxes (Rodrigo Santoro). O sacrifício e a dedicação destes homens uniu a Grécia no combate contra o inimigo persa(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422035500 -0300" stop="20180422053500 -0300" channel="HBO 2 HD">
+    <title lang="pt">MIB - Homens de Preto</title>
+    <desc lang="pt">O agente K é um dos fundadores da organização secreta MIB. O ex-policial J se une a K para desvendar os mistérios de um possível ataque alienígena(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422053500 -0300" stop="20180422071500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Despedida em Grande Estilo</title>
+    <desc lang="pt">Willie, Joe e Albert são amigos há décadas. Eles levam uma vida pacata, mas sofrem com problemas financeiros. Quando Willie testemunha o assalto milionário a um banco, decide chamar Joe e Albert para elaborarem o seu próprio assalto(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422071500 -0300" stop="20180422085000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Hancock</title>
+    <desc lang="pt">Hancok não é um heroi comum. Seus atos salvam muitas vidas, mas sempre provocam um grande desastre. Hancock não se importa com o que as pessoas pensam, até que salva a vida do relações-públicas Ray Embrey, que mudará sua vida completamente(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422085000 -0300" stop="20180422110000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+    <desc lang="pt">Arthur é um jovem das ruas e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422110000 -0300" stop="20180422121000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E1</title>
+    <desc lang="pt">Em Westworld, um parque temático onde os clientes são recebidos por robôs programados para realizar qualquer fantasia, o programador Bernard Lowe alerta ao fundador da atração, Dr. Robert Ford, sobre incidentes(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422121000 -0300" stop="20180422131500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E2</title>
+    <desc lang="pt">Novos convidados chegam a Westworld com expectativas e agendas diversas. Bernard e Theresa analisam se as recentes anomalias são contagiosas(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422131500 -0300" stop="20180422142000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E3</title>
+    <desc lang="pt">Elsie e Stubbs vão para as montanhas. Teddy, por sua vez, está em busca de um novo vilão e deixa Dolores sozinha em Sweetwater(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422142000 -0300" stop="20180422152500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E4</title>
+    <desc lang="pt">Dolores se junta a William e Logan na caçada. Dr. Ford e Theresa analisam o futuro do parque, e Maeve está intrigado com uma visão recorrente(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422152500 -0300" stop="20180422162500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E5</title>
+    <desc lang="pt">Ao chegarem a Pariah, Dolores, William e Logan logo são recrutados para uma missão perigosa(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422162500 -0300" stop="20180422172500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E6</title>
+    <desc lang="pt">Lutz está encantado por Maeve, enquanto Elsie descobre novas evidências de uma sabotagem. OHomem de Preto e Teddy enfrentam uma tropa(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422172500 -0300" stop="20180422182500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E7</title>
+    <desc lang="pt">Dolores e William viajam por um local perigoso, ao passo que Maeve deu um ultimato. Bernard já pensa em seu próximo passo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422182500 -0300" stop="20180422192500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E8</title>
+    <desc lang="pt">Teddy fica perturbado com lembranças dolorosas, enquanto Maeve quer mudanças. Dolores tem dificuldade em lidar com a realidade, e Bernard recebe ordens para retornar às atividades normais(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422192500 -0300" stop="20180422202500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E9</title>
+    <desc lang="pt">Dolores e Bernard se reconectam com o passado, enquanto Maeve faz uma proposta ousada a Hector. Teddy tem um preço a pagar se quiser obter respostas(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422202500 -0300" stop="20180422220300 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S1E10</title>
+    <desc lang="pt">Ford revela sua visão para uma nova narrativa. Com o apoio de Bernard, Dolores começa a aceitar sua identidade, enquanto Maeve coloca seu plano em ação(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422220300 -0300" stop="20180422230300 -0300" channel="HBO 2 HD">
+    <title lang="pt">Westworld - S2E1</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422230300 -0300" stop="20180423005000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Chips - O Filme</title>
+    <desc lang="pt">Jon é um motociclista que tenta salvar seu casamento, enquanto Frank é um agente que investiga o roubo onde alguns policiais estão envolvidos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421005000 -0300" stop="20180421022700 -0300" channel="HBO Family HD">
+    <title lang="pt">Sob a Luz da Fama: O Poder da Paixão</title>
+    <desc lang="pt">Reviva o fenômeno Sob a Luz da Fama com novas paixões e novos parceiros em "Sob a Luz da Fama: O Poder da Paixão". Tudo que Kate Parker sempre quis era dançar na Academia Brasileira de Balé(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180421022700 -0300" stop="20180421040100 -0300" channel="HBO Family HD">
+    <title lang="pt">Viagem ao Centro da Terra - O Filme</title>
+    <desc lang="pt">Após a descoberta de uma mensagem deixada por um famoso explorador do passado, tem início uma expedição destinada ao centro da Terra(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421040100 -0300" stop="20180421051500 -0300" channel="HBO Family HD">
+    <title lang="pt">Tom E Jerry: Aventura com Jonny Quest</title>
+    <desc lang="pt">Tom e Jerry querem aproveitar um dia de praia, quando são testemunhas do ataque de estranhos personagens que perseguem Jonny Quest. Com isso, gato e rato se juntarão à equipe do jovem para lutar contra um poderoso inimigo e salvar o mundo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421051500 -0300" stop="20180421065000 -0300" channel="HBO Family HD">
+    <title lang="pt">Scooby-Doo! 2: Monstros à Solta</title>
+    <desc lang="pt">Fred, Velma, Salsicha, Daphne e Scooby partem para uma pequena cidade onde um homem mascarado ameaça usar uma máquina criadora de monstros(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421065000 -0300" stop="20180421085000 -0300" channel="HBO Family HD">
+    <title lang="pt">Caça-Fantasmas</title>
+    <desc lang="pt">Erin Gilberts escreveu um livro sobre a existência de fantasmas junto com Abby Yates. Quando Patty Tolan presencia estranhos eventos no metrô de Nova York, Erin, Abby e Jillian Holtzmann se unem e partem para a salvar a cidade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Austrália</country>
+  </programme>
+  <programme start="20180421085000 -0300" stop="20180421101500 -0300" channel="HBO Family HD">
+    <title lang="pt">Os Jetsons e as Super-estrelas do Wwe</title>
+    <desc lang="pt">George descobre o lutador Big Show, congelado há 100 anos e que agora decide conquistar o mundo ao descobrir que no futuro a luta livre é praticada por robôs(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421101500 -0300" stop="20180421120500 -0300" channel="HBO Family HD">
+    <title lang="pt">Lego Batman: O Filme</title>
+    <desc lang="pt">Batman leva uma vida solitária como o herói de Gotham City. Quando o comissário Gordon se aposenta, quem assume em seu lugar é sua filha Barbara, que deseja implementar métodos de eficiência de forma que a polícia não dependa do Batman(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421120500 -0300" stop="20180421132500 -0300" channel="HBO Family HD">
+    <title lang="pt">Batman sem Limites: Mechas Vs Mutantes</title>
+    <desc lang="pt">Mais uma vez, a Cidade de Gothan está em perigo: o Mr. Freeze transformou os criminosos mais perigosos da cidade em monstros mutantes, portanto, Batman e Robin deverão se unir e usar seus próprios robôs gigantes para deter o cientista malvado(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421132500 -0300" stop="20180421150000 -0300" channel="HBO Family HD">
+    <title lang="pt">A Nova Cinderela - Se o Sapato Servir</title>
+    <desc lang="pt">A talentosa Tessa é servente de sua ingrata madrasta e das duas meias-irmãs. Quando iniciam as audições para um musical de A Cinderela, Tessa terá a oportunidade de mudar sua vida para sempre e se transformar em uma estrela(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Musical</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421150000 -0300" stop="20180421165000 -0300" channel="HBO Family HD">
+    <title lang="pt">Coração de Tinta</title>
+    <desc lang="pt">Meggie é uma garota encantada pelas histórias de aventuras que lê nos livros. Até que um dia descobre que seu pai, Mo, tem poderes mágicos de trazer os personagens dos livros à vida quando lê trechos em voz alta(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Alemanha/Inglaterra/EUA</country>
+  </programme>
+  <programme start="20180421165000 -0300" stop="20180421182500 -0300" channel="HBO Family HD">
+    <title lang="pt">Sob a Luz da Fama: Acampamento de Dança</title>
+    <desc lang="pt">O diretor de uma prestigiosa academia de ballet precisa inovar o repertório do lugar para resolver a falta de dinheiro, então ele cria uma competição para atrair novos dançarinos, onde somente o melhor vencerá(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421182500 -0300" stop="20180421200000 -0300" channel="HBO Family HD">
+    <title lang="pt">Lucas - Um Intruso no Formigueiro</title>
+    <desc lang="pt">Após afogar um formigueiro, Lucas Nickle tem seu tamanho misteriosamente diminuído, até ficar na altura de uma formiga. Ele é, então, obrigado a trabalhar como escravo na reconstrução do formigueiro que ele mesmo destruiu(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Infantil</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421200000 -0300" stop="20180421215000 -0300" channel="HBO Family HD">
+    <title lang="pt">Lego Batman: O Filme</title>
+    <desc lang="pt">Batman leva uma vida solitária como o herói de Gotham City. Quando o comissário Gordon se aposenta, quem assume em seu lugar é sua filha Barbara, que deseja implementar métodos de eficiência de forma que a polícia não dependa do Batman(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421215000 -0300" stop="20180421235000 -0300" channel="HBO Family HD">
+    <title lang="pt">Caça-Fantasmas</title>
+    <desc lang="pt">Erin Gilberts escreveu um livro sobre a existência de fantasmas junto com Abby Yates. Quando Patty Tolan presencia estranhos eventos no metrô de Nova York, Erin, Abby e Jillian Holtzmann se unem e partem para a salvar a cidade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Austrália</country>
+  </programme>
+  <programme start="20180421235000 -0300" stop="20180422013800 -0300" channel="HBO Family HD">
+    <title lang="pt">Coração de Tinta</title>
+    <desc lang="pt">Meggie é uma garota encantada pelas histórias de aventuras que lê nos livros. Até que um dia descobre que seu pai, Mo, tem poderes mágicos de trazer os personagens dos livros à vida quando lê trechos em voz alta(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Alemanha/Inglaterra/EUA</country>
+  </programme>
+  <programme start="20180422013800 -0300" stop="20180422025500 -0300" channel="HBO Family HD">
+    <title lang="pt">Batman sem Limites: Mechas Vs Mutantes</title>
+    <desc lang="pt">Mais uma vez, a Cidade de Gothan está em perigo: o Mr. Freeze transformou os criminosos mais perigosos da cidade em monstros mutantes, portanto, Batman e Robin deverão se unir e usar seus próprios robôs gigantes para deter o cientista malvado(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422025500 -0300" stop="20180422043500 -0300" channel="HBO Family HD">
+    <title lang="pt">Bebês Geniais</title>
+    <desc lang="pt">Dra. Kinder consegue decifrar a linguagem dos bebês e planeja dominar o mundo. Mas a cobaia do experimento consegue fugir e coloca seu irmão no lugar(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422043500 -0300" stop="20180422060500 -0300" channel="HBO Family HD">
+    <title lang="pt">Lucas - Um Intruso no Formigueiro</title>
+    <desc lang="pt">Após afogar um formigueiro, Lucas Nickle tem seu tamanho misteriosamente diminuído, até ficar na altura de uma formiga. Ele é, então, obrigado a trabalhar como escravo na reconstrução do formigueiro que ele mesmo destruiu(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Infantil</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422060500 -0300" stop="20180422075500 -0300" channel="HBO Family HD">
+    <title lang="pt">Happy Feet: O Pinguim</title>
+    <desc lang="pt">Um jovem pinguim canta muito mal, o que é um desastre para a comunidade em que vive. Ele sabe sapatear muito bem, mas isto não é considerado importante(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/EUA</country>
+  </programme>
+  <programme start="20180422075500 -0300" stop="20180422091500 -0300" channel="HBO Family HD">
+    <title lang="pt">Lego Scooby-Doo: O Golpe da Praia</title>
+    <desc lang="pt">Scooby-Doo e seus amigos estão a caminho de Blowout Beach para uma festa na praia, mas piratas fantasmas ameaçam arruinar as boas vibrações da turma(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422091500 -0300" stop="20180422094700 -0300" channel="HBO Family HD">
+    <title lang="pt">Salvar Meu Amanhã</title>
+    <desc lang="pt">Este episódio da série apresenta algumas ideias de crianças e cientistas sobre como podemos proteger as espécies ameaçadas de extinção e seus habitats(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422094700 -0300" stop="20180422102000 -0300" channel="HBO Family HD">
+    <title lang="pt">Salvar Meu Amanhã</title>
+    <desc lang="pt">Este episódio da série explora questões que vão desde a extração de petróleo sobre alta pressão e a poluição da água até os benefícios do produção local de alimentos e a redução das pegadas de carbono(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422102000 -0300" stop="20180422120000 -0300" channel="HBO Family HD">
+    <title lang="pt">Angry Birds: O Filme</title>
+    <desc lang="pt">O filme conta a história de Red, um pássaro com problemas para controlar seu estresse, o veloz Chuck e o volátil Bomba(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422120000 -0300" stop="20180422133000 -0300" channel="HBO Family HD">
+    <title lang="pt">A Orquestra Reciclada</title>
+    <desc lang="pt">Formada por crianças e jovens de baixa renda que vivem em uma comunidade ao redor do aterro de Cateura, em Assunção no Paraguai, é regida por Fávio Chávez tem a peculiaridade de tocar com instrumentos construídos com materiais coletados(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil/EUA</country>
+  </programme>
+  <programme start="20180422133000 -0300" stop="20180422145500 -0300" channel="HBO Family HD">
+    <title lang="pt">Zé Colmeia - O Filme</title>
+    <desc lang="pt">O parque de Jellystone está perdendo dinheiro e o prefeito Brown decide fechá-lo para vender o terreno. Agora Zé Colmeia e Catatau deverão unir forças com seu inimigo, o Guarda Smith, para salvar o parque(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA/Nova Zelândia</country>
+  </programme>
+  <programme start="20180422145500 -0300" stop="20180422163500 -0300" channel="HBO Family HD">
+    <title lang="pt">A Lenda dos Guardiões</title>
+    <desc lang="pt">Quando uma jovem coruja é sequestrada por um exército malvado, deverá escapar junto com seus novos amigos para buscar os lendários Guardiões e acabar com a ameaça(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA/Austrália</country>
+  </programme>
+  <programme start="20180422163500 -0300" stop="20180422182500 -0300" channel="HBO Family HD">
+    <title lang="pt">Happy Feet: O Pinguim</title>
+    <desc lang="pt">Um jovem pinguim canta muito mal, o que é um desastre para a comunidade em que vive. Ele sabe sapatear muito bem, mas isto não é considerado importante(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/EUA</country>
+  </programme>
+  <programme start="20180422182500 -0300" stop="20180422200000 -0300" channel="HBO Family HD">
+    <title lang="pt">Norm e os Invencíveis</title>
+    <desc lang="pt">Para salvar a floresta dos seres humanos que querem se mudar para seu habitat natural, Norm viaja para Nova York e se infiltra em uma grande empresa com a esperança de destruir seus planos de construir condomínios no Ártico(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA/Índia</country>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422214000 -0300" channel="HBO Family HD">
+    <title lang="pt">Angry Birds: O Filme</title>
+    <desc lang="pt">O filme conta a história de Red, um pássaro com problemas para controlar seu estresse, o veloz Chuck e o volátil Bomba(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422214000 -0300" stop="20180422233500 -0300" channel="HBO Family HD">
+    <title lang="pt">Max - O Cão Herói</title>
+    <desc lang="pt">O cachorro Max trabalha junto aos soldados americanos no Afeganistão. Quando seu dono morre, Max se torna feroz e não mantém contato com ninguém(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422233500 -0300" stop="20180423005000 -0300" channel="HBO Family HD">
+    <title lang="pt">Happening: A Revolução da Energia Limpa</title>
+    <desc lang="pt">O cineasta Jamie Redford embarca em uma jornada pessoal colorida no início da era da energia limpa(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421012500 -0300" stop="20180421031000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Paixão Obsessiva</title>
+    <desc lang="pt">Quando o casamento entre David e Tessa termina, ele fica com a casa e com a guarda da filha pequena(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421031000 -0300" stop="20180421045000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Floresta Maldita</title>
+    <desc lang="pt">Uma mulher viaja até o Japão em busca de sua irmã gêmea após receber a notícia de seu desaparecimento(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421045000 -0300" stop="20180421065000 -0300" channel="HBO Plus HD">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">Lyra vive uma vida normal no Oxford's Jordan College. Mas, quando seu amigo Roger desaparece, ela começa a enfrentar manifestações sobrenaturais e descobre um universo paralelo, habitado por bruxas e criaturas incríveis(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421065000 -0300" stop="20180421092500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
+    <desc lang="pt">Em seu sexto ano em Hogwarts, Harry Potter encara a atmosfera de incerteza que toma conta da escola de bruxaria com a notícia de que Voldermort está vivo. Harry começa a descobrir informações sobre o passado de seu inimigo(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Inglaterra/EUA</country>
+  </programme>
+  <programme start="20180421092500 -0300" stop="20180421120000 -0300" channel="HBO Plus HD">
+    <title lang="pt">A Origem</title>
+    <desc lang="pt">Dom Cobb é um habilidoso ladrão, o melhor na perigosa arte da extração, o roubo de segredos valiosos das profundezas do inconsciente durante o sono com sonhos, quando a mente está mais vulnerável(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA/Reino Unido</country>
+  </programme>
+  <programme start="20180421120000 -0300" stop="20180421134500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Vida</title>
+    <desc lang="pt">Seis cientistas a bordo da Estação Espacial Internacional, analisam uma amostra de Marte que evidenciaria a vida extraterrestre. A curiosidade deles se transforma em medo quando descobrem que a amostra é um organismo capaz de destruir vidas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421134500 -0300" stop="20180421153000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Invasão a Londres</title>
+    <desc lang="pt">O Presidente dos Estados Unidos se reúne em Londres com vários líderes mundiais para o funeral do Primeiro Ministro Britânico. Mas quando o evento se transforma em uma armadilha mortal, fica a cargo de Mike Banning manter o Presidente seguro(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Reino Unido/EUA/Bulgária</country>
+  </programme>
+  <programme start="20180421153000 -0300" stop="20180421171500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Keanu</title>
+    <desc lang="pt">Dois amigos levam uma vida tranquila e sem surpresas até que o gato de um deles é roubado. Em busca de recuperar o animal, os dois decidem se passar por traficantes, membros de uma gangue perigosa(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421171500 -0300" stop="20180421185500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Música, Amigos e Festa</title>
+    <desc lang="pt">Cole tem 23 anos e batalha para se tornar um DJ de sucesso. Apadrinhado por James, experiente profissional da área, ele aprende muito e começa a crescer, mas coloca tudo em risco ao se envolver com a jovem namorada de amigo, Sophie(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Reino Unido/FrançaEUA</country>
+  </programme>
+  <programme start="20180421185500 -0300" stop="20180421193500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Destino Salvador - S1E3</title>
+    <desc lang="pt">Destino Salvador apresenta seis histórias, seis destinos forjados na cidade tão celebrada por seus ritmos, seus sabores e a alegria de seu povo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421193500 -0300" stop="20180421202000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Destino Salvador - S1E4</title>
+    <desc lang="pt">Destino Salvador apresenta seis histórias, seis destinos forjados na cidade tão celebrada por seus ritmos, seus sabores e a alegria de seu povo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421202000 -0300" stop="20180421220000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Crimes na Madrugada</title>
+    <desc lang="pt">Vince é um policial corrupto de Las Vegas que rouba um carregamento de cocaína de um poderoso traficante de drogas. Para não levantar suspeitas, ele se oferece para investigar o caso(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180422000500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Mad Max: Estrada da Fúria</title>
+    <desc lang="pt">Após ser capturado por Immortan Joe, um guerreiro das estradas chamado Max se vê no meio de uma guerra mortal, iniciada pela Imperatriz Furiosa para salvar um grupo de garotas(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Austrália/EUA</country>
+  </programme>
+  <programme start="20180422000500 -0300" stop="20180422015500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Vida</title>
+    <desc lang="pt">Seis cientistas a bordo da Estação Espacial Internacional, analisam uma amostra de Marte que evidenciaria a vida extraterrestre. A curiosidade deles se transforma em medo quando descobrem que a amostra é um organismo capaz de destruir vidas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422015500 -0300" stop="20180422023000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Greg News Com Gregório Duvivier - S2</title>
+    <desc lang="pt">O humorístico terá um formato um pouco diferente dos programas de entrevista no ar, no qual o apresentador irá comentar as notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180422023000 -0300" stop="20180422043000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Magic Mike XXl</title>
+    <desc lang="pt">Três anos se passaram desde que Mike abandonou sua vida como stripper e seus amigos estão prontos para fazer o mesmo. Mas eles querem se aposentar em grande estilo e então planejam uma última apresentação excepcional(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422043000 -0300" stop="20180422062000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Passe Livre</title>
+    <desc lang="pt">Dois homens casados vivem olhando para outras mulheres. Suas esposas estão cheias desse comportamento e lhes dão um "Passe Livre": Uma semana de descanso do casamento em que podem fazer o que quiserem(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422062000 -0300" stop="20180422074000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Batman: A Piada Mortal</title>
+    <desc lang="pt">Enquanto Batman persegue o fugitivo Coringa, o Palhaço do Crime se dispõe a atacar a família Gordon como parte de um plano para demonstrar que qualquer um está a um passo de cair na loucura total(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422074000 -0300" stop="20180422094000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Kingsglave: Final Fantasy XV</title>
+    <desc lang="pt">O rei Regis, que supervisiona a terra de Lucis, comanda seu exército de soldados para proteger o reino contra os planos do império de Niflheim de roubar o cristal sagrado que dá a Lucis toda sua magia e poder(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>Japão/EUA</country>
+  </programme>
+  <programme start="20180422094000 -0300" stop="20180422112500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Hércules</title>
+    <desc lang="pt">Hércules é exilado e vendido como escravo por se opor às ordens do Rei, e também pelo amor que sente pela futura esposa do irmão. Agora ele deve demonstrar a força que herdou de seu pai, Zeus, para recuperar tudo que perdeu(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422112500 -0300" stop="20180422132500 -0300" channel="HBO Plus HD">
+    <title lang="pt">O Agente da U.n.c.l.e.</title>
+    <desc lang="pt">Na década de 1960 os até então inimigos mortais Napoleon Solo, agente da CIA, e Illya Kuriakin, espião da KGB, são obrigados a cooperarem. A grande missão da improvável dupla EUA-Rússia é combater a terrível organização T.H.R.U.S.H(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Reino Unido</country>
+  </programme>
+  <programme start="20180422132500 -0300" stop="20180422151000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Férias Frustradas</title>
+    <desc lang="pt">Rusty Griswold é casado com Debbie e tem dois filhos, James e Kevin. Disposto a se divertir com a família, Rusty decide seguir os passos de seu pai e comandar uma ida ao parque de diversões Wally World, localizado a dias de viagem(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422151000 -0300" stop="20180422165500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Perfeita é a Mãe!</title>
+    <desc lang="pt">Um grupo de mães trabalhadoras decide seguir o caminho da diversão e irresponsabilidade após se sentirem sobrecarregadas com todos os rigorosos requisitos de mãe aparentemente perfeita e do conselho do grupo de pais e responsáveis(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422165500 -0300" stop="20180422182000 -0300" channel="HBO Plus HD">
+    <title lang="pt">A Forca</title>
+    <desc lang="pt">Uma cidade é marcada por um acidente, quando uma peça de teatro da escola leva a várias mortes. Vinte anos mais tarde, um grupo decide reencenar a peça, para homenagear os mortos(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422182000 -0300" stop="20180422200000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Boneco do Mal</title>
+    <desc lang="pt">Grata Evans é uma babá contratada para cuidar de um boneco cujos proprietários afirmam ser seu filho. Antes de sair de casa, o casal lhe dá uma lista de regras bizarras e avisa que se ela não seguir, o boneco pode se irritar(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>Canadá/China/EUA</country>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422220000 -0300" channel="HBO Plus HD">
+    <title lang="pt">A Chegada</title>
+    <desc lang="pt">Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks, uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180423001500 -0300" channel="HBO Plus HD">
+    <title lang="pt">A Lei da Noite</title>
+    <desc lang="pt">Boston, década de 1920. Joe Coughlin, filho mais novo de um capitão de polícia, se envolve com o crime organizado. Ele aproveita seus dias rodeado de dinheiro e poder, mas suas escolhas podem levá-lo à prisão ou até mesmo à morte(n)</desc>
+    <date>2016</date>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
     <country>EUA</country>
