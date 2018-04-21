@@ -1,5 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telecinepremium.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telecineaction.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <channel id="Band HD">
     <display-name lang="pt">Band HD</display-name>
     <icon src="http://www.lineup.tv.br/canais/band.gif" />
@@ -10,6 +20,11 @@
     <icon src="http://www.lineup.tv.br/canais/globo-rj.gif|http://www.lineup.tv.br/canais/globo.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
+  <channel id="Globo SP HD">
+    <display-name lang="pt">Globo SP HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-sp.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <channel id="FOX Premium 1 HD">
     <display-name lang="pt">FOX Premium 1 HD</display-name>
     <icon src="http://www.lineup.tv.br/canais/foxpremium1.gif" />
@@ -18,6 +33,11 @@
   <channel id="FOX Premium 2 HD">
     <display-name lang="pt">FOX Premium 2 HD</display-name>
     <icon src="http://www.lineup.tv.br/canais/foxpremium2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Mais Globosat HD">
+    <display-name lang="pt">Mais Globosat HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/maisglobosat.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="SporTV HD">
@@ -80,6 +100,406 @@
     <icon src="http://www.lineup.tv.br/canais/bandsports.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
+  <programme start="20180421013500 -0300" stop="20180421033500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">A Garota no Trem</title>
+    <desc lang="pt">Rachel, uma alcoólatra desempregada e deprimida, sofre pelo seu divórcio recente. Todas as manhãs ela viaja de trem de Ashbury a Londres, fantasiando sobre a vida de um jovem casal que vigia pela janela(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421033500 -0300" stop="20180421054000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Capitão Fantástico</title>
+    <desc lang="pt">Ben vive com seus filhos nas florestas. Quando eles são obrigados a retornar à civilização, Ben precisa lidar com antigos conflitos e o significado de ser pai(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421054000 -0300" stop="20180421075500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Regras Não Se Aplicam</title>
+    <desc lang="pt">Na Hollywood dos anos 50, a aspirante a atriz Marla e seu motorista, Frank, criam uma grande conexão e se apaixonam. Mas, o romance dos dois enfrenta grande dificuldade por ser proibido pelo chefe de ambos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421075500 -0300" stop="20180421094500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Depois da Tempestade</title>
+    <desc lang="pt">Quando o furacão Sandy destrói o restaurante de sua família em Atlantic City, Sam, um jovem chef de cozinha, precisa lidar com as consequências do desastre(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421094500 -0300" stop="20180421112500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Mamãe, Voltei!</title>
+    <desc lang="pt">Stéphanie, que é arquiteta e tem 40 anos, nunca imaginou que seria forçada a morar novamente com a mãe, Jacqueline. A mãe fica feliz com a novidade, mas começa a agir de forma estranha para manter em segredo o seu romance com o vizinho Jean(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180421112500 -0300" stop="20180421130000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Um Lobo em Pele de Cordeiro</title>
+    <desc lang="pt">Em uma terra distante e mágica em meio as colinas verdes um grupo de carneiros vive sem preocupações. Porém, a calmaria está prestes a mudar quando uma matilha decide acampar perto do local(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>Rússia</country>
+  </programme>
+  <programme start="20180421130000 -0300" stop="20180421144000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Drone</title>
+    <desc lang="pt">Ideologias colidem com resultados fatais quando Neil, um homem que trabalha em missões sigilosas com seus drones, encontra um enigmático empresário paquistanês(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421144000 -0300" stop="20180421162000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Convidados Sem Honra</title>
+    <desc lang="pt">Eloise levou um fora de seu namorado e, com isso, deixou de ser madrinha do casamento da sua até então cunhada(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421162000 -0300" stop="20180421180000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Deserto</title>
+    <desc lang="pt">Moises foi deportado dos EUA e anseia voltar ao país para reencontrar o filho. Com um grupo de mexicanos, ele tenta fazer o cruzamento da fronteira a pé(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>França/México</country>
+  </programme>
+  <programme start="20180421180000 -0300" stop="20180421201500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Cinquenta Tons Mais Escuros</title>
+    <desc lang="pt">Incomodada com os hábitos e atitudes de Christian Grey, Anastasia decide terminar o relacionamento. Ele não desiste tão fácil e fica sempre insistindo que aceita as regras dela. Tal cortejo acaba funcionando e eles reiniciam o relacionamento(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421201500 -0300" stop="20180421220000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Duas de Mim</title>
+    <desc lang="pt">Suryellen é uma cozinheira que trabalha duro para manter sozinha o filho pequeno, a irmã mais nova e a mãe. Um dia, após encontrar uma doceira mágica, seu pedido vira realidade e ela se divide em duas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180422002000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Piratas do Caribe: A Vingança de Salazar</title>
+    <desc lang="pt">O capitão Salazar lidera um exército de piratas fantasmas assassinos e está disposto a matar todos os piratas existentes na face da Terra(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422002000 -0300" stop="20180422022000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Alice Através do Espelho</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo, e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA/Reino Unido</country>
+  </programme>
+  <programme start="20180422022000 -0300" stop="20180422044500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">O Despertar da Lenda</title>
+    <desc lang="pt">Durante a dinastia Qing, na China, Guangzhou é dominada por duas facções do crime(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>China/Hong Kong</country>
+  </programme>
+  <programme start="20180422044500 -0300" stop="20180422063000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Corrida Mortal 2050</title>
+    <desc lang="pt">Em um futuro distante, os Estados Unidos são controlados por um governo que promove anualmente uma corrida mortal como forma de entretenimento para a massa. Na corrida de 2050, Jed tenta superar Frankenstein, o atual campeão(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422063000 -0300" stop="20180422080500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Dominação</title>
+    <desc lang="pt">O Dr. Ember é capaz de expulsar espíritos malignos entrando no subconsciente da pessoa possuída. Quando ele é chamado para ajudar Cameron, percebe que na verdade precisa enfrentar um demônio do seu próprio passado(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422080500 -0300" stop="20180422095000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Perseguição Radical</title>
+    <desc lang="pt">Encontramos Max na prisão, depois de perder sua jovem esposa. Quando ele descobre que seu filho Theo acaba de ser contratado por uma organização criminosa, Max arriscará tudo para salvá-lo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180422095000 -0300" stop="20180422120000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Coragem em Campo</title>
+    <desc lang="pt">O maior sonho da vida de Freddie é ser jogador de futebol americano. Mesmo não tendo a altura ideal, Freddie treina duro e não desiste(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422120000 -0300" stop="20180422135000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Uma Jornada Inesquecível</title>
+    <desc lang="pt">Ano 1969. O jovem Jamie resolve fugir do internato. Ele se lança em busca do paradeiro de JD Salinger, autor do clássico "O Apanhador no Campo de Centeio", porque quer a aprovação do escritor para adaptar a obra como peça(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422135000 -0300" stop="20180422154000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Assassino a Preço Fixo 2: A Ressurreição</title>
+    <desc lang="pt">Vivendo escondido no RJ, Arthur Bishop é descoberto por uma capanga enviada por Riah Crain, que quer que Bishop retorne à vida de assassino para eliminar três pessoas que atrapalham seus negócios(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>França/EUA</country>
+  </programme>
+  <programme start="20180422154000 -0300" stop="20180422172500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">12 Rounds 3: Caçada Mortal</title>
+    <desc lang="pt">De volta à ativa após ter sido baleado e ter perdido seu parceiro, o detetive John Shaw é sabotado e acusado de um crime que não cometeu(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422172500 -0300" stop="20180422195500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Velozes e Furiosos 8</title>
+    <desc lang="pt">Dom e Letty estão curtindo a lua de mel em Havana, mas a aparição de Cipher atrapalha os planos do casal. Ela logo arma um plano para chantagear Dom, de forma que ele traia seus amigos e passe a ajudá-la a obter ogivas nucleares(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422195500 -0300" stop="20180422220000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Assassin's Creed</title>
+    <desc lang="pt">Quando Callum Lynch explora as memórias de seu antepassado Aguilar e ganha as habilidades de um Assassino Mestre, ele descobre que é descendente de um membro da Ordem dos Assassinos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Reino Unido/França</country>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180422234000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Viagem das Loucas</title>
+    <desc lang="pt">Após ser dispensada pelo namorado na véspera da viagem para o Equador, Emily decide ir mesmo assim com sua mãe. No local, Emily convence a mãe, que é supercautelosa, a embarcar em uma aventura(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422234000 -0300" stop="20180423012000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Tempo Contado</title>
+    <desc lang="pt">Nick Barrow é um especialista em planejar assaltos. Quando um roubo não dá certo, ele se vê perseguido pela máfia e policiais corruptos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421003500 -0300" stop="20180421022500 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Espelho</title>
+    <desc lang="pt">Dois irmãos, Tim e Kaylie, tentam provar que a morte inexplicável dos pais foi devida a um antigo espelho. Porém, eles devem se apressar, já que fenômenos estranhos e paranormais também os perseguem(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421022500 -0300" stop="20180421040500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Dredd</title>
+    <desc lang="pt">Em um futuro violento onde a polícia atua como juiz e carrasco, o lendário juiz Dredd e a novata Cassandra Anderson enfrentam uma quadrilha de narcotraficantes liderados pela implacável Ma-Ma. Adaptado dos quadrinhos(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Reino Unido/EUA/Índia/Áfr</country>
+  </programme>
+  <programme start="20180421040500 -0300" stop="20180421055000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Contos Eróticos 2</title>
+    <desc lang="pt">Após o sucesso de Contos Eróticos, experimente momentos ainda mais excitantes e envolventes com Contos Eróticos 2(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180421055000 -0300" stop="20180421075000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Tapped Out: A Revanche</title>
+    <desc lang="pt">Michael Shaw é obrigado a realizar serviços comunitários em uma escola de lutas para cumprir uma sentença. Acidentalmente Michael conhece o assassino que matou seus pais alguns anos atrás(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180421075000 -0300" stop="20180421094000 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Homem Mais Procurado do Mundo</title>
+    <desc lang="pt">Baseado em fatos reais, o filme relata uma ação conjunta da CIA com o exército americano para descobrir o esconderijo de Osama Bin Laden(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421094000 -0300" stop="20180421113000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Reino de Fogo</title>
+    <desc lang="pt">Em futuro próximo, dragões ressurgem na Terra e destroem o mundo como o conhecemos. Sobreviventes, liderados por caçador, tentam eliminá-los(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Reino Unido/Irlanda/EUA</country>
+  </programme>
+  <programme start="20180421113000 -0300" stop="20180421133000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Red 2 - Aposentados e Ainda Mais Perigosos</title>
+    <desc lang="pt">Um grupo de ex agentes da CIA é procurado para fazer parte de um novo projeto, chamado 'Sombra Noturna'. O objetivo é recuperar uma bomba que data da época da Guerra Fria. Será que eles conseguem?(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/França/Canadá</country>
+  </programme>
+  <programme start="20180421133000 -0300" stop="20180421153500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Esquadrão Classe A</title>
+    <desc lang="pt">Em 2003, uma unidade operacional de elite foi condenada pela corte militar por um crime que não cometeu. Mas estes homens escaparam rapidamente da prisão de segurança máxima e passaram a viver clandestinamente no submundo de Los Angeles(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421153500 -0300" stop="20180421173500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Eu Sou o Número Quatro</title>
+    <desc lang="pt">John Smith, um rapaz diferente do resto que vive em constante fuga, descobrirá seu primeiro amor numa cidadezinha de Ohio. Mas também descobrirá que possui estranhos poderes e que é o próximo dos de seu tipo a ser assassinado(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421173500 -0300" stop="20180421201000 -0300" channel="Telecine Action HD">
+    <title lang="pt">A Outra Face</title>
+    <desc lang="pt">Depois que terrorista matou seu filho, agente do FBI só pensa em vingança. Numa ousada operação, ele consegue encurralar o terrorista e seu irmão(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421201000 -0300" stop="20180421220000 -0300" channel="Telecine Action HD">
+    <title lang="pt">A Bruxa</title>
+    <desc lang="pt">O casal William e Katherine leva uma vida cristã com suas cinco crianças em uma comunidade extremamente religiosa, até serem expulsos do local por sua fé diferente daquela permitida pelas autoridades(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA/Reino Unido</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180421234500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Carga Explosiva: O Legado</title>
+    <desc lang="pt">Frank Martin segue trabalhando como transportador de mercadorias perigosas. Um dia ele recebe uma ligação de Anna, que deseja contratá-lo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>França/China</country>
+  </programme>
+  <programme start="20180421234500 -0300" stop="20180422013500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Os Mercenários</title>
+    <desc lang="pt">Grupo de mercenários chefiados pelo temido Barney Ross segue para a Ilha de Vilena, na América do Sul, com a missão de derrubar o governo do ditador Garza(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422013500 -0300" stop="20180422033500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Doce Vingança</title>
+    <desc lang="pt">Uma escritora vai para um a pequena cidade em busca de inspiração, mas lá é vítima de um jogo sádico realizado por um grupo de homens locais. Depois de ser estuprada, humilhada e agredida, Jennifer só quer vingança(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422033500 -0300" stop="20180422053500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Missão: Marte</title>
+    <desc lang="pt">A primeira missão tripulada para Marte faz estudos científicos no planeta. Um estranho acidente deixa apenas um sobrevivente no local e o comandante Woody recebe a tarefa de liderar a missão de resgate(n)</desc>
+    <date>2000</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422053500 -0300" stop="20180422074000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Indiana Jones e os Caçadores da Arca Perdida</title>
+    <desc lang="pt">Em busca da cobiçada arca perdida, onde estariam os mandamentos entregues por Deus a Moisés, Indiana Jones não mede esforços para encontrá-la(n)</desc>
+    <date>1981</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422074000 -0300" stop="20180422092000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Skyline - A Invasão</title>
+    <desc lang="pt">Em Agosto de 2009 a NASA mandou mensagens para o espaço com o objetivo de fazer contato com vidas extraterrestres. O que ninguém esperava, eram luzes destruidoras vindo do céu de Los Angeles(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422092000 -0300" stop="20180422111500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Sem Saída</title>
+    <desc lang="pt">Como seria se um dia você descobrisse que toda a sua vida é uma mentira? A morte dos pais de Nathan revela que ele não é quem acreditava ser, tendo que enfrentar sua história para descobrir sua verdadeira identidade(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422111500 -0300" stop="20180422131000 -0300" channel="Telecine Action HD">
+    <title lang="pt">A Lista - Você Está Livre Hoje?</title>
+    <desc lang="pt">Um auditor é apresentado a um mundo secreto pertencente à elite de Nova York, que oferece aos seus participantes uma noite de satisfação sexual(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422131000 -0300" stop="20180422150500 -0300" channel="Telecine Action HD">
+    <title lang="pt">007 - Quantum of Solace</title>
+    <desc lang="pt">Continuação das aventuras de James Bond em 007 Cassino Royale. Traído por Vesper, a mulher que amou, 007 luta contra o impulso de tornar pessoal sua última missão(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422150500 -0300" stop="20180422173000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Vingadores: Era de Ultron</title>
+    <desc lang="pt">Tentando proteger o planeta de ameaças como as vistas no primeiro Os Vingadores, Tony Stark busca construir um sistema de inteligência artifical que cuidaria da paz mundial(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422173000 -0300" stop="20180422201500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Capitão América: Guerra Civil</title>
+    <desc lang="pt">Steve Rogers é o atual líder dos Vingadores. O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Alemanha</country>
+  </programme>
+  <programme start="20180422201500 -0300" stop="20180422220000 -0300" channel="Telecine Action HD">
+    <title lang="pt">João e Maria: Caçadores de Bruxas</title>
+    <desc lang="pt">As crianças, João e Maria, matam uma bruxa má que os havia capturado. Depois desse trauma, eles se tornam famosos caçadores de bruxas que vivem atrás de recompensas(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Alemanha/EUA</country>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180422235500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Abraham Lincoln - Caçador de Vampiros</title>
+    <desc lang="pt">A mãe de Abe foi assassinada por um vampiro, desde esse momento e com apenas 9 anos, decide vingar-se deles. Durante toda sua vida, dedica-se a eliminar esses sinistros seres e terá que enfrentá-los até mesmo sendo presidente dos Estados Unidos(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422235500 -0300" stop="20180423014000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Amanhecer Violento</title>
+    <desc lang="pt">Parecia um dia como outro qualquer, até que a população de uma cidade americana acorda sendo invadida pela Coreia do Norte. Alguns jovens conseguem se refugiar na floresta, formam um grupo(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
   <programme start="20180421003000 -0300" stop="20180421011500 -0300" channel="Band HD">
     <title lang="pt">Jornal da Noite</title>
     <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
@@ -653,6 +1073,255 @@
     <country>Brasil</country>
   </programme>
   <programme start="20180422231500 -0300" stop="20180423010900 -0300" channel="Globo RJ HD">
+    <title lang="pt">Domingo Maior</title>
+    <desc lang="pt">Uma das sessões de cinema mais antigas da Rede Globo. Desde 1979, a atração caracteriza-se por apresentar longas-metragens de sucesso, com temas de ação, aventura e romance, para um público distinto(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180421002500 -0300" stop="20180421010900 -0300" channel="Globo SP HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Programa com entrevistas, debates sobre assuntos contemporâneos, do Brasil e do mundo, e atrações musicais(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421010900 -0300" stop="20180421015500 -0300" channel="Globo SP HD">
+    <title lang="pt">Lições de um Crime</title>
+    <desc lang="pt">Um grupo de ambiciosos estudantes de Direito e sua brilhante e misteriosa professora de defesa criminal, que se vê envolvida em uma trama de assassinato que vai agitar toda a universidade e mudar o curso de suas vidas(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421015500 -0300" stop="20180421034600 -0300" channel="Globo SP HD">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180421034600 -0300" stop="20180421060000 -0300" channel="Globo SP HD">
+    <title lang="pt">Corujão II</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180421060000 -0300" stop="20180421070000 -0300" channel="Globo SP HD">
+    <title lang="pt">Via Brasil</title>
+    <desc lang="pt">Uma viagem pelo país através de reportagens sobre natureza, história, arte, culinária e cultura de cada região(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421070000 -0300" stop="20180421090000 -0300" channel="Globo SP HD">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Sandra Annenberg apresenta o programa, que trata de forma integrada temas como educação, ecologia, mobilização social, trabalho e inovação nas manhãs de sábado(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421090000 -0300" stop="20180421120000 -0300" channel="Globo SP HD">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Ana Furtado, André Marques, Cissa Guimarães, Patrícia Poeta, Tiago Leifert e Zeca Camargo comandam programa de variedades das manhãs de sábado, ao vivo(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421120000 -0300" stop="20180421124700 -0300" channel="Globo SP HD">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180421124700 -0300" stop="20180421132000 -0300" channel="Globo SP HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Brasil e do mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421132000 -0300" stop="20180421135900 -0300" channel="Globo SP HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">O Jornal Hoje atualiza a sua tarde com as principais notícias e com reportagens sobre moda, comportamento, arte, cultura e culinária(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421135900 -0300" stop="20180421150900 -0300" channel="Globo SP HD">
+    <title lang="pt">Sessão Comédia</title>
+    <desc lang="pt">Histórias para animar e divertir toda a família nas tardes de sábado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421150900 -0300" stop="20180421155700 -0300" channel="Globo SP HD">
+    <title lang="pt">Estrelas do Brasil</title>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421155700 -0300" stop="20180421183400 -0300" channel="Globo SP HD">
+    <title lang="pt">Caldeirão do Huck</title>
+    <desc lang="pt">Programa de auditório apresentado por Luciano Huck, o Caldeirão traz matérias especiais, atrações musicais e concursos, além de quadros de sucesso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421183400 -0300" stop="20180421191500 -0300" channel="Globo SP HD">
+    <title lang="pt">Orgulho e Paixão</title>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421191500 -0300" stop="20180421193600 -0300" channel="Globo SP HD">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180421193600 -0300" stop="20180421203000 -0300" channel="Globo SP HD">
+    <title lang="pt">Deus Salve o Rei</title>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421203000 -0300" stop="20180421211600 -0300" channel="Globo SP HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">Apresentado por William Bonner e Renata Vasconcelos, o telejornal traz as principais notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421211600 -0300" stop="20180421220900 -0300" channel="Globo SP HD">
+    <title lang="pt">O Outro Lado do Paraíso</title>
+    <desc lang="pt">A forte atração entre Clara e Gael é imediata. Clara logo se entrega a essa paixão, mas mal sabe ela que esse amor a levará do céu ao inferno(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421220900 -0300" stop="20180421224000 -0300" channel="Globo SP HD">
+    <title lang="pt">Zorra</title>
+    <desc lang="pt">Programa humorístico com esquetes rápidos, piadas visuais e a volta do nonsense. Um elenco de primeira, com humoristas da nova e da antiga geração, dão vida a centenas de personagens(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421224000 -0300" stop="20180422002800 -0300" channel="Globo SP HD">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422002800 -0300" stop="20180422004500 -0300" channel="Globo SP HD">
+    <title lang="pt">Zero 1</title>
+    <desc lang="pt">Tiago Leifert recebe convidados especiais para entrevistas e comenta notícias de games, filmes, cultura geek, universo pop e campeonatos de eSport(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422004500 -0300" stop="20180422021800 -0300" channel="Globo SP HD">
+    <title lang="pt">Supercine</title>
+    <desc lang="pt">Supercine Supercine mostra longas-metragens de sucesso, muitas vezes inéditos na TV e que normalmente tratam do relacionamento humano(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180422021800 -0300" stop="20180422034300 -0300" channel="Globo SP HD">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180422034300 -0300" stop="20180422054800 -0300" channel="Globo SP HD">
+    <title lang="pt">Corujão II</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180422054800 -0300" stop="20180422064900 -0300" channel="Globo SP HD">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Mais antigo programa da Rede Globo, a Santa Missa foi transmitida pela primeira vez em 4 de fevereiro de 1968 e hoje é celebrada semanalmente(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422064900 -0300" stop="20180422071700 -0300" channel="Globo SP HD">
+    <title lang="pt">Antena Paulista</title>
+    <desc lang="pt">Revista eletrônica que aborda assuntos comunitários como qualidade de vida, terceira idade etc(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422071700 -0300" stop="20180422075300 -0300" channel="Globo SP HD">
+    <title lang="pt">Pequenas Empresas, Grandes Negócios</title>
+    <desc lang="pt">O programa Pequenas Empresas, Grandes Negócios transmite ideias e alternativas de sobrevivência para pessoas que desejam desenvolver uma atividade própria(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422075300 -0300" stop="20180422084000 -0300" channel="Globo SP HD">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">O programa Globo Rural traz notícias sobre agronegócios, empreendimentos rurais e os principais índices do setor agrícola(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422084000 -0300" stop="20180422090000 -0300" channel="Globo SP HD">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">O AutoEsporte traz as principais notícias sobre automóveis, lançamentos nacionais e importados, avaliações, testes e comparativos exclusivos e dicas de manutenção de carros e motos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422090000 -0300" stop="20180422124500 -0300" channel="Globo SP HD">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">O Esporte Espetacular traz reportagens especiais, notícias do mundo esportivo, entrevistas e competições ao vivo nas manhãs de domingo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422124500 -0300" stop="20180422140200 -0300" channel="Globo SP HD">
+    <title lang="pt">Tamanho Família</title>
+    <desc lang="pt">'Tamanho Família', vai revelar um pouco da intimidade e da vida familiar das estrelas da TV(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422140200 -0300" stop="20180422160000 -0300" channel="Globo SP HD">
+    <title lang="pt">Temperatura Máxima</title>
+    <desc lang="pt">Caracteriza-se por reapresentar longas-metragens que fizeram sucesso em outras sessões de cinema da Globo. Temperatura Máxima estreou dia 3 de janeiro de 1989(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180422160000 -0300" stop="20180422180000 -0300" channel="Globo SP HD">
+    <title lang="pt">Futebol 2018</title>
+    <desc lang="pt">Siga ao vivo campeonatos estaduais, o Brasileirão, a Copa do Brasil, a Libertadores, a Liga dos Campeões, mundiais de clubes e amistosos(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422180000 -0300" stop="20180422210000 -0300" channel="Globo SP HD">
+    <title lang="pt">Domingão do Faustão</title>
+    <desc lang="pt">O programa apresentado por Fausto Silva recebe grandes estrelas da televisão e da música e anima as tardes de domingo com quadros de sucesso e as tradicionais videocassetadas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422210000 -0300" stop="20180422231500 -0300" channel="Globo SP HD">
+    <title lang="pt">Fantástico</title>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422231500 -0300" stop="20180423010900 -0300" channel="Globo SP HD">
     <title lang="pt">Domingo Maior</title>
     <desc lang="pt">Uma das sessões de cinema mais antigas da Rede Globo. Desde 1979, a atração caracteriza-se por apresentar longas-metragens de sucesso, com temas de ação, aventura e romance, para um público distinto(n)</desc>
     <category lang="pt">Variedades</category>
@@ -1677,6 +2346,589 @@
     <title lang="pt">Homeland - S7E11</title>
     <desc lang="pt">Carrie está morando com sua irmã Maggie em Washinton DC, para trabalhar contra a presidente e assegurar a liberdade dessas pessoas(n)</desc>
     <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421002500 -0300" stop="20180421011000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">O Pacto das Viúvas Negras - S2E12</title>
+    <desc lang="pt">O DVD é publicado. Johanna revela a verdade sobre a explosão no barco para Petri. Kirsi atira em Jukka(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Finlândia</country>
+  </programme>
+  <programme start="20180421011000 -0300" stop="20180421020000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E10</title>
+    <desc lang="pt">A série, ambientada em israel, acompanha um policial que faz de tudo para prender criminosos, nem que para isso tenha que ele mesmo agir fora da lei(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180421020000 -0300" stop="20180421024500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">A Rainha do Tráfico - S1E40</title>
+    <desc lang="pt">Verónica se aproxima de Paty, mas Oleg logo desconfia das intenções da moça. Enquanto isso, a imprensa continua atrás da mexicana. A relação de Teresa e Teo fica mais forte, até que ela conhece a esposa dele(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA/Espanha/Colômbia/Méxi</country>
+  </programme>
+  <programme start="20180421024500 -0300" stop="20180421031000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Escapar Ou Morrer - S1E6</title>
+    <desc lang="pt">Dean está em Winnipeg, onde um número quase o matou há 30 anos, para desafiar novamente a morte. Ele vai ser preso por cordas, correntes e cadeados a duas niveladoras de gelo e, se não escapar, será partido ao meio(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421031000 -0300" stop="20180421033500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Escapar Ou Morrer - S1E7</title>
+    <desc lang="pt">Dean está na Índia, onde irá tentar um número que nem Houdini teve coragem de realizar: ele será acorrentado, enterrado vivo e vai passar 24 horas debaixo de 7 toneladas de terra antes de cavar para escapar(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421033500 -0300" stop="20180421040000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Parques Radicais - S1E26</title>
+    <desc lang="pt">Série documental sobre os mais importantes parques nacionais dos EUA(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421040000 -0300" stop="20180421043000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Mundo Visto de Cima - S2E4</title>
+    <desc lang="pt">Neste episódio, atravessamos o Canal da Mancha, uma das rotas marítimas mais movimentadas do mundo, para conhecer as Ilhas do Canal, repletas de fortes e paisagens paradisíacas(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421043000 -0300" stop="20180421050000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Essa É Minha Família E4</title>
+    <desc lang="pt">Teliana Pereira, de origem humilde pernambucana, começou a jogar tênis aos 8 aos de idade, graças a um emprego que seu pai conseguiu numa academia. Hoje, é a tenista número 1 do Brasil(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421050000 -0300" stop="20180421060000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Sessão Philos: Israel e os Ultraortodoxos</title>
+    <desc lang="pt">Com seus ternos pretos e chapéus largos, os judeus ultraortodoxos tem um enorme peso nas decisões da comunidade(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180421060000 -0300" stop="20180421070000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Sessão Philos</title>
+    <desc lang="pt">Aproximadamente 90% dos trabalhadores apresentam sintomas de estresse causado por problemas nas empresas. Este documentário mostra como reconstruir o sistema trabalhista com liberdade e criatividade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180421070000 -0300" stop="20180421073000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Brasil Visto de Cima E2</title>
+    <desc lang="pt">Quando alguém fala em São Paulo, o que logo nos vem à mente é uma paisagem urbana, moderna e agitada. Mas o estado de São Paulo é muitíssimo mais que isso e uma boa prova está no segundo episódio da série O Brasil Visto de Cima(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180421073000 -0300" stop="20180421080000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Brasil Visto de Cima - S4E32</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421080000 -0300" stop="20180421083000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Tá Na Hora Do Café - S2E6</title>
+    <desc lang="pt">Paula Varejão vai até Veneza conhecer o primeiro café da Europa. Em Milão, a apresentadora mostra a preocupação dos italianos com o design. Em Florença, Paula visita a fábrica da principal marca de máquinas de expresso do mundo(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421083000 -0300" stop="20180421090000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Sobre as Asas - S1E2</title>
+    <desc lang="pt">Neste episódio de Sobre As Asas: O casal conhece o Parque Estadual do Jalapão, em Tocantins e segue para a Estação Ecológica do Taim, no Rio Grande do Sul, onde capturam um jacaré-do-papo-amarelo(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421090000 -0300" stop="20180421093000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Essa É Minha Família E4</title>
+    <desc lang="pt">Teliana Pereira, de origem humilde pernambucana, começou a jogar tênis aos 8 aos de idade, graças a um emprego que seu pai conseguiu numa academia. Hoje, é a tenista número 1 do Brasil(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421093000 -0300" stop="20180421100000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Restaurantes Inesquecíveis E22</title>
+    <desc lang="pt">Restaurantes Inesquecíveis irá levar você a uma viagem de felicidade e bom gosto através da mais variada gastronomia do planeta. A cada semana visitaremos três diferentes restaurantes ao redor do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180421100000 -0300" stop="20180421103000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Destino Certo - S2E3</title>
+    <desc lang="pt">O 2º episódio do Destino Certo é para amantes do bom vinho. Entre lindas paisagens, esculturas de arte e até coleções de carros antigos, vamos conhecer as vinícolas mais incríveis do nosso continente(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421103000 -0300" stop="20180421110000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Brasil Visto de Cima - S5E6</title>
+    <desc lang="pt">Cachoeiro do Itapemirim, no sul do Espírito Santo, é a terra natal do escritor Rubem Braga e do Roberto Carlos. Neste episódio, Brasil Visto de Cima leva você aos sobrados centenários e à casa em que o Rei passou a infância(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421110000 -0300" stop="20180421113000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Mundo Visto de Cima - S7E5</title>
+    <desc lang="pt">A viagem de hoje vai sobrevoar o interior da Itália, com os famosos vinhedos da região da Toscana e as cidades medievais declaradas Patrimônio da Humanidade como Assis, Siena e Florença, o berço do Renascimento(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421113000 -0300" stop="20180421120000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Mundo Visto de Cima - S7E9</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo. Em cada episódio visitamos cerca de 25 lugares diferentes do planeta(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421120000 -0300" stop="20180421123000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Mundo Visto de Cima - S3E1</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421123000 -0300" stop="20180421130000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Mundo Visto de Cima - S3E10</title>
+    <desc lang="pt">Admire paisagens belíssimas e conheça histórias da mitologia grega e do Império Romano nesta viagem pelo sul da Itália: da estonteante Costa Amalfitana, passando por Pompeia, até a glamourosa Ilha de Capri(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180421130000 -0300" stop="20180421135000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E7</title>
+    <desc lang="pt">Uma prostituta aparece morta e Arik encontra semelhanças com os crimes de um serial killer que escapou dele no passado. Ele investiga, mas Babayof tem mais uma exigência que o policial deve cumprir(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180421135000 -0300" stop="20180421143500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E8</title>
+    <desc lang="pt">A série, ambientada em israel, acompanha um policial que faz de tudo para prender criminosos, nem que para isso tenha que ele mesmo agir fora da lei(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180421143500 -0300" stop="20180421152500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E9</title>
+    <desc lang="pt">A série, ambientada em israel, acompanha um policial que faz de tudo para prender criminosos, nem que para isso tenha que ele mesmo agir fora da lei(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180421152500 -0300" stop="20180421161000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E10</title>
+    <desc lang="pt">A série, ambientada em israel, acompanha um policial que faz de tudo para prender criminosos, nem que para isso tenha que ele mesmo agir fora da lei(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180421161000 -0300" stop="20180421170000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E11</title>
+    <desc lang="pt">A série, ambientada em israel, acompanha um policial que faz de tudo para prender criminosos, nem que para isso tenha que ele mesmo agir fora da lei(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180421170000 -0300" stop="20180421173000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Restaurantes Inesquecíveis E22</title>
+    <desc lang="pt">Restaurantes Inesquecíveis irá levar você a uma viagem de felicidade e bom gosto através da mais variada gastronomia do planeta. A cada semana visitaremos três diferentes restaurantes ao redor do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180421173000 -0300" stop="20180421180000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Um Brinde Ao Vinho - S2E6</title>
+    <desc lang="pt">A enóloga Cecilia Aldaz percorre as principais regiões vinícolas de Portugal e Espanha em busca dos melhores vinhos e histórias(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421180000 -0300" stop="20180421183000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">América do Sul Sobre Rodas - S1E3</title>
+    <desc lang="pt">Através de uma nova aventura, dessa vez em uma road trip, o casal de aventureiros Max Fercondini e Amanda Richter desbravaram a América do Sul!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421183000 -0300" stop="20180421190000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Destino Certo - S2E3</title>
+    <desc lang="pt">O 2º episódio do Destino Certo é para amantes do bom vinho. Entre lindas paisagens, esculturas de arte e até coleções de carros antigos, vamos conhecer as vinícolas mais incríveis do nosso continente(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421190000 -0300" stop="20180421193000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Brasil Visto de Cima - S4E28</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421193000 -0300" stop="20180421200000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Brasil Visto de Cima - S4E29</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421200000 -0300" stop="20180421203000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Brasil Visto de Cima - S4E30</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421203000 -0300" stop="20180421210000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Brasil Visto de Cima - S5E6</title>
+    <desc lang="pt">Cachoeiro do Itapemirim, no sul do Espírito Santo, é a terra natal do escritor Rubem Braga e do Roberto Carlos. Neste episódio, Brasil Visto de Cima leva você aos sobrados centenários e à casa em que o Rei passou a infância(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421210000 -0300" stop="20180421213000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Restaurantes Inesquecíveis E22</title>
+    <desc lang="pt">Restaurantes Inesquecíveis irá levar você a uma viagem de felicidade e bom gosto através da mais variada gastronomia do planeta. A cada semana visitaremos três diferentes restaurantes ao redor do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180421213000 -0300" stop="20180421220000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Hotéis Incríveis - S5E6</title>
+    <desc lang="pt">O episódio de hoje é para quem curte viajar através dos sabores e da culinária. Visitamos três capitais gastronômicas e Hotéis Incríveis onde as estrelas mais valiosas estão em seus restaurantes(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180421220000 -0300" stop="20180421224500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">O Mistério de Shelly - S1E1</title>
+    <desc lang="pt">O corpo de uma mulher é encontrado em um acampamento abandonado e a polícia desconfia de que se trate de uma menina desaparecida há mais de 15 anos(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180421224500 -0300" stop="20180421233000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">O Mistério de Shelly - S1E2</title>
+    <desc lang="pt">Shelly desconfia de que uma pessoa muito próxima de sua família tenha relação com o desaparecimento de sua irmã, Maya. Shelly começa a investigar sozinha(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180421233000 -0300" stop="20180422001500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Dois Lados De Um Conflito - S1E9</title>
+    <desc lang="pt">Doron continua em território inimigo e descobre o paradeiro do Pantera. Ele decide se infiltrar no grupo do terrorista para ficar cara a cara com o seu maior inimigo e se vingar pela morte de Boaz(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422001500 -0300" stop="20180422010000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Dois Lados De Um Conflito - S1E10</title>
+    <desc lang="pt">Doron é escolhido para ser o homem-bomba do próximo atentado do Pantera, mas é preso pelos israelenses e cabe ao capitão Ayub decidir se deve permitir que ele atenda ao chamado do terrorista(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422010000 -0300" stop="20180422020000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E7</title>
+    <desc lang="pt">Uma prostituta aparece morta e Arik encontra semelhanças com os crimes de um serial killer que escapou dele no passado. Ele investiga, mas Babayof tem mais uma exigência que o policial deve cumprir(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422020000 -0300" stop="20180422024500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E8</title>
+    <desc lang="pt">A série, ambientada em israel, acompanha um policial que faz de tudo para prender criminosos, nem que para isso tenha que ele mesmo agir fora da lei(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422024500 -0300" stop="20180422034000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E9</title>
+    <desc lang="pt">A série, ambientada em israel, acompanha um policial que faz de tudo para prender criminosos, nem que para isso tenha que ele mesmo agir fora da lei(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422034000 -0300" stop="20180422042500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E10</title>
+    <desc lang="pt">A série, ambientada em israel, acompanha um policial que faz de tudo para prender criminosos, nem que para isso tenha que ele mesmo agir fora da lei(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422042500 -0300" stop="20180422052000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Justiça Sem Lei - S1E11</title>
+    <desc lang="pt">A série, ambientada em israel, acompanha um policial que faz de tudo para prender criminosos, nem que para isso tenha que ele mesmo agir fora da lei(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422052000 -0300" stop="20180422055500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Cervejantes - S1E6</title>
+    <desc lang="pt">Cervejantes é uma bem-humorada competição entre equipes de cervejeiros em busca da cerveja perfeita para cada situação. Em cada episódio, o desafio de duas cervejarias é encontrar a fórmula perfeita para um evento específico(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422055500 -0300" stop="20180422063000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Bendita Marvada E6</title>
+    <desc lang="pt">Um episódio dedicado ao lugar onde a cachaça é mais produzida no país: Minas Gerais. O "jeitin minerin" da aguardente mineira traz diferenças históricas e no feitio, com o uso de diferentes madeiras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422063000 -0300" stop="20180422070000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Sobre Rochas E3</title>
+    <desc lang="pt">Sobre Rochas vai ao Pico da Tijuca buscar a história dessas montanhas que, durante o império brasileiro, foram protagonistas do desmatamento e posterior reflorestamento da floresta da Tijuca(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180422070000 -0300" stop="20180422073000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Mundo Visto de Cima - S7E5</title>
+    <desc lang="pt">A viagem de hoje vai sobrevoar o interior da Itália, com os famosos vinhedos da região da Toscana e as cidades medievais declaradas Patrimônio da Humanidade como Assis, Siena e Florença, o berço do Renascimento(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422073000 -0300" stop="20180422080000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Mundo Visto de Cima - S7E9</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo. Em cada episódio visitamos cerca de 25 lugares diferentes do planeta(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422080000 -0300" stop="20180422083000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Mundo Visto de Cima - S3E1</title>
+    <desc lang="pt">A 10.000 pés de altitude, com uma câmera aérea de alta definição, Richard Mervyn nos oferece uma nova perspectiva do nosso mundo(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422083000 -0300" stop="20180422090000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Mundo Visto de Cima - S3E10</title>
+    <desc lang="pt">Admire paisagens belíssimas e conheça histórias da mitologia grega e do Império Romano nesta viagem pelo sul da Itália: da estonteante Costa Amalfitana, passando por Pompeia, até a glamourosa Ilha de Capri(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180422090000 -0300" stop="20180422100000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Sessão Philos: Israel e os Ultraortodoxos</title>
+    <desc lang="pt">Com seus ternos pretos e chapéus largos, os judeus ultraortodoxos tem um enorme peso nas decisões da comunidade(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180422100000 -0300" stop="20180422110000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Sessão Philos</title>
+    <desc lang="pt">Aproximadamente 90% dos trabalhadores apresentam sintomas de estresse causado por problemas nas empresas. Este documentário mostra como reconstruir o sistema trabalhista com liberdade e criatividade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180422110000 -0300" stop="20180422113000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Essa É Minha Família E4</title>
+    <desc lang="pt">Teliana Pereira, de origem humilde pernambucana, começou a jogar tênis aos 8 aos de idade, graças a um emprego que seu pai conseguiu numa academia. Hoje, é a tenista número 1 do Brasil(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422113000 -0300" stop="20180422120000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Oficina Motor E68</title>
+    <desc lang="pt">Três apresentadores mostram ao telespectador as novidades, curiosidades e diferentes testes sobre o mundo dos carros(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180422120000 -0300" stop="20180422123000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Aero: Por Trás Da Aviação - S2E7</title>
+    <desc lang="pt">O Aero visita o pátio de um aeroporto para saber como tudo é preparado antes da chegada de um avião. Depois segue para Minas Gerais para acompanhar o uso de helicópteros na aviação agrícola(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180422123000 -0300" stop="20180422130000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Cervejantes - S1E6</title>
+    <desc lang="pt">Cervejantes é uma bem-humorada competição entre equipes de cervejeiros em busca da cerveja perfeita para cada situação. Em cada episódio, o desafio de duas cervejarias é encontrar a fórmula perfeita para um evento específico(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422130000 -0300" stop="20180422133500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Bendita Marvada E6</title>
+    <desc lang="pt">Um episódio dedicado ao lugar onde a cachaça é mais produzida no país: Minas Gerais. O "jeitin minerin" da aguardente mineira traz diferenças históricas e no feitio, com o uso de diferentes madeiras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422133500 -0300" stop="20180422142000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">O Mistério de Shelly - S1E1</title>
+    <desc lang="pt">O corpo de uma mulher é encontrado em um acampamento abandonado e a polícia desconfia de que se trate de uma menina desaparecida há mais de 15 anos(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422142000 -0300" stop="20180422151000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">O Mistério de Shelly - S1E2</title>
+    <desc lang="pt">Shelly desconfia de que uma pessoa muito próxima de sua família tenha relação com o desaparecimento de sua irmã, Maya. Shelly começa a investigar sozinha(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422151000 -0300" stop="20180422160000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Dois Lados De Um Conflito - S1E9</title>
+    <desc lang="pt">Doron continua em território inimigo e descobre o paradeiro do Pantera. Ele decide se infiltrar no grupo do terrorista para ficar cara a cara com o seu maior inimigo e se vingar pela morte de Boaz(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422160000 -0300" stop="20180422165000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Dois Lados De Um Conflito - S1E10</title>
+    <desc lang="pt">Doron é escolhido para ser o homem-bomba do próximo atentado do Pantera, mas é preso pelos israelenses e cabe ao capitão Ayub decidir se deve permitir que ele atenda ao chamado do terrorista(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20180422165000 -0300" stop="20180422172500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Destino Certo - S2E3</title>
+    <desc lang="pt">O 2º episódio do Destino Certo é para amantes do bom vinho. Entre lindas paisagens, esculturas de arte e até coleções de carros antigos, vamos conhecer as vinícolas mais incríveis do nosso continente(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422172500 -0300" stop="20180422180000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Aero: Por Trás Da Aviação - S2E7</title>
+    <desc lang="pt">O Aero visita o pátio de um aeroporto para saber como tudo é preparado antes da chegada de um avião. Depois segue para Minas Gerais para acompanhar o uso de helicópteros na aviação agrícola(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180422180000 -0300" stop="20180422183000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Escola de Pilotos - S1E3</title>
+    <desc lang="pt">Nem só de corrida e cursos de pilotagem vive a Alpie. Como forma de aumentar seus rendimentos e manter vivo o espírito automobilístico, a família também gerencia o Kartódromo de Interlagos(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422183000 -0300" stop="20180422190000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Restaurantes Inesquecíveis E22</title>
+    <desc lang="pt">Restaurantes Inesquecíveis irá levar você a uma viagem de felicidade e bom gosto através da mais variada gastronomia do planeta. A cada semana visitaremos três diferentes restaurantes ao redor do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180422190000 -0300" stop="20180422193000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Um Brinde Ao Vinho - S2E6</title>
+    <desc lang="pt">A enóloga Cecilia Aldaz percorre as principais regiões vinícolas de Portugal e Espanha em busca dos melhores vinhos e histórias(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422193000 -0300" stop="20180422200000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Brasil Visto de Cima - S5E6</title>
+    <desc lang="pt">Cachoeiro do Itapemirim, no sul do Espírito Santo, é a terra natal do escritor Rubem Braga e do Roberto Carlos. Neste episódio, Brasil Visto de Cima leva você aos sobrados centenários e à casa em que o Rei passou a infância(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422203000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Sobre as Asas - S1E2</title>
+    <desc lang="pt">Neste episódio de Sobre As Asas: O casal conhece o Parque Estadual do Jalapão, em Tocantins e segue para a Estação Ecológica do Taim, no Rio Grande do Sul, onde capturam um jacaré-do-papo-amarelo(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422203000 -0300" stop="20180422210000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Destino Certo - S2E3</title>
+    <desc lang="pt">O 2º episódio do Destino Certo é para amantes do bom vinho. Entre lindas paisagens, esculturas de arte e até coleções de carros antigos, vamos conhecer as vinícolas mais incríveis do nosso continente(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422210000 -0300" stop="20180422213000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Hotéis Incríveis - S5E6</title>
+    <desc lang="pt">O episódio de hoje é para quem curte viajar através dos sabores e da culinária. Visitamos três capitais gastronômicas e Hotéis Incríveis onde as estrelas mais valiosas estão em seus restaurantes(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422213000 -0300" stop="20180422220000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">América do Sul Sobre Rodas - S1E3</title>
+    <desc lang="pt">Através de uma nova aventura, dessa vez em uma road trip, o casal de aventureiros Max Fercondini e Amanda Richter desbravaram a América do Sul!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180422224500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">O Método de um Assassino - S1E7</title>
+    <desc lang="pt">Johanne se aproxima do assassino, mas é ameaçada na própria casa. Ela encontra uma pichação que pode ser a chave do caso. Marcus não consegue mais mentir(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180422224500 -0300" stop="20180422233000 -0300" channel="Mais Globosat HD">
+    <title lang="pt">O Método de um Assassino - S1E8</title>
+    <desc lang="pt">Stina e sua irmã ficam em perigo. Johanne e Ingvar descobrem os motivos do assassino. Para completar sua missão, Richard precisa matar mais um, mas quem?(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180422233000 -0300" stop="20180423002500 -0300" channel="Mais Globosat HD">
+    <title lang="pt">Filhos da Guerra E1</title>
+    <desc lang="pt">Bélgica, 1914. Vincent Boesman é convocado pelo exército, deixando sua família preocupada. Um pouco depois, a Alemanha invade a Bélgica, fazendo a população sentir as primeiras consequências da 1ª Guerra Mundial(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
     <country>EUA</country>
