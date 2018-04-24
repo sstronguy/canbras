@@ -8,6 +8,58 @@
     <display-name lang="es">Movistar Deportes 2</display-name>
     <url>http://www.sincroguia.tv.2d</url>
   </channel>
+  <channel id="Movistar Fútbol HD">
+    <display-name lang="es">Movistar Fútbol HD</display-name>
+    <url>http://www.sincroguia.tv.2d</url>
+  </channel>
+  <channel id="Arena Sport 1">
+    <display-name lang="hr">Arena Sport 1</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Arena Sport 2">
+    <display-name lang="hr">Arena Sport 2</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Arena Sport 3">
+    <display-name lang="hr">Arena Sport 3</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Arena Sport 4">
+    <display-name lang="hr">Arena Sport 4</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Arena Sport 5">
+    <display-name lang="hr">Arena Sport 5</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Sport Klub 1">
+    <display-name lang="hr">Sport Klub 1</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Sport Klub 2">
+    <display-name lang="hr">Sport Klub 2</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Sport Klub 3">
+    <display-name lang="hr">Sport Klub 3</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Sport Klub 4">
+    <display-name lang="hr">Sport Klub 4</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Sport Klub 5">
+    <display-name lang="hr">Sport Klub 5</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Sport Klub 6">
+    <display-name lang="hr">Sport Klub 6</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="TVS FHD">
+    <display-name lang="pt">TVS FHD</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
   <programme start="20180424232500 +0200" stop="20180424235500 +0200" channel="Movistar Deportes 1">
     <title lang="es">WRC: Argentina</title>
     <sub-title lang="es">Previa</sub-title>
@@ -51,5 +103,554 @@
     <star-rating>
       <value>1.0</value>
     </star-rating>
+  </programme>
+  <programme start="20180424223000 +0200" stop="20180424230000 +0200" channel="Movistar Fútbol HD">
+    <title lang="es">Fútbol de Plata</title>
+    <sub-title lang="es">Jornada 36</sub-title>
+    <desc lang="es">Ver ficha de Fútbol de Plata(n)</desc>
+    <date>2018</date>
+    <category lang="es">&lt;a href="https://sincroguia.tv/deportes/deportes" title="Deportes"&gt;Deportes &lt;/a&gt;</category>
+    <country>España</country>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424230000 +0200" stop="20180425001500 +0200" channel="Movistar Fútbol HD">
+    <title lang="es">Clásicos del Clásico</title>
+    <sub-title lang="es">Real Madrid - Barcelona 94/95</sub-title>
+    <desc lang="es">Desde el sueño por un ascenso histórico, hasta la costosa recuperación de un jugador. En este espacio contamos las mejores historias de la competición doméstica(n)</desc>
+    <date>2018</date>
+    <category lang="es">&lt;a href="https://sincroguia.tv/deportes/deportes" title="Deportes"&gt;Deportes &lt;/a&gt;</category>
+    <country>N</country>
+    <country>A</country>
+    <episode-num system="onscreen">S1718</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424060000 +0300" stop="20180424063000 +0300" channel="Arena Sport 1">
+    <title lang="hr">BELGIJSKA LIGA: Club Brugge - Standard Liège</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424063000 +0300" stop="20180424070000 +0300" channel="Arena Sport 1">
+    <title lang="hr">Road to Russia,24</title>
+  </programme>
+  <programme start="20180424070000 +0300" stop="20180424073000 +0300" channel="Arena Sport 1">
+    <title lang="hr">ARSENAL TV: Arsenal 360</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424073000 +0300" stop="20180424080000 +0300" channel="Arena Sport 1">
+    <title lang="hr">ARSENAL TV: Arsenal World</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424080000 +0300" stop="20180424083000 +0300" channel="Arena Sport 1">
+    <title lang="hr">FRANCUSKA LIGA: Pregled kola</title>
+    <category lang="hr">Studijska emisija</category>
+  </programme>
+  <programme start="20180424083000 +0300" stop="20180424090000 +0300" channel="Arena Sport 1">
+    <title lang="hr">ITALIJANSKA LIGA: Pregled kola</title>
+    <category lang="hr">Studijska emisija</category>
+  </programme>
+  <programme start="20180424090000 +0300" stop="20180424103000 +0300" channel="Arena Sport 1">
+    <title lang="hr">SRPSKA LIGA: Partizan - FMP</title>
+    <category lang="hr">Kоšarka</category>
+  </programme>
+  <programme start="20180424103000 +0300" stop="20180424110000 +0300" channel="Arena Sport 1">
+    <title lang="hr">MaxBet NEWS</title>
+    <category lang="hr">Vesti</category>
+  </programme>
+  <programme start="20180424110000 +0300" stop="20180424111500 +0300" channel="Arena Sport 1">
+    <title lang="hr">Red Bull: Worldies,25</title>
+  </programme>
+  <programme start="20180424111500 +0300" stop="20180424113000 +0300" channel="Arena Sport 1">
+    <title lang="hr">Red Bull: Worldies,26</title>
+  </programme>
+  <programme start="20180424113000 +0300" stop="20180424131500 +0300" channel="Arena Sport 1">
+    <title lang="hr">FRANCUSKA LIGA: Marseille - Lille</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424131500 +0300" stop="20180424151500 +0300" channel="Arena Sport 1">
+    <title lang="hr">HRVATSKA LIGA: Hajduk - Dinamo</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424151500 +0300" stop="20180424170000 +0300" channel="Arena Sport 1">
+    <title lang="hr">SUPER LIGA SRBIJE: Partizan - Čukarički</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424170000 +0300" stop="20180424173000 +0300" channel="Arena Sport 1">
+    <title lang="hr">PRVA LIGA CRNE GORE: Pregled kola</title>
+    <category lang="hr">Studijska emisija</category>
+  </programme>
+  <programme start="20180424173000 +0300" stop="20180424180000 +0300" channel="Arena Sport 1">
+    <title lang="hr">1. LIGA SRBIJE: Pregled kola</title>
+    <category lang="hr">Studijska emisija</category>
+  </programme>
+  <programme start="20180424180000 +0300" stop="20180424200000 +0300" channel="Arena Sport 1">
+    <title lang="hr">SRPSKA LIGA: Borac - Crvena zvezda</title>
+    <category lang="hr">Kоšarka</category>
+  </programme>
+  <programme start="20180424200000 +0300" stop="20180424223000 +0300" channel="Arena Sport 1">
+    <title lang="hr">EHF LIGA ŠAMPIONA: Kiel - Vardar</title>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20180424223000 +0300" stop="20180424230000 +0300" channel="Arena Sport 1">
+    <title lang="hr">INTERVJU NEDELJE: Zlatko Saračević</title>
+  </programme>
+  <programme start="20180424230000 +0300" stop="20180424232500 +0300" channel="Arena Sport 1">
+    <title lang="hr">LIGA ŠAMPIONA: Pregled</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424232500 +0300" stop="20180425000000 +0300" channel="Arena Sport 1">
+    <title lang="hr">MaxBet NEWS</title>
+    <category lang="hr">Vesti</category>
+  </programme>
+  <programme start="20180424060000 +0300" stop="20180424074500 +0300" channel="Arena Sport 2">
+    <title lang="hr">PRVENTSTVO SRBIJE KADETI: Finale</title>
+    <category lang="hr">Kоšarka</category>
+  </programme>
+  <programme start="20180424074500 +0300" stop="20180424100000 +0300" channel="Arena Sport 2">
+    <title lang="hr">MLB: Washington - LA Dodgers</title>
+    <category lang="hr">Bejzbol</category>
+  </programme>
+  <programme start="20180424100000 +0300" stop="20180424120000 +0300" channel="Arena Sport 2">
+    <title lang="hr">KOTV Classics</title>
+  </programme>
+  <programme start="20180424120000 +0300" stop="20180424134500 +0300" channel="Arena Sport 2">
+    <title lang="hr">NHL: Playoff</title>
+    <category lang="hr">Hokej</category>
+  </programme>
+  <programme start="20180424134500 +0300" stop="20180424144500 +0300" channel="Arena Sport 2">
+    <title lang="hr">WRC Francuska Pregled</title>
+    <category lang="hr">Automotosport</category>
+  </programme>
+  <programme start="20180424144500 +0300" stop="20180424163000 +0300" channel="Arena Sport 2">
+    <title lang="hr">SRPSKA LIGA (Ž) Finale: Crvena zvezda - Partizan /Game 3</title>
+    <category lang="hr">Kоšarka</category>
+  </programme>
+  <programme start="20180424163000 +0300" stop="20180424180000 +0300" channel="Arena Sport 2">
+    <title lang="hr">EHF LIGA ŠAMPIONA: Paris Saint-Germain Handball - PGE Vive Kielce</title>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20180424180000 +0300" stop="20180424200000 +0300" channel="Arena Sport 2">
+    <title lang="hr">TURSKA LIGA (Ž) Finale: Eczacibasi - Vakifbank /Game 4</title>
+    <category lang="hr">Odbojka</category>
+  </programme>
+  <programme start="20180424200000 +0300" stop="20180424223000 +0300" channel="Arena Sport 2">
+    <title lang="hr">Belgijska Liga Pregled</title>
+  </programme>
+  <programme start="20180424223000 +0300" stop="20180425000000 +0300" channel="Arena Sport 2">
+    <title lang="hr">KOTV Classics</title>
+  </programme>
+  <programme start="20180424060000 +0300" stop="20180424080000 +0300" channel="Arena Sport 3">
+    <title lang="hr">BRAZILSKA LIGA: Flamengo - America-MG</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424080000 +0300" stop="20180424100000 +0300" channel="Arena Sport 3">
+    <title lang="hr">FRANCUSKA LIGA: Nice - Montpellier</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424100000 +0300" stop="20180424120000 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIGA ŠAMPIONA: Real Madrid - Juventus</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424120000 +0300" stop="20180424134500 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIVERPOOL TV: WBA - Liverpool</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424134500 +0300" stop="20180424153000 +0300" channel="Arena Sport 3">
+    <title lang="hr">ITALIJANSKA LIGA: Juventus - Napoli</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424153000 +0300" stop="20180424160000 +0300" channel="Arena Sport 3">
+    <title lang="hr">Road to Russia,34</title>
+  </programme>
+  <programme start="20180424160000 +0300" stop="20180424180000 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIGA ŠAMPIONA: Manchester City - Liverpool</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424180000 +0300" stop="20180424200000 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIGA ŠAMPIONA: Roma - Barcelona</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424200000 +0300" stop="20180424224500 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIGA ŠAMPIONA: Studio</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424224500 +0300" stop="20180424230000 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIGA ŠAMPIONA: Studio</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424230000 +0300" stop="20180425003000 +0300" channel="Arena Sport 3">
+    <title lang="hr">SUPER LIGA SRBIJE: Pregled kola</title>
+  </programme>
+  <programme start="20180424060000 +0300" stop="20180424080000 +0300" channel="Arena Sport 4">
+    <title lang="hr">ARGENTINSKA LIGA: San Lorenzo - Chacarita Juniors</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424080000 +0300" stop="20180424100000 +0300" channel="Arena Sport 4">
+    <title lang="hr">ITALIJANSKA LIGA: Juventus - Napoli</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424100000 +0300" stop="20180424120000 +0300" channel="Arena Sport 4">
+    <title lang="hr">BELGIJSKA LIGA: Sporting Charleroi - Gent</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424120000 +0300" stop="20180424134500 +0300" channel="Arena Sport 4">
+    <title lang="hr">ENDESA LIGA: Valencia Basket Club - Unicaja</title>
+    <category lang="hr">Kоšarka</category>
+  </programme>
+  <programme start="20180424134500 +0300" stop="20180424141500 +0300" channel="Arena Sport 4">
+    <title lang="hr">ARSENAL TV: Arsenal 360</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424141500 +0300" stop="20180424144500 +0300" channel="Arena Sport 4">
+    <title lang="hr">ARSENAL TV: Arsenal World</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424144500 +0300" stop="20180424151500 +0300" channel="Arena Sport 4">
+    <title lang="hr">ITALIJANSKA LIGA: Pregled kola</title>
+  </programme>
+  <programme start="20180424151500 +0300" stop="20180424161500 +0300" channel="Arena Sport 4">
+    <title lang="hr">FRANCUSKA LIGA: Pregled kola</title>
+  </programme>
+  <programme start="20180424161500 +0300" stop="20180424180000 +0300" channel="Arena Sport 4">
+    <title lang="hr">SUPER LIGA SRBIJE: Pregled Kola</title>
+    <category lang="hr">Studijska emisija</category>
+  </programme>
+  <programme start="20180424180000 +0300" stop="20180424200000 +0300" channel="Arena Sport 4">
+    <title lang="hr">SUPER LIGA SRBIJE: Radnički - Crvena zvezda</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424200000 +0300" stop="20180424230000 +0300" channel="Arena Sport 4">
+    <title lang="hr">ŠKOTSKA LIGA: Pregled</title>
+  </programme>
+  <programme start="20180424230000 +0300" stop="20180424233000 +0300" channel="Arena Sport 4">
+    <title lang="hr">RED BULL: Ultimate rush,7</title>
+  </programme>
+  <programme start="20180424233000 +0300" stop="20180424234500 +0300" channel="Arena Sport 4">
+    <title lang="hr">Red Bull: Worldies,23</title>
+  </programme>
+  <programme start="20180424234500 +0300" stop="20180425000000 +0300" channel="Arena Sport 4">
+    <title lang="hr">Red Bull: Worldies,24</title>
+  </programme>
+  <programme start="20180424150000 +0300" stop="20180424164900 +0300" channel="Arena Sport 5">
+    <title lang="hr">YOUTH LIGA ŠAMPIONA: Finale</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20180424164900 +0300" stop="20180424183000 +0300" channel="Arena Sport 5">
+    <title lang="hr">SRPSKA LIGA (Ž) Finale: Crvena zvezda - Partizan /Game 3</title>
+    <category lang="hr">Kоšarka</category>
+  </programme>
+  <programme start="20180424183000 +0300" stop="20180424200000 +0300" channel="Arena Sport 5">
+    <title lang="hr">EHF LIGA ŠAMPIONA: HBC Nantes - Skjern Handbold</title>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20180424061000 +0300" stop="20180424080000 +0300" channel="Sport Klub 1">
+    <title lang="hr">NBA - Playoffs (G4): San Antonio - Golden State</title>
+  </programme>
+  <programme start="20180424080000 +0300" stop="20180424083000 +0300" channel="Sport Klub 1">
+    <title lang="hr">Max Bet VESTI</title>
+  </programme>
+  <programme start="20180424083000 +0300" stop="20180424090000 +0300" channel="Sport Klub 1">
+    <title lang="hr">Pregled Championship</title>
+    <desc lang="hr">Bez sumnje, ovo je najjača druga liga na svetu, jača i od mnogih prvih. Svaka od 46 utakmica je teška na svoj način, a samo tri tima mogu u Premijer ligu. Imamo ove sezone u Čempionšipu čak i dva bivša prvaka Evrope(n)</desc>
+  </programme>
+  <programme start="20180424090000 +0300" stop="20180424110000 +0300" channel="Sport Klub 1">
+    <title lang="hr">NBA - Playoffs (G4): Minnesota - Houston</title>
+  </programme>
+  <programme start="20180424110000 +0300" stop="20180424123000 +0300" channel="Sport Klub 1">
+    <title lang="hr">ATP 500 Barcelona: Haider-Maurer - Carballes-Baena</title>
+    <desc lang="hr">Kažu da je u Barseloni najsporija šljaka od svih. Rafael Nadal je dominantan na ovom turniru. U čije ruke će sada veliki pehar u Gaudijevom gradu(n)</desc>
+  </programme>
+  <programme start="20180424123000 +0300" stop="20180424141500 +0300" channel="Sport Klub 1">
+    <title lang="hr">ATP 500 Barcelona: Goffin - Granollers</title>
+    <desc lang="hr">Kažu da je u Barseloni najsporija šljaka od svih. Rafael Nadal je dominantan na ovom turniru. U čije ruke će sada veliki pehar u Gaudijevom gradu(n)</desc>
+  </programme>
+  <programme start="20180424141500 +0300" stop="20180424160000 +0300" channel="Sport Klub 1">
+    <title lang="hr">ATP 500 Barcelona: F. Lopez - Lajović</title>
+    <desc lang="hr">Kažu da je u Barseloni najsporija šljaka od svih. Rafael Nadal je dominantan na ovom turniru. U čije ruke će sada veliki pehar u Gaudijevom gradu(n)</desc>
+  </programme>
+  <programme start="20180424160000 +0300" stop="20180424181000 +0300" channel="Sport Klub 1">
+    <title lang="hr">ATP 500 Barcelona: Karlović - Bautista-Agut</title>
+    <desc lang="hr">Kažu da je u Barseloni najsporija šljaka od svih. Rafael Nadal je dominantan na ovom turniru. U čije ruke će sada veliki pehar u Gaudijevom gradu(n)</desc>
+  </programme>
+  <programme start="20180424181000 +0300" stop="20180424190000 +0300" channel="Sport Klub 1">
+    <title lang="hr">SK STUDIO</title>
+    <desc lang="hr">Sve se lomi, odlučuje se ko će osvajati trofeje a ko će u suzama završiti sezonu. Sa Marinom Sekulić i Marijom Sekulović, probaćemo da najavimo sve što će se dešavati na kanalima Sport Kluba(n)</desc>
+  </programme>
+  <programme start="20180424190000 +0300" stop="20180424230000 +0300" channel="Sport Klub 1">
+    <title lang="hr">Euroleague Play-off (G3): Zalgiris - Olympiacos</title>
+    <desc lang="hr">Žalgiris je već napravio veliki posao ulaskom u plej of. Ali, baš zato, tim Šarunasa Jasikevičiusa mogao bi da bude izuzetno opasan i po Olimpijakos, koji ima tim kao stvoren za ovakve mečeve(n)</desc>
+  </programme>
+  <programme start="20180424230000 +0300" stop="20180424232500 +0300" channel="Sport Klub 1">
+    <title lang="hr">Max Bet VESTI</title>
+    <desc lang="hr">Svaki dan, polučasovni pregled događaja iz sveta sporta, sve najvažnije vesti, zanimljivi prilozi i najave predstojećih događaja na način na koji to ume samo najbolji klub(n)</desc>
+  </programme>
+  <programme start="20180424232500 +0300" stop="20180424234500 +0300" channel="Sport Klub 1">
+    <title lang="hr">Top Tenn!s</title>
+    <desc lang="hr">I pored velikog broja direktnih prenosa teniskih mečeva, ljubitelje ovog sporta svakako će obradovati start nove teniske emisije koju u sopstvenoj produkciji proizvodi ekipa sk. Top tenis će se baviti globalnim i domaćim teniskim temama, pristupajući im n(n)</desc>
+  </programme>
+  <programme start="20180424234500 +0300" stop="20180425013000 +0300" channel="Sport Klub 1">
+    <title lang="hr">NBA - Playoffs (G4): Minnesota - Houston</title>
+  </programme>
+  <programme start="20180424063000 +0300" stop="20180424094000 +0300" channel="Sport Klub 2">
+    <title lang="hr">ATP 500 Barcelona</title>
+  </programme>
+  <programme start="20180424094000 +0300" stop="20180424113000 +0300" channel="Sport Klub 2">
+    <title lang="hr">Španska liga: Athletic Bilbao - Levante</title>
+  </programme>
+  <programme start="20180424113000 +0300" stop="20180424130000 +0300" channel="Sport Klub 2">
+    <title lang="hr">WTA Premier Stuttgart: Kostyuk - Lottner</title>
+    <desc lang="hr">Ako je Monte Karlo prvi veliki turnir za muškarce na šljaci, onda je to Štutgart za žene. Porše Kup uvek okupi najbolje igračice na svetu i pruži nam sjajne mečeve(n)</desc>
+  </programme>
+  <programme start="20180424130000 +0300" stop="20180424144500 +0300" channel="Sport Klub 2">
+    <title lang="hr">WTA Premier Stuttgart: Pliskova - Bertens</title>
+    <desc lang="hr">Ako je Monte Karlo prvi veliki turnir za muškarce na šljaci, onda je to Štutgart za žene. Porše Kup uvek okupi najbolje igračice na svetu i pruži nam sjajne mečeve(n)</desc>
+  </programme>
+  <programme start="20180424144500 +0300" stop="20180424164500 +0300" channel="Sport Klub 2">
+    <title lang="hr">WTA Premier Stuttgart: Sharapova - Garcia</title>
+    <desc lang="hr">Ako je Monte Karlo prvi veliki turnir za muškarce na šljaci, onda je to Štutgart za žene. Porše Kup uvek okupi najbolje igračice na svetu i pruži nam sjajne mečeve(n)</desc>
+  </programme>
+  <programme start="20180424164500 +0300" stop="20180424183000 +0300" channel="Sport Klub 2">
+    <title lang="hr">Premier League: Everton - Newcastle</title>
+  </programme>
+  <programme start="20180424183000 +0300" stop="20180424201500 +0300" channel="Sport Klub 2">
+    <title lang="hr">WTA Premier Stuttgart: Goerges - Vondrousova</title>
+    <desc lang="hr">Ako je Monte Karlo prvi veliki turnir za muškarce na šljaci, onda je to Štutgart za žene. Porše Kup uvek okupi najbolje igračice na svetu i pruži nam sjajne mečeve(n)</desc>
+  </programme>
+  <programme start="20180424201500 +0300" stop="20180424223500 +0300" channel="Sport Klub 2">
+    <title lang="hr">WTA Premier Stuttgart: Strycova - Siegemund</title>
+    <desc lang="hr">Ako je Monte Karlo prvi veliki turnir za muškarce na šljaci, onda je to Štutgart za žene. Porše Kup uvek okupi najbolje igračice na svetu i pruži nam sjajne mečeve(n)</desc>
+  </programme>
+  <programme start="20180424223500 +0300" stop="20180424225000 +0300" channel="Sport Klub 2">
+    <title lang="hr">KHL Ice Week</title>
+    <desc lang="hr">Po tradiciji, najbolji evropski hokej gledate na Sport Klubu. Tu su najbolji timovi iz Rusije, plus hokejaški krem Slovačke, Finske i Kine. U ovoj emisiji gledamo pregled najzanimljivijih događaja u tekućoj nedelji(n)</desc>
+  </programme>
+  <programme start="20180424225000 +0300" stop="20180424230000 +0300" channel="Sport Klub 2">
+    <title lang="hr">NBA LIVE Playoffs</title>
+  </programme>
+  <programme start="20180424230000 +0300" stop="20180425004000 +0300" channel="Sport Klub 2">
+    <title lang="hr">Euroleague Play-off (G3): Zalgiris - Olympiacos</title>
+  </programme>
+  <programme start="20180424061500 +0300" stop="20180424080000 +0300" channel="Sport Klub 3">
+    <title lang="hr">Kineska liga: Guangzhou RF - Shandong</title>
+  </programme>
+  <programme start="20180424080000 +0300" stop="20180424085500 +0300" channel="Sport Klub 3">
+    <title lang="hr">Pregled Premier League</title>
+    <desc lang="hr">Čini se da nas očekuje nikad zanimljivija borba za titulu u Premijer ligi. Mančesterski klubovi su blagi favoriti, Čelsi neće tek tako predati pehar, a i Liverpul i Totenhem imaju svoje planove(n)</desc>
+  </programme>
+  <programme start="20180424085500 +0300" stop="20180424104500 +0300" channel="Sport Klub 3">
+    <title lang="hr">Turska liga: Fenerbahce - Antalya</title>
+  </programme>
+  <programme start="20180424104500 +0300" stop="20180424131500 +0300" channel="Sport Klub 3">
+    <title lang="hr">Italijanska odbojka (Ž) Play-Off - FINALE (G2): Conegliano - Novara</title>
+  </programme>
+  <programme start="20180424131500 +0300" stop="20180424150000 +0300" channel="Sport Klub 3">
+    <title lang="hr">FA Cup 1/2 Finale: Chelsea - Southampton</title>
+  </programme>
+  <programme start="20180424150000 +0300" stop="20180424151000 +0300" channel="Sport Klub 3">
+    <title lang="hr">NBA LIVE Playoffs</title>
+  </programme>
+  <programme start="20180424151000 +0300" stop="20180424165500 +0300" channel="Sport Klub 3">
+    <title lang="hr">Rugby Champions Cup 1/2 Finale: Leinster - Scarlets</title>
+  </programme>
+  <programme start="20180424165500 +0300" stop="20180424172500 +0300" channel="Sport Klub 3">
+    <title lang="hr">Pregled ruske lige</title>
+    <desc lang="hr">Kreće nova borba za titulu u najvećoj državi na svetu, a "dežurni krivci" su isti. CSKA brani titulu, napada ih Zenit zajedno sa gradskim rivalima Spartakom i Lokomotivom. Jedina velika razlika u odnosu na prošlu sezonu je to što je slavni Dinamo ispao iz(n)</desc>
+  </programme>
+  <programme start="20180424172500 +0300" stop="20180424191500 +0300" channel="Sport Klub 3">
+    <title lang="hr">NBA - Playoffs (G4): Minnesota - Houston</title>
+  </programme>
+  <programme start="20180424191500 +0300" stop="20180424210500 +0300" channel="Sport Klub 3">
+    <title lang="hr">Holandski Kup FINALE: AZ Alkmaar - Feyenoord</title>
+  </programme>
+  <programme start="20180424210500 +0300" stop="20180424212000 +0300" channel="Sport Klub 3">
+    <title lang="hr">Na današnji dan</title>
+    <desc lang="hr">Prisjećanje na godišnjice uspjeha sportaša, klubova i reprezentacije koji su se dogodili na današnji dan(n)</desc>
+  </programme>
+  <programme start="20180424212000 +0300" stop="20180424223500 +0300" channel="Sport Klub 3">
+    <title lang="hr">KHL Ice Week</title>
+  </programme>
+  <programme start="20180424223500 +0300" stop="20180424230000 +0300" channel="Sport Klub 3">
+    <title lang="hr">F1 - GP Confidential</title>
+  </programme>
+  <programme start="20180424230000 +0300" stop="20180425002500 +0300" channel="Sport Klub 3">
+    <title lang="hr">Esports Balkan League - Counter Strike GO</title>
+  </programme>
+  <programme start="20180424060500 +0300" stop="20180424075000 +0300" channel="Sport Klub 4">
+    <title lang="hr">Austrijska liga: Lask – Austria W</title>
+  </programme>
+  <programme start="20180424075000 +0300" stop="20180424083500 +0300" channel="Sport Klub 4">
+    <title lang="hr">Pregled portugalske lige</title>
+    <desc lang="hr">Benfika je „dežurni šampion Portugala, ali čini se da će ove sezone imati veoma težak posao da odbrane titulu. Porto je spremio veoma jak tim, a i u Sportingu smatraju da je kucnuo čas kada će se oni konačno radovati(n)</desc>
+  </programme>
+  <programme start="20180424083500 +0300" stop="20180424093500 +0300" channel="Sport Klub 4">
+    <title lang="hr">Pregled španske lige</title>
+    <desc lang="hr">Čini se da nas očekuje nikad zanimljivija borba za titulu u Premijer ligi. Mančesterski klubovi su blagi favoriti, Čelsi neće tek tako predati pehar, a i Liverpul i Totenhem imaju svoje planove(n)</desc>
+  </programme>
+  <programme start="20180424093500 +0300" stop="20180424111000 +0300" channel="Sport Klub 4">
+    <title lang="hr">WTA Premier Stuttgart</title>
+  </programme>
+  <programme start="20180424111000 +0300" stop="20180424131500 +0300" channel="Sport Klub 4">
+    <title lang="hr">Holandski Kup FINALE: AZ Alkmaar - Feyenoord</title>
+  </programme>
+  <programme start="20180424131500 +0300" stop="20180424150500 +0300" channel="Sport Klub 4">
+    <title lang="hr">NBA - Playoffs (G4): Minnesota - Houston</title>
+  </programme>
+  <programme start="20180424150500 +0300" stop="20180424165000 +0300" channel="Sport Klub 4">
+    <title lang="hr">Premier League: Manchester City - Swansea</title>
+  </programme>
+  <programme start="20180424165000 +0300" stop="20180424180000 +0300" channel="Sport Klub 4">
+    <title lang="hr">Italijanska odbojka (M) Play-off - FINALE (G1): Perugia - Lube</title>
+  </programme>
+  <programme start="20180424180000 +0300" stop="20180424181000 +0300" channel="Sport Klub 4">
+    <title lang="hr">NBA LIVE Playoffs</title>
+  </programme>
+  <programme start="20180424181000 +0300" stop="20180424223500 +0300" channel="Sport Klub 4">
+    <title lang="hr">FA Cup 1/2 Finale: Manchester United - Tottenham</title>
+  </programme>
+  <programme start="20180424223500 +0300" stop="20180425001000 +0300" channel="Sport Klub 4">
+    <title lang="hr">ATP 500 Barcelona</title>
+  </programme>
+  <programme start="20180424004000 +0100" stop="20180424012500 +0100" channel="TVS FHD">
+    <title lang="pt">Chicago Fire T6</title>
+    <sub-title lang="pt">Ep. 17</sub-title>
+    <desc lang="pt">Boden faz um julgamento precipitado, após o resgate de um jovem rapaz. Kidd esforça-se por conseguir a aprovação da mãe de Severide, na sequência de uma visita surpresa. Otis assume novas respon... Boden faz um julgamento precipitado, após o resgate de um jovem rapaz. Kidd esforça-se por conseguir a aprovação da mãe de Severide, na sequência de uma visita surpresa. Otis assume novas responsabilidades no quartel(n)</desc>
+  </programme>
+  <programme start="20180424012500 +0100" stop="20180424021000 +0100" channel="TVS FHD">
+    <title lang="pt">Knightfall</title>
+    <sub-title lang="pt">Ep. 1</sub-title>
+    <desc lang="pt">Quando sangue de um irmão é derramado, Landry e os Templários vêem-se forçados a erguer as espadas novamente.... Quando sangue de um irmão é derramado, Landry e os Templários vêem-se forçados a erguer as espadas novamente(n)</desc>
+  </programme>
+  <programme start="20180424025500 +0100" stop="20180424031500 +0100" channel="TVS FHD">
+    <title lang="pt">Room 104 T1</title>
+    <sub-title lang="pt">Ep. 11</sub-title>
+    <desc lang="pt">Duas lutadoras femininas decidem unir-se para conseguirem garantir uma remuneração mais elevada na próxima luta.... Duas lutadoras femininas decidem unir-se para conseguirem garantir uma remuneração mais elevada na próxima luta(n)</desc>
+  </programme>
+  <programme start="20180424031500 +0100" stop="20180424034500 +0100" channel="TVS FHD">
+    <title lang="pt">Room 104 T1</title>
+    <sub-title lang="pt">Ep. 12</sub-title>
+    <desc lang="pt">Um casal de octogenários regressa ao quarto 104 para reviver a primeira noite que passaram juntos.... Um casal de octogenários regressa ao quarto 104 para reviver a primeira noite que passaram juntos(n)</desc>
+  </programme>
+  <programme start="20180424034500 +0100" stop="20180424044500 +0100" channel="TVS FHD">
+    <title lang="pt">Billions T3</title>
+    <sub-title lang="pt">Ep. 3</sub-title>
+    <desc lang="pt">Chuck enfrenta um dilema quando recebe uma ordem perversa. Axe avança com um empreendimento secreto. Taylor e Wags entrevistam um tipo diferente de funcionário da Axe Capital. Connerty e Dake conseg... Chuck enfrenta um dilema quando recebe uma ordem perversa. Axe avança com um empreendimento secreto. Taylor e Wags entrevistam um tipo diferente de funcionário da Axe Capital. Connerty e Dake conseguem uma testemunha crucial no caso ´Ice Juice´(n)</desc>
+  </programme>
+  <programme start="20180424054500 +0100" stop="20180424062500 +0100" channel="TVS FHD">
+    <title lang="pt">Still Star-Crossed T1</title>
+    <sub-title lang="pt">Ep. 6</sub-title>
+    <desc lang="pt">Uma discussão entre Montague e Capulet gera um ato de violência, sem qualquer sentido, que provoca o aumento (a um ritmo vertiginoso) das tensões entre as duas famílias.... Uma discussão entre Montague e Capulet gera um ato de violência, sem qualquer sentido, que provoca o aumento (a um ritmo vertiginoso) das tensões entre as duas famílias(n)</desc>
+  </programme>
+  <programme start="20180424062500 +0100" stop="20180424071000 +0100" channel="TVS FHD">
+    <title lang="pt">Madam Secretary T4</title>
+    <sub-title lang="pt">Ep. 8</sub-title>
+    <desc lang="pt">A Secretária de Estado e a equipa trabalham em conjunto com o governo mexicano para conseguirem extraditar um mexicano, líder de um cartel, para uma prisão nos EUA, num esforço para diminuir a cri... A Secretária de Estado e a equipa trabalham em conjunto com o governo mexicano para conseguirem extraditar um mexicano, líder de um cartel, para uma prisão nos EUA, num esforço para diminuir a crise de opiáceos(n)</desc>
+  </programme>
+  <programme start="20180424071000 +0100" stop="20180424075500 +0100" channel="TVS FHD">
+    <title lang="pt">Dead Like Me T2</title>
+    <sub-title lang="pt">Ep. 8</sub-title>
+    <desc lang="pt">Mason e Roxy sobem até às nuvens. Rube ensina na escola primária. George telefona para casa e Joy resiste a aceitar a nova filosofia da sua mãe.... Mason e Roxy sobem até às nuvens. Rube ensina na escola primária. George telefona para casa e Joy resiste a aceitar a nova filosofia da sua mãe(n)</desc>
+  </programme>
+  <programme start="20180424084000 +0100" stop="20180424092500 +0100" channel="TVS FHD">
+    <title lang="pt">Dead Like Me T2</title>
+    <sub-title lang="pt">Ep. 10</sub-title>
+    <desc lang="pt">George está de mau humor, depois do que aconteceu com Trip. Daisy faz um novo amigo, e deixa Mason com ciúmes. Rube parte em busca duma misteriosa mulher do seu passado.... George está de mau humor, depois do que aconteceu com Trip. Daisy faz um novo amigo, e deixa Mason com ciúmes. Rube parte em busca duma misteriosa mulher do seu passado(n)</desc>
+  </programme>
+  <programme start="20180424092500 +0100" stop="20180424101000 +0100" channel="TVS FHD">
+    <title lang="pt">Dead Like Me T2</title>
+    <sub-title lang="pt">Ep. 11</sub-title>
+    <desc lang="pt">George tenta passar por familiar dum homem sem abrigo. Daisy actua como mulher sedutora no reality show do Ray, para grande desgosto de Mason. Reggie experimenta um estilo gótico.... George tenta passar por familiar dum homem sem abrigo. Daisy actua como mulher sedutora no reality show do Ray, para grande desgosto de Mason. Reggie experimenta um estilo gótico(n)</desc>
+  </programme>
+  <programme start="20180424101000 +0100" stop="20180424105500 +0100" channel="TVS FHD">
+    <title lang="pt">Dead Like Me T2</title>
+    <sub-title lang="pt">Ep. 12</sub-title>
+    <desc lang="pt">Ray e Mason lutam pela atenção de Daisy, e este jogo torna-se em algo pior quando Daisy quer acabar a relação com Ray. Num hospital, George tem de convencer uma idosa da sua morte. Rube pede ajuda... Ray e Mason lutam pela atenção de Daisy, e este jogo torna-se em algo pior quando Daisy quer acabar a relação com Ray. Num hospital, George tem de convencer uma idosa da sua morte. Rube pede ajuda a Penny para encontrar a filha(n)</desc>
+  </programme>
+  <programme start="20180424105500 +0100" stop="20180424114000 +0100" channel="TVS FHD">
+    <title lang="pt">Dead Like Me T2</title>
+    <sub-title lang="pt">Ep. 13</sub-title>
+    <desc lang="pt">Mason e Daisy tentam esconder a morte de Ray. Mason recebe um post-it roxo, talvez o seu último antes de seguir em frente. Roxy questiona Daisy sobre o desaparecimento de Ray. George vai a uma festa ... Mason e Daisy tentam esconder a morte de Ray. Mason recebe um post-it roxo, talvez o seu último antes de seguir em frente. Roxy questiona Daisy sobre o desaparecimento de Ray. George vai a uma festa de despedida na Happy Time. Reggie deixa fugir o J.D.(n)</desc>
+  </programme>
+  <programme start="20180424114000 +0100" stop="20180424122500 +0100" channel="TVS FHD">
+    <title lang="pt">Dead Like Me T2</title>
+    <sub-title lang="pt">Ep. 14</sub-title>
+    <desc lang="pt">George descobre que a mãe esteve na Happy Time à procura do seu ficheiro. Rube vai ver a filha depois de receber da Penny notícias perturbadoras. Ray continua a causar problemas mesmo depois de mor... George descobre que a mãe esteve na Happy Time à procura do seu ficheiro. Rube vai ver a filha depois de receber da Penny notícias perturbadoras. Ray continua a causar problemas mesmo depois de morto. Mason tem problemas com Kiffany(n)</desc>
+  </programme>
+  <programme start="20180424122500 +0100" stop="20180424131000 +0100" channel="TVS FHD">
+    <title lang="pt">Dead Like Me T2</title>
+    <sub-title lang="pt">Ep. 15</sub-title>
+    <desc lang="pt">É o dia das bruxas, e a lenda diz que os ceifadores podem ser vistos como eram quando estavam vivos. Um assassino em série ameaça o bairro, e a equipa vai recolhendo almas atrás dele. Joy e Reggie... É o dia das bruxas, e a lenda diz que os ceifadores podem ser vistos como eram quando estavam vivos. Um assassino em série ameaça o bairro, e a equipa vai recolhendo almas atrás dele. Joy e Reggie visitam a campa de George à noite, e George também l(n)</desc>
+  </programme>
+  <programme start="20180424131000 +0100" stop="20180424141000 +0100" channel="TVS FHD">
+    <title lang="pt">The Fall T3</title>
+    <sub-title lang="pt">Ep. 5</sub-title>
+    <desc lang="pt">O Dr. Larson começa a sua avaliação de Spector, que lhe fala sobre a sua vida antes da amnésia. A equipa de advogados do assassino acredita que ele nunca irá a tribunal, o que coloca a conduta de... O Dr. Larson começa a sua avaliação de Spector, que lhe fala sobre a sua vida antes da amnésia. A equipa de advogados do assassino acredita que ele nunca irá a tribunal, o que coloca a conduta de Gibson sobre um escrutínio ainda mais apertado(n)</desc>
+  </programme>
+  <programme start="20180424141000 +0100" stop="20180424145000 +0100" channel="TVS FHD">
+    <title lang="pt">Still Star-Crossed T1</title>
+    <sub-title lang="pt">Ep. 6</sub-title>
+    <desc lang="pt">Uma discussão entre Montague e Capulet gera um ato de violência, sem qualquer sentido, que provoca o aumento (a um ritmo vertiginoso) das tensões entre as duas famílias.... Uma discussão entre Montague e Capulet gera um ato de violência, sem qualquer sentido, que provoca o aumento (a um ritmo vertiginoso) das tensões entre as duas famílias(n)</desc>
+  </programme>
+  <programme start="20180424145000 +0100" stop="20180424153500 +0100" channel="TVS FHD">
+    <title lang="pt">Madam Secretary T4</title>
+    <sub-title lang="pt">Ep. 8</sub-title>
+    <desc lang="pt">A Secretária de Estado e a equipa trabalham em conjunto com o governo mexicano para conseguirem extraditar um mexicano, líder de um cartel, para uma prisão nos EUA, num esforço para diminuir a cri... A Secretária de Estado e a equipa trabalham em conjunto com o governo mexicano para conseguirem extraditar um mexicano, líder de um cartel, para uma prisão nos EUA, num esforço para diminuir a crise de opiáceos(n)</desc>
+  </programme>
+  <programme start="20180424153500 +0100" stop="20180424162000 +0100" channel="TVS FHD">
+    <title lang="pt">The Crossing T1</title>
+    <sub-title lang="pt">Ep. 2</sub-title>
+    <desc lang="pt">Em 2187, Reece encontra Leah, uma bebé órfã, e vai contra a superior para ficar com ela. No tempo presente, Jude, na esperança de uma solução pacífica com o FBI, é surpreendido por uma equipa ... Em 2187, Reece encontra Leah, uma bebé órfã, e vai contra a superior para ficar com ela. No tempo presente, Jude, na esperança de uma solução pacífica com o FBI, é surpreendido por uma equipa misteriosa que tenciona capturar Reece a qualquer custo(n)</desc>
+  </programme>
+  <programme start="20180424162000 +0100" stop="20180424170500 +0100" channel="TVS FHD">
+    <title lang="pt">Taken T2</title>
+    <sub-title lang="pt">Ep. 11</sub-title>
+    <desc lang="pt">Quanto um perigoso traficante de armas infiltra os seus produtos em Nova Iorque, Bryan alia-se ao FBI numa corrida contra o tempo para impedi-lo antes que ele alcance águas internacionais.... Quanto um perigoso traficante de armas infiltra os seus produtos em Nova Iorque, Bryan alia-se ao FBI numa corrida contra o tempo para impedi-lo antes que ele alcance águas internacionais(n)</desc>
+  </programme>
+  <programme start="20180424170500 +0100" stop="20180424174500 +0100" channel="TVS FHD">
+    <title lang="pt">Madam Secretary T4</title>
+    <sub-title lang="pt">Ep. 11</sub-title>
+    <desc lang="pt">Quando a Hurst se sente ameaçada com a possibilidade de Elizabeth poderá ser a próxima Presidente, tenta que esta falhe com a promessa de que os americanos vão poder continuar a adotar órfãos ru... Quando a Hurst se sente ameaçada com a possibilidade de Elizabeth poderá ser a próxima Presidente, tenta que esta falhe com a promessa de que os americanos vão poder continuar a adotar órfãos russos, apesar da proibição do Presidente russo(n)</desc>
+  </programme>
+  <programme start="20180424174500 +0100" stop="20180424183000 +0100" channel="TVS FHD">
+    <title lang="pt">Defesa à Medida T7</title>
+    <sub-title lang="pt">Ep. 12</sub-title>
+    <desc lang="pt">Harvey tem de cobrar uma antiga dívida pela empresa. Por outro lado, Mike fica frente a frente com um adversário improvável e Louis conforma-se com o novo papel que tem de assumir.... Harvey tem de cobrar uma antiga dívida pela empresa. Por outro lado, Mike fica frente a frente com um adversário improvável e Louis conforma-se com o novo papel que tem de assumir(n)</desc>
+  </programme>
+  <programme start="20180424183000 +0100" stop="20180424193000 +0100" channel="TVS FHD">
+    <title lang="pt">The Fall T3</title>
+    <sub-title lang="pt">Ep. 6</sub-title>
+    <desc lang="pt">Spector admite a Tom Anderson que esteve envolvido no homicídio de Londres há oito anos. Mais tarde, ele reage mal a um comentário de Stella e ataca-a, levando a divisões na sua equipa legal. Um �... Spector admite a Tom Anderson que esteve envolvido no homicídio de Londres há oito anos. Mais tarde, ele reage mal a um comentário de Stella e ataca-a, levando a divisões na sua equipa legal. Um último ato macabro de Spector sela o seu destino(n)</desc>
+  </programme>
+  <programme start="20180424193000 +0100" stop="20180424201500 +0100" channel="TVS FHD">
+    <title lang="pt">Still Star-Crossed T1</title>
+    <sub-title lang="pt">Ep. 7</sub-title>
+    <desc lang="pt">Quando Rosaline regressa a Verona e tenta provar a inocência de Benvolio, Paris decide fazer justiça pelas próprias mãos. A relação deste, com Lady Capulet, chega a um impasse. Uma descoberta ch... Quando Rosaline regressa a Verona e tenta provar a inocência de Benvolio, Paris decide fazer justiça pelas próprias mãos. A relação deste, com Lady Capulet, chega a um impasse. Uma descoberta chocante sobre o passado de Lord Montague é revelada(n)</desc>
+  </programme>
+  <programme start="20180424201500 +0100" stop="20180424210000 +0100" channel="TVS FHD">
+    <title lang="pt">Madam Secretary T4</title>
+    <sub-title lang="pt">Ep. 9</sub-title>
+    <desc lang="pt">Elizabeth concorda, relutantemente, oferecer uma festa, na esperança de persuadir os senadores a aprovar um tratado que exija que os países destruam campos de minas. Henry tenta encontrar provas de ... Elizabeth concorda, relutantemente, oferecer uma festa, na esperança de persuadir os senadores a aprovar um tratado que exija que os países destruam campos de minas. Henry tenta encontrar provas de que o senado trocou informações com os russos(n)</desc>
+  </programme>
+  <programme start="20180424210000 +0100" stop="20180424214500 +0100" channel="TVS FHD">
+    <title lang="pt">Seal Team T1</title>
+    <sub-title lang="pt">Ep. 11</sub-title>
+    <desc lang="pt">Jason e os fuzileiros são enviados para intercetarem a venda de armas nucleares, mas a missão começa a correr mal quando têm de fazer o caminho de volta à base com armas nucleares não seguras. A... Jason e os fuzileiros são enviados para intercetarem a venda de armas nucleares, mas a missão começa a correr mal quando têm de fazer o caminho de volta à base com armas nucleares não seguras. Ao mesmo tempo, Ray sofre uma lesão no ombro(n)</desc>
+  </programme>
+  <programme start="20180424214500 +0100" stop="20180424223000 +0100" channel="TVS FHD">
+    <title lang="pt">Instinct T1</title>
+    <sub-title lang="pt">Ep. 1</sub-title>
+    <desc lang="pt">Um antigo agente da CIA (Alan Cumming) é atraído de volta à investigação quando a polícia de Nova Iorque precida da ajuda dele para conseguir parar um assassino em série.... Um antigo agente da CIA (Alan Cumming) é atraído de volta à investigação quando a polícia de Nova Iorque precida da ajuda dele para conseguir parar um assassino em série(n)</desc>
+  </programme>
+  <programme start="20180424223000 +0100" stop="20180424232000 +0100" channel="TVS FHD">
+    <title lang="pt">Fargo T3</title>
+    <sub-title lang="pt">Ep. 8</sub-title>
+    <desc lang="pt">Nikki luta para sobreviver. Ao mesmo tempo, Emmit está completamente assustado e Sy junta-se a Varga para um chá.... Nikki luta para sobreviver. Ao mesmo tempo, Emmit está completamente assustado e Sy junta-se a Varga para um chá(n)</desc>
   </programme>
 </tv>
