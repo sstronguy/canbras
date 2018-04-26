@@ -80,6 +80,26 @@
     <icon src="http://www.lineup.tv.br/canais/sony.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tnt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT Series HD">
+    <display-name lang="pt">TNT Series HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tntseries.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tcm.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Viva HD">
+    <display-name lang="pt">Viva HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/viva.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <channel id="Band HD">
     <display-name lang="pt">Band HD</display-name>
     <icon src="http://www.lineup.tv.br/canais/band.gif" />
@@ -4395,6 +4415,1653 @@
     <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Culinária</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426000200 -0300" stop="20180426020800 -0300" channel="TNT HD">
+    <title lang="pt">Relatos Selvagens</title>
+    <desc lang="pt">Diante de uma realidade crua e imprevisível, os personagens deste filme caminham sobre a linha tênue que separa a civilização da barbárie(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>Argentina/Espanha</country>
+  </programme>
+  <programme start="20180426020800 -0300" stop="20180426040800 -0300" channel="TNT HD">
+    <title lang="pt">Soldado Anônimo</title>
+    <desc lang="pt">A Guerra do Golfo é descrita pelos olhos de Anthony "Swoff" Swofford, que se alista nos fuzileiros navais devido a uma tradição familiar de três gerações. O problema é que, uma vez lá, ele percebe que detesta essa vida(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Guerra</category>
+    <country>Alemanha/EUA</country>
+  </programme>
+  <programme start="20180426040800 -0300" stop="20180426060000 -0300" channel="TNT HD">
+    <title lang="pt">Heróis de Ressaca</title>
+    <desc lang="pt">Um grupo de cinco amigos de infância se reúne novamente para fazer uma maratona de bebedeira em vários bares numa única noite. O desafio vai até o Pub do Fim do Mundo, no qual somente os mais fortes sobrevivem(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180426060000 -0300" stop="20180426075200 -0300" channel="TNT HD">
+    <title lang="pt">No Ritmo do Passinho</title>
+    <desc lang="pt">Sean é um jovem homem de negócios que se encanta por um grupo de dança de crianças de uma comunidade carente. Apesar de o grupo ser muito amador, Sean percebe o potencial destes meninos e contrata um instrutor para ajudá-los(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426075200 -0300" stop="20180426093200 -0300" channel="TNT HD">
+    <title lang="pt">Up: Altas Aventuras</title>
+    <desc lang="pt">Um vendedor de balões de 78 anos, finalmente, realiza o seu sonho e parte na maior aventura de sua vida. Ele prende milhares de balões na sua casa e voa para as florestas da América do Sul. Mas um menino de 8 anos embarca com ele nesa viagem(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426093200 -0300" stop="20180426112500 -0300" channel="TNT HD">
+    <title lang="pt">De Repente é Amor</title>
+    <desc lang="pt">Oliver e Emily se conheceram em um e uma grande amizade nasce entre eles. Enquanto procuram o amor e um relacionamento que não esteja fadado ao fracasso, levam sete anos para descobrir o que há entre eles(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426112500 -0300" stop="20180426125800 -0300" channel="TNT HD">
+    <title lang="pt">Substitutos</title>
+    <desc lang="pt">Um mundo futurista onde os humanos vivem seguros em suas casas e interagem somente através de robôs substitutos. Mas quando ocorre o primeiro assassinato em anos, um agente da FBI deverá deixar seu posto para investigar o caso(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426125800 -0300" stop="20180426150300 -0300" channel="TNT HD">
+    <title lang="pt">Juntos Pelo Acaso</title>
+    <desc lang="pt">Holly e Eric têm um encontro desastroso organizado por seus amigos Peter e Allison. Mas quando seus amigos morrem em um acidente, Holly e Eric terão que deixar de lado suas diferenças para cuidar da pequena Sophie(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426150300 -0300" stop="20180426165300 -0300" channel="TNT HD">
+    <title lang="pt">Gente Grande</title>
+    <desc lang="pt">Trinta anos após a formatura do colégio, cinco amigos se reencontram para passar um fim de semana juntos. Com suas mulheres e filhos, eles comemoram o feriado de 4 de Julho em uma casa no lago, para celebrar os anos de juventude(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426165300 -0300" stop="20180426185400 -0300" channel="TNT HD">
+    <title lang="pt">A Proposta</title>
+    <desc lang="pt">Margaret Tate é uma uma chefe dominadora que, de repente, se vê prestes a ser deportada para o Canadá, seu país de origem. É quando lhe surge a ideia de propor casamento ao seu assistente e assim conseguir permanecer nos Estados Unidos(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426185400 -0300" stop="20180426205800 -0300" channel="TNT HD">
+    <title lang="pt">O Vingador do Futuro</title>
+    <desc lang="pt">Douglas Quaid é um trabalhador que busca um pouco de emoção em sua vida monótona. Ele procura ajuda na empresa Rekall e acaba descobrindo que existe uma tênue linha ente suas fantasias e a realidade(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426205800 -0300" stop="20180426223000 -0300" channel="TNT HD">
+    <title lang="pt">Minha Mãe é uma Peça</title>
+    <desc lang="pt">Dona Hermínia é uma mãe dedicada. Talvez até demais para o gosto de seus filhos, que a consideram chata. Desprezada, ela decide passar um tempo na casa de sua tia para desabafar e relembrar o passado(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426223000 -0300" stop="20180426225800 -0300" channel="TNT HD">
+    <title lang="pt">Rua Augusta - S1E7</title>
+    <desc lang="pt">Emílio investiga a família Amaral e entrevista Edinéia, uma ex-funcionária de Maurício, que hoje trabalha em um boteco. Na Hell, Cézar diz que sabe que as imagens foram alteradas, mas Alex nega(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426225800 -0300" stop="20180426232700 -0300" channel="TNT HD">
+    <title lang="pt">Rua Augusta - S1E8</title>
+    <desc lang="pt">Raul vai até o prédio de Alex e ameaça Mika pelo telefone, exigindo que retire a queixa contra Dimas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426232700 -0300" stop="20180427010000 -0300" channel="TNT HD">
+    <title lang="pt">Anjos da Noite - A Rebelião</title>
+    <desc lang="pt">O terceiro filme da épica saga Anjos da Noite retorna no tempo para contar as origens do conflito entre os aristocráticos vampiros conhecidos como Mercadores da Morte e os bárbaros lycans, uma linhagem de lobisomens selvagens(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Nova Zelândia</country>
+  </programme>
+  <programme start="20180427010000 -0300" stop="20180427025500 -0300" channel="TNT HD">
+    <title lang="pt">Heróis de Ressaca</title>
+    <desc lang="pt">Um grupo de cinco amigos de infância se reúne novamente para fazer uma maratona de bebedeira em vários bares numa única noite. O desafio vai até o Pub do Fim do Mundo, no qual somente os mais fortes sobrevivem(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180427025500 -0300" stop="20180427045500 -0300" channel="TNT HD">
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Em um universo ameaçado por guerreiros interplanetários, um homem exilado pode ser a única esperança para impedir a destruição do mundo pelo terrível Lorde Marshall(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427045500 -0300" stop="20180427060000 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Cinema</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427060000 -0300" stop="20180427060900 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Cinema</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427060900 -0300" stop="20180427081400 -0300" channel="TNT HD">
+    <title lang="pt">Colateral</title>
+    <desc lang="pt">Tom Cruise é um matador de aluguel que sequestra o taxista Jamie Foxx durante uma noite em que vai cometer uma série de assassinatos. Enquanto o tempo passa e o serviço vai sendo feito,  o motorista tenta sobreviver(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427081400 -0300" stop="20180427101200 -0300" channel="TNT HD">
+    <title lang="pt">A Proposta</title>
+    <desc lang="pt">Margaret Tate é uma uma chefe dominadora que, de repente, se vê prestes a ser deportada para o Canadá, seu país de origem. É quando lhe surge a ideia de propor casamento ao seu assistente e assim conseguir permanecer nos Estados Unidos(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427101200 -0300" stop="20180427124400 -0300" channel="TNT HD">
+    <title lang="pt">As Crônicas de Nárnia - O Príncipe Caspian</title>
+    <desc lang="pt">Os irmãos Pevensie retornam ao mundo de Nárnia, onde já se passaram 1300 anos desde sua última visita. Durante sua ausência, Nárnia foi conquistada pelo rei Miraz que governa o local sem misericórdia(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427124400 -0300" stop="20180427145400 -0300" channel="TNT HD">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">A vida de Chris Gardner é um caos: a mãe de seu filho de cinco anos os abandonou, o emprego é ruim e foi despejado de casa. Morando na rua com o filho, ele continua sendo um pai amoroso e luta para superar as adversidades(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427145400 -0300" stop="20180427165800 -0300" channel="TNT HD">
+    <title lang="pt">O Vingador do Futuro</title>
+    <desc lang="pt">Douglas Quaid é um trabalhador que busca um pouco de emoção em sua vida monótona. Ele procura ajuda na empresa Rekall e acaba descobrindo que existe uma tênue linha ente suas fantasias e a realidade(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427165800 -0300" stop="20180427185200 -0300" channel="TNT HD">
+    <title lang="pt">Alice no País das Maravilhas</title>
+    <desc lang="pt">Alice, com agora 19 anos, volta ao mundo mágico de sua infância onde ela reencontra amigos do passado e descobre seu verdadeiro destino - acabar com o reinado da malvada Rainha de Copas(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427185200 -0300" stop="20180427202400 -0300" channel="TNT HD">
+    <title lang="pt">Minha Mãe é uma Peça</title>
+    <desc lang="pt">Dona Hermínia é uma mãe dedicada. Talvez até demais para o gosto de seus filhos, que a consideram chata. Desprezada, ela decide passar um tempo na casa de sua tia para desabafar e relembrar o passado(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427202400 -0300" stop="20180427223000 -0300" channel="TNT HD">
+    <title lang="pt">S.W.A.T. - Comando Especial</title>
+    <desc lang="pt">Ex-agente do esquadrão de elite S.W.A.T. tem uma nova chance quando é chamado para integrar a equipe encarregada do traslado de um chefão do tráfico(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427223000 -0300" stop="20180428002900 -0300" channel="TNT HD">
+    <title lang="pt">No Limite do Amanhã</title>
+    <desc lang="pt">Um grupo alienígena atinge a Terra com um implacável ataque, impossível de ser derrotado por qualquer unidade militar do mundo(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Austrália</country>
+  </programme>
+  <programme start="20180426004400 -0300" stop="20180426013000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S5E1</title>
+    <desc lang="pt">Horatio e Delko chegaram ao Rio de Janeiro para procurar Antonio Riaz, que ordenou a execução de Marisol. O problema é que Horatio não consegue parar de pensar em sua esposa, e as autoridades brasileiras não estão colaborando(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426013000 -0300" stop="20180426021500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S5E2</title>
+    <desc lang="pt">Calleigh é jogado da Estrada para um canal e prejudica algumas evidências coletadas anteriormente. Agora a equipe precisa trabalhar para encontrar novas provas, já que a maioria delas foi prejudicada pela água(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426021500 -0300" stop="20180426030000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S5E3</title>
+    <desc lang="pt">O corpo de uma celebridade é encontrado em uma festa. Eles logo descobrem que o assassino está relacionado com uma "piscina da morte", onde apostas ocorrem em um navio costeiro(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426030000 -0300" stop="20180426034400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S5E4</title>
+    <desc lang="pt">Os CSIs investigam o assassinato de um modelo e precisam examinar os trabalhos internos do mundo fashion para descobrir o assassino(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426034400 -0300" stop="20180426042900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S5E5</title>
+    <desc lang="pt">O corpo de um policial local é encontrado em uma casa vazia. Toda a vizinhança estava triste porque ele estava apoiando o uso do domínio eminente, permitindo que o governo os obrigasse a sair de suas casas(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426042900 -0300" stop="20180426051200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S5E6</title>
+    <desc lang="pt">Quando acidentes estranhos acontecemno laboratório, os CSIs são envolvidos em uma investigação de morte envolvendo vodu. Como o Halloween está próximo todos passam a acreditar que o laboratório está assombrado(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426051200 -0300" stop="20180426055400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S5E7</title>
+    <desc lang="pt">Após um acidente onde um motorista é decapitado fazendo uma manobra perigosa, as evidências levam os CIS a acreditar que não foi apenas um acidente(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426055400 -0300" stop="20180426060000 -0300" channel="TNT Series HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Cinema</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426060000 -0300" stop="20180426064500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E1</title>
+    <desc lang="pt">A mais nova integrante da equipe dos CSIs, Jo Danville, uma antiga agente da FBI, é recebida em seu novo trabalho ao topar com o corpo de uma jovem assassinada no 34º andar do prédio em que se localiza o laboratório de perícia(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426064500 -0300" stop="20180426072900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E2</title>
+    <desc lang="pt">A internet pode ser um ótimo lugar para conhecer amigos... e inimigos. A equipe de CSIs deve localizar a possível vítima depois de um perigoso jogo na internet(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426072900 -0300" stop="20180426081400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E3</title>
+    <desc lang="pt">Um casal é violentamente agredido em sua cama e deixado para morrer. Apesar de a mulher conseguir identificar seu agressor, o caso tem uma reviravolta quando outra testemunha aparece(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426081400 -0300" stop="20180426090000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E4</title>
+    <desc lang="pt">No delicado equilíbrio entre as gangues do gueto latino, os que veem mas não falam nada são os que sobrevivem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180426090000 -0300" stop="20180426094500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E5</title>
+    <desc lang="pt">As vidas privadas e profissionais dos CSIs e do suspeito de um crime acabam se misturando durante uma investigação(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180426094500 -0300" stop="20180426103100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E6</title>
+    <desc lang="pt">As investigações mais recentes da equipe CSI levam a pais desesperados por notícias do filho desaparecido(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180426103100 -0300" stop="20180426111500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E7</title>
+    <desc lang="pt">Quando uma série de crimes brutais atingem a cidade, Mac se vê entre a cruz e a espada. Seu dever de proteger e servir vai de encontro às orientações de seus superiores(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180426111500 -0300" stop="20180426120100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E8</title>
+    <desc lang="pt">Uma corredora tenta fugir de uma tentativa de assassinato. Pouco depois, uma segunda vítima que pode estar ligada ao caso é descoberta(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426120100 -0300" stop="20180426124600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E9</title>
+    <desc lang="pt">Um corpo é encontrado enterrado ao lado da arma do crime, no Central Park(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426124600 -0300" stop="20180426133000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E10</title>
+    <desc lang="pt">Quando a vitrine de uma loja elegante é desmontada, descobre-se que ela é a cena de um crime(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426133000 -0300" stop="20180426141500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E11</title>
+    <desc lang="pt">Logo em seguida à morte do dono de uma confeitaria, um palhaço se torna o principal suspeito e sua vida corre perigo por causa do Det. Flack(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426141500 -0300" stop="20180426150100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E12</title>
+    <desc lang="pt">O dono de um clube espanhol é encontrado morto em sua casa. A decisão da família de levar o corpo de volta para a Espanha pode prejudicar a investigação(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426150100 -0300" stop="20180426154400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E13</title>
+    <desc lang="pt">Um pai procura justiça após a morte de sua filha, mas encontrar as respostas pode colocá-lo em um perigo mortal(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180426154400 -0300" stop="20180426162900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E14</title>
+    <desc lang="pt">Um tiroteio em um clube leva a equipe a investigar o paradeiro de uma enfermeira relacionada a uma das pessoas que desapareceram(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426162900 -0300" stop="20180426171300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E15</title>
+    <desc lang="pt">Quando um criminoso sexual é encontrado morto em um armazém, os CSIs devem descobrir se uma de suas vítimas é culpada pelo crime(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426171300 -0300" stop="20180426175800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E16</title>
+    <desc lang="pt">Uma mulher entra em contato com Mac para lhe revelar informações sobre um possível assassinato. Entretanto, antes que Mac consiga encontrá-la ela acaba morta por causa das informações que estava prestes a revelar(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426175800 -0300" stop="20180426184300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E17</title>
+    <desc lang="pt">A equipe deve descobrir por que uma jovem foi morta e se ela sabia de alguns vídeos que estavam sendo feitos na Bradford Academy(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426184300 -0300" stop="20180426191100 -0300" channel="TNT Series HD">
+    <title lang="pt">Mapa do Pop - S3E9</title>
+    <desc lang="pt">A mais americana das grandes cidades foi cenário dos clássicos mais recentes. Em todos os gêneros. Uma cidade linda, que serve de cenário perfeito para o cinema(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426191100 -0300" stop="20180426193900 -0300" channel="TNT Series HD">
+    <title lang="pt">Mapa do Pop - S3E10</title>
+    <desc lang="pt">Um dos novos destinos turísticos do mundo, Dubai encanta o mundo pelas construções modernas e luxuosas.  Vamos fazer um tour pelas locações de grandes sucessos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426193900 -0300" stop="20180426202500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E18</title>
+    <desc lang="pt">Jo é testemunha de um atentado contra o metrô e descobre a verdade sobre sua mãe verdadeira(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426202500 -0300" stop="20180426210800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E19</title>
+    <desc lang="pt">A equipe investiga a explosão de um caminhão de comida gourmet em um festival(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426210800 -0300" stop="20180426215200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E20</title>
+    <desc lang="pt">A equipe investiga depois que uma mulher é vítima de um serial killer; um ex-presidiário começa a perseguir o primeiro parceiro de Mac(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426215200 -0300" stop="20180426223600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E21</title>
+    <desc lang="pt">Depois de uma arma disparar no laboratório de crime, Mac e seu antigo parceiro se tornam parte de uma vingança de 17 anos atrás(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426223600 -0300" stop="20180426232200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E22</title>
+    <desc lang="pt">Mac tenta encontrar uma garota desaparecida desde 2002 que testemunhou assassinatos cometidos durante um assalto(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>eua</country>
+  </programme>
+  <programme start="20180426232200 -0300" stop="20180427000700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E1</title>
+    <desc lang="pt">A mais nova integrante da equipe dos CSIs, Jo Danville, uma antiga agente da FBI, é recebida em seu novo trabalho ao topar com o corpo de uma jovem assassinada no 34º andar do prédio em que se localiza o laboratório de perícia(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427000700 -0300" stop="20180427005100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E2</title>
+    <desc lang="pt">A internet pode ser um ótimo lugar para conhecer amigos... e inimigos. A equipe de CSIs deve localizar a possível vítima depois de um perigoso jogo na internet(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427005100 -0300" stop="20180427013600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E3</title>
+    <desc lang="pt">Um casal é violentamente agredido em sua cama e deixado para morrer. Apesar de a mulher conseguir identificar seu agressor, o caso tem uma reviravolta quando outra testemunha aparece(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427013600 -0300" stop="20180427022100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E4</title>
+    <desc lang="pt">No delicado equilíbrio entre as gangues do gueto latino, os que veem mas não falam nada são os que sobrevivem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427022100 -0300" stop="20180427030600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E5</title>
+    <desc lang="pt">As vidas privadas e profissionais dos CSIs e do suspeito de um crime acabam se misturando durante uma investigação(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427030600 -0300" stop="20180427035100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E6</title>
+    <desc lang="pt">As investigações mais recentes da equipe CSI levam a pais desesperados por notícias do filho desaparecido(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427035100 -0300" stop="20180427043400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E7</title>
+    <desc lang="pt">Quando uma série de crimes brutais atingem a cidade, Mac se vê entre a cruz e a espada. Seu dever de proteger e servir vai de encontro às orientações de seus superiores(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427043400 -0300" stop="20180427051900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E8</title>
+    <desc lang="pt">Uma corredora tenta fugir de uma tentativa de assassinato. Pouco depois, uma segunda vítima que pode estar ligada ao caso é descoberta(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427051900 -0300" stop="20180427060000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S7E9</title>
+    <desc lang="pt">Um corpo é encontrado enterrado ao lado da arma do crime, no Central Park(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427060000 -0300" stop="20180427064600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E1</title>
+    <desc lang="pt">Uma jovem estrela é morta durante um acidente e a pessoa que a perseguia tenta levar o crédito pela morte. Mas a equipe descobre que tem mais gente nessa tragédia do que possa parecer à primeira vista(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427064600 -0300" stop="20180427073300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E2</title>
+    <desc lang="pt">O filho de um grande assassino é preso por suspeita de assassinato e a equipe CSI deve superar os seus preconceitos contra os antecedentes do rapaz para conseguir encontrar a verdade sobre o caso(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427073300 -0300" stop="20180427081800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E3</title>
+    <desc lang="pt">A equipe investiga o assassinato de Jason, um viciado em computadores, problemático, que trabalhava em um cassino e convenceu um colega, Paulie, a participar de um plano perigoso(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427081800 -0300" stop="20180427090300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E4</title>
+    <desc lang="pt">A equipe investiga o baleamento acidental de um policial de folga por outro policial, Danny Finn, cujo declarado preconceito racial levanta suspeitas de que não tenha sido um acidente(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427090300 -0300" stop="20180427095000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E5</title>
+    <desc lang="pt">Depois que um treinador de futebol de um time de faculdade, muito querido por seus atletas é encontrado morto e sua casa está bagunçada e suja de sangue, a equipe procura o criminoso que não achava o treinador tão amável(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427095000 -0300" stop="20180427103500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E6</title>
+    <desc lang="pt">Os CSIs descobrem que dois crimes que aparentemente não têm nenhuma relação são, na verdade, parte de um estranho plano de vingança(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427103500 -0300" stop="20180427112200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E8</title>
+    <desc lang="pt">Os CSIs investigam um assassinato, em um boliche, depois que uma evidência importante é revelada após um torneio de boliche(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427112200 -0300" stop="20180427120800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E7</title>
+    <desc lang="pt">A investigação sobre traficantes de órgãos humanos continua, mas agora, é uma corrida contra o relógio(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427120800 -0300" stop="20180427125500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E9</title>
+    <desc lang="pt">É lua cheia, e os loucos estão soltos. Dois membros da equipe "abduzem" Henry para comemorar seu aniversário em um restaurante, sem saber que o local foi fechado há vários meses por problemas com a Vigilância Sanitária(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427125500 -0300" stop="20180427133900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E10</title>
+    <desc lang="pt">O tiroteio numa loja de armas pode estar conectado a uma jovem envolvida num pacto suicida(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427133900 -0300" stop="20180427142600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E11</title>
+    <desc lang="pt">Duas lindas mulheres são assassinadas num hotel em Las Vegas e os CSIs descobrem um serial killer pouco comum em suas investigações(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427142600 -0300" stop="20180427151100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E12</title>
+    <desc lang="pt">A equipe CSI entra no mundo do golfe profissional, quando o corpo de um lendário jogador é descoberto durante um torneio de grande importância(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427151100 -0300" stop="20180427155600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E13</title>
+    <desc lang="pt">O caso de dois estudantes de colégio, um morto e outra desaparecida, levam os CSIs ao mundo das corridas de rua e a uma rede complexa de competição mortal(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427155600 -0300" stop="20180427164200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E14</title>
+    <desc lang="pt">Quando um membro da banda country Rascal Flatts, é eletrocutado por sua própria guitarra durante um show, a equipe CSI investiga o caso.,(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427164200 -0300" stop="20180427172800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E15</title>
+    <desc lang="pt">Quando um garoto é encontrado assassinado, a equipe CSI descobre uma evidência que pode ligar a sua morte a um antigo caso antigo que ressurgiu recentemente(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427172800 -0300" stop="20180427181400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E16</title>
+    <desc lang="pt">Catherine e Vartann são colocados, juntos, num quarto de hotel por 24 horas, enquanto trabalham para pegar uma dupla fabricando drogas no quarto ao lado(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427181400 -0300" stop="20180427190100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E17</title>
+    <desc lang="pt">Quando a equipe CSI investiga o caso de um assassinato brutal de toda uma família, eles conseguem ligar o assassino à casa ao lado, a qual pode pertencer ao serial killer "Dr. Jekyll"(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427190100 -0300" stop="20180427195300 -0300" channel="TNT Series HD">
+    <title lang="pt">Na Fita - S1E3</title>
+    <desc lang="pt">Tendo levado mais de 10% de toda a população brasileira aos cinemas, "Dona Flor e Seus Dois Maridos" permaneceu por mais de 30 anos como o campeão de bilheterias do País(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427195300 -0300" stop="20180427203900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E18</title>
+    <desc lang="pt">Hogdes e Wendy levam um grupo de estudantes para uma demonstração em campo e decidem apresentar seu trabalho como algo mais atraente, no entanto terminam levando a excursão um pouco longe demais(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427203900 -0300" stop="20180427212500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E19</title>
+    <desc lang="pt">Catherine investiga o assassinato de um estudante na escola de sua filha e descobre que a vítima era conhecida por ser racista(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427212500 -0300" stop="20180427221000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E20</title>
+    <desc lang="pt">O lendário cômico Knuckles Pratt, a partir dos bons velhos tempos de Las Vegas, está programado para se reunir com seu parceiro no palco por uma só noite, até que a metade da dupla famosa é encontrada morta(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427221000 -0300" stop="20180427225500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E21</title>
+    <desc lang="pt">O desaparecimento de um homem e seus dois filhos há três anos é reinvestigado, quando o desaparecido é atingido por um carro, enquanto anda no deserto perto de onde sua família sumiu(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427225500 -0300" stop="20180427233900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E22</title>
+    <desc lang="pt">Uma repórter que cobria os assassinatos seriais do Dr. Jekyll é estrangulada até a morte e o marido dela acusa Ray do crime de duas outras mortes no passado, que sua esposa investigou(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20180427233900 -0300" stop="20180428002600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S10E23</title>
+    <desc lang="pt">A 10ª temporada termina com a equipe CSI tentando capturar o serial killer Dr. Jekyll com a ajuda de outro assassino em série, Nate Haskell(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426000600 -0300" stop="20180426021300 -0300" channel="TCM">
+    <title lang="pt">Filadélfia</title>
+    <desc lang="pt">Um advogado é despedido da empresa onde trabalha quando começa a apresentar os primeiros sintomas de Aids(n)</desc>
+    <date>1993</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426021300 -0300" stop="20180426040300 -0300" channel="TCM">
+    <title lang="pt">Rota Suicida</title>
+    <desc lang="pt">Eastwood é o astro e diretor deste filme em que um policial não muito esperto persegue oficiais corruptos determinados(n)</desc>
+    <date>1977</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426040300 -0300" stop="20180426053000 -0300" channel="TCM">
+    <title lang="pt">Os Invasores de Corpos, a Invasão Continua</title>
+    <desc lang="pt">Numa base militar, invasores espaciais tomam os corpos de seres humanos, mantendo a aparência física daqueles que os hospedam, espalhando o medo e o terror(n)</desc>
+    <date>1993</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426053000 -0300" stop="20180426060000 -0300" channel="TCM">
+    <title lang="pt">Reporte Space 2017 - Spoiler Alert E16</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20180426060000 -0300" stop="20180426065000 -0300" channel="TCM">
+    <title lang="pt">Xena: A Princesa Guerreira - S4E13</title>
+    <desc lang="pt">Xena uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA/Nova Zelândia</country>
+  </programme>
+  <programme start="20180426065000 -0300" stop="20180426071500 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família - S1E9</title>
+    <desc lang="pt">Os "Bundys" são o estereótipo da família branca americana. Al é um vendedor de sapatos. Ele é casado com Peggy, uma mulher que assiste TV o dia todo. Eles têm dois filhos: Kelly e Bud. Eles também têm um cachorro, chamado Buck(n)</desc>
+    <date>1987</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426071500 -0300" stop="20180426074000 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família - S1E10</title>
+    <desc lang="pt">Os "Bundys" são o estereótipo da família branca americana. Al é um vendedor de sapatos. Ele é casado com Peggy, uma mulher que assiste TV o dia todo. Eles têm dois filhos: Kelly e Bud. Eles também têm um cachorro, chamado Buck(n)</desc>
+    <date>1987</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426074000 -0300" stop="20180426082100 -0300" channel="TCM">
+    <title lang="pt">Xena: A Princesa Guerreira - S3E13</title>
+    <desc lang="pt">Xena uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA/Nova Zelândia</country>
+  </programme>
+  <programme start="20180426082100 -0300" stop="20180426084600 -0300" channel="TCM">
+    <title lang="pt">The Nanny - S6E15</title>
+    <desc lang="pt">Depois de confrontar  Sylvia sobre seu romance, Fran propõe salvar o casamento dos seus pais(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426084600 -0300" stop="20180426091100 -0300" channel="TCM">
+    <title lang="pt">The Nanny - S6E16</title>
+    <desc lang="pt">Niles consegue o apoio de Fran para impressionar C.C. ao produzir uma obra(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426091100 -0300" stop="20180426093600 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família - S1E9</title>
+    <desc lang="pt">Os "Bundys" são o estereótipo da família branca americana. Al é um vendedor de sapatos. Ele é casado com Peggy, uma mulher que assiste TV o dia todo. Eles têm dois filhos: Kelly e Bud. Eles também têm um cachorro, chamado Buck(n)</desc>
+    <date>1987</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426093600 -0300" stop="20180426100100 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família - S1E10</title>
+    <desc lang="pt">Os "Bundys" são o estereótipo da família branca americana. Al é um vendedor de sapatos. Ele é casado com Peggy, uma mulher que assiste TV o dia todo. Eles têm dois filhos: Kelly e Bud. Eles também têm um cachorro, chamado Buck(n)</desc>
+    <date>1987</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426100100 -0300" stop="20180426102600 -0300" channel="TCM">
+    <title lang="pt">The Nanny - S6E15</title>
+    <desc lang="pt">Depois de confrontar  Sylvia sobre seu romance, Fran propõe salvar o casamento dos seus pais(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426102600 -0300" stop="20180426105100 -0300" channel="TCM">
+    <title lang="pt">The Nanny - S6E16</title>
+    <desc lang="pt">Niles consegue o apoio de Fran para impressionar C.C. ao produzir uma obra(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426105100 -0300" stop="20180426123500 -0300" channel="TCM">
+    <title lang="pt">Cantando na Chuva</title>
+    <desc lang="pt">Dois amigos, artistas, chegam a Hollywood na década de 20. Conseguem empregos nos estúdios Imperial e um deles se transforma em ídolo do cinema mudo(n)</desc>
+    <date>1952</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Musical</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426123500 -0300" stop="20180426144200 -0300" channel="TCM">
+    <title lang="pt">Filadélfia</title>
+    <desc lang="pt">Um advogado é despedido da empresa onde trabalha quando começa a apresentar os primeiros sintomas de Aids(n)</desc>
+    <date>1993</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426144200 -0300" stop="20180426164800 -0300" channel="TCM">
+    <title lang="pt">Lado a Lado</title>
+    <desc lang="pt">Divorciado, Luke está apaixonado e pretende casar-se outra vez. No entanto essa não será uma decisão fácil. Seus filhos não aceitam a nova namorada(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426164800 -0300" stop="20180426184700 -0300" channel="TCM">
+    <title lang="pt">O Tempo e o Vento</title>
+    <desc lang="pt">Quando o terreno dos Terra-Cambará é cercado pelos Amaral, a família é obrigada a ficar de vigília por vários dias e a comida começa a ficar escassa. Bibiana, recebe a visita de seu falecido marido e juntos relembram o passado(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426184700 -0300" stop="20180426202900 -0300" channel="TCM">
+    <title lang="pt">Feitiço do Tempo</title>
+    <desc lang="pt">Phil Connors, um antipático e rabugento homem do tempo na TV, tem que noticiar um fenômeno metereológico que ocorre numa pequena cidade todos os anos, no dia 2 de fevereiro(n)</desc>
+    <date>1993</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426202900 -0300" stop="20180426220000 -0300" channel="TCM">
+    <title lang="pt">Convenção das Bruxas</title>
+    <desc lang="pt">Luke adora as histórias da avó que sempre disse que bruxas existem. Após acidente em que seus pais morrem, ambos vão em temporada no litoral(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180426220000 -0300" stop="20180427000200 -0300" channel="TCM">
+    <title lang="pt">Peixe Grande e suas Histórias Maravilhosas</title>
+    <desc lang="pt">Edward vive em meio a gigantes, bruxas, cidades fantásticas e um grande peixe impossível de pescar. Suas proezas fascinam todo mundo. Exceto seu filho que terá de ignorar o limite entre ficção e realidade para saber a verdade(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427000200 -0300" stop="20180427014700 -0300" channel="TCM">
+    <title lang="pt">28 Dias</title>
+    <desc lang="pt">Colunista social é obrigada a internar-se em um centro de reabilitação para dependentes químicos, depois de provocar um acidente(n)</desc>
+    <date>2000</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427014700 -0300" stop="20180427031500 -0300" channel="TCM">
+    <title lang="pt">Os Invasores de Corpos, a Invasão Continua</title>
+    <desc lang="pt">Numa base militar, invasores espaciais tomam os corpos de seres humanos, mantendo a aparência física daqueles que os hospedam, espalhando o medo e o terror(n)</desc>
+    <date>1993</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427031500 -0300" stop="20180427054000 -0300" channel="TCM">
+    <title lang="pt">Nascido em 4 de Julho</title>
+    <desc lang="pt">Ron Kovic, é rapaz idealista que deixa a namorada e a família para ir lutar no Vietnã. Na guerra, ele fica paraplégico. Ao voltar aos EUA é recebido como herói, mas logo se vê em confronto com a realidade do preconceito aos deficientes físicos(n)</desc>
+    <date>1989</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427054000 -0300" stop="20180427060000 -0300" channel="TCM">
+    <title lang="pt">Reporte Space 2017 - Spoiler Alert E15</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20180427060000 -0300" stop="20180427065000 -0300" channel="TCM">
+    <title lang="pt">Xena: A Princesa Guerreira - S4E14</title>
+    <desc lang="pt">Xena uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA/Nova Zelândia</country>
+  </programme>
+  <programme start="20180427065000 -0300" stop="20180427071500 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família - S1E11</title>
+    <desc lang="pt">Os "Bundys" são o estereótipo da família branca americana. Al é um vendedor de sapatos. Ele é casado com Peggy, uma mulher que assiste TV o dia todo. Eles têm dois filhos: Kelly e Bud. Eles também têm um cachorro, chamado Buck(n)</desc>
+    <date>1987</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427071500 -0300" stop="20180427074000 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família - S1E12</title>
+    <desc lang="pt">Os "Bundys" são o estereótipo da família branca americana. Al é um vendedor de sapatos. Ele é casado com Peggy, uma mulher que assiste TV o dia todo. Eles têm dois filhos: Kelly e Bud. Eles também têm um cachorro, chamado Buck(n)</desc>
+    <date>1987</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427074000 -0300" stop="20180427080500 -0300" channel="TCM">
+    <title lang="pt">The Nanny - S6E17</title>
+    <desc lang="pt">Humilhado depois de C.C. recusar seu pedido de casamento, Niles decide abandonar seu trabalho com os Sheffield(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427080500 -0300" stop="20180427083000 -0300" channel="TCM">
+    <title lang="pt">The Nanny - S6E18</title>
+    <desc lang="pt">Maxwell luta contra um velho rival pelos direitos da história da vida amorosa de Yeta(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427083000 -0300" stop="20180427092000 -0300" channel="TCM">
+    <title lang="pt">Xena: A Princesa Guerreira - S4E14</title>
+    <desc lang="pt">Xena uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA/Nova Zelândia</country>
+  </programme>
+  <programme start="20180427092000 -0300" stop="20180427094500 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família - S1E11</title>
+    <desc lang="pt">Os "Bundys" são o estereótipo da família branca americana. Al é um vendedor de sapatos. Ele é casado com Peggy, uma mulher que assiste TV o dia todo. Eles têm dois filhos: Kelly e Bud. Eles também têm um cachorro, chamado Buck(n)</desc>
+    <date>1987</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427094500 -0300" stop="20180427101000 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família - S1E12</title>
+    <desc lang="pt">Os "Bundys" são o estereótipo da família branca americana. Al é um vendedor de sapatos. Ele é casado com Peggy, uma mulher que assiste TV o dia todo. Eles têm dois filhos: Kelly e Bud. Eles também têm um cachorro, chamado Buck(n)</desc>
+    <date>1987</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427101000 -0300" stop="20180427103500 -0300" channel="TCM">
+    <title lang="pt">The Nanny - S6E17</title>
+    <desc lang="pt">Humilhado depois de C.C. recusar seu pedido de casamento, Niles decide abandonar seu trabalho com os Sheffield(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427103500 -0300" stop="20180427110000 -0300" channel="TCM">
+    <title lang="pt">The Nanny - S6E18</title>
+    <desc lang="pt">Maxwell luta contra um velho rival pelos direitos da história da vida amorosa de Yeta(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427110000 -0300" stop="20180427114000 -0300" channel="TCM">
+    <title lang="pt">Xena: A Princesa Guerreira - S4E1</title>
+    <desc lang="pt">Xena uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA/Nova Zelândia</country>
+  </programme>
+  <programme start="20180427114000 -0300" stop="20180427135300 -0300" channel="TCM">
+    <title lang="pt">Led Zeppelin: The Song Remains The Same</title>
+    <desc lang="pt">The Song Remains the Same é um filme-concerto da banda britânica de rock Led Zeppelin. A gravação ocorreu em 27, 28 e 29 de julho de 1973, no Madison Square Garden em Nova Iorque(n)</desc>
+    <date>1976</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA/Reino Unido</country>
+  </programme>
+  <programme start="20180427135300 -0300" stop="20180427153800 -0300" channel="TCM">
+    <title lang="pt">28 Dias</title>
+    <desc lang="pt">Colunista social é obrigada a internar-se em um centro de reabilitação para dependentes químicos, depois de provocar um acidente(n)</desc>
+    <date>2000</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427153800 -0300" stop="20180427165900 -0300" channel="TCM">
+    <title lang="pt">As Grandes Aventuras de Pee Wee</title>
+    <desc lang="pt">Pee-Wee Herman tem sua cobiçada bicicleta vermelha e branca roubada, desesperado recorre à ajuda de uma vidente para descobrir o paradeiro de seu adorado veículo de duas rodas e embarca em uma louca aventura(n)</desc>
+    <date>1985</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427165900 -0300" stop="20180427182800 -0300" channel="TCM">
+    <title lang="pt">Mulan</title>
+    <desc lang="pt">om vozes de Ming-Na, B.D. Wong. Baseada em lenda popular da China, a aventura narra a história de uma jovem e audaz transgressora que decide salvar seus pais, arriscando a própria vida(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427182800 -0300" stop="20180427195800 -0300" channel="TCM">
+    <title lang="pt">Beethoven 2</title>
+    <desc lang="pt">Desta vez, Beethoven retorna com sua esposa e seus filhotes, que, ao que parece, vão trazer de volta aos Newton o significado de ter uma vida selvagem(n)</desc>
+    <date>1993</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427195800 -0300" stop="20180427220000 -0300" channel="TCM">
+    <title lang="pt">Peixe Grande e suas Histórias Maravilhosas</title>
+    <desc lang="pt">Edward vive em meio a gigantes, bruxas, cidades fantásticas e um grande peixe impossível de pescar. Suas proezas fascinam todo mundo. Exceto seu filho que terá de ignorar o limite entre ficção e realidade para saber a verdade(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427220000 -0300" stop="20180428000400 -0300" channel="TCM">
+    <title lang="pt">A Lenda do Tesouro Perdido</title>
+    <desc lang="pt">Um caçador de tesouros descobre a existência de um mapa em plena Declaração de Independência dos Estados Unidos: um dos documentos mais vigiados do mundo(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426003000 -0300" stop="20180426011500 -0300" channel="Viva HD">
+    <title lang="pt">Bebê a Bordo E87</title>
+    <date>1988</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426011500 -0300" stop="20180426020000 -0300" channel="Viva HD">
+    <title lang="pt">Sinhá Moça E75</title>
+    <date>1986</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426020000 -0300" stop="20180426023000 -0300" channel="Viva HD">
+    <title lang="pt">Família Dinossauros - S1E3</title>
+    <desc lang="pt">A mãe de Fran vai fazer 72 anos e Dino está feliz por poder seguir uma antiga tradição dos dinossauros e jogar a sogra no poço de piche, mas Bob tenta fazer de tudo para convencê-lo do contrário(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426023000 -0300" stop="20180426030000 -0300" channel="Viva HD">
+    <title lang="pt">Família Dinossauros - S2E6</title>
+    <desc lang="pt">Quando Dino é nomeado "Empregado do Mês", ele acha que será promovido, mas durante o jantar com o Sr. Richfield uma presença inusitada atrapalha seus planos(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426030000 -0300" stop="20180426040000 -0300" channel="Viva HD">
+    <title lang="pt">Mr. M</title>
+    <desc lang="pt">Mr. M desvenda grandes mágicas e segredos do ilusionismo para o público(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180426040000 -0300" stop="20180426050000 -0300" channel="Viva HD">
+    <title lang="pt">S.O.S. Babá - S3</title>
+    <desc lang="pt">Nessa divertida série, um time de babás inglesas ensina pais como melhor educar seus filhos(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426050000 -0300" stop="20180426053000 -0300" channel="Viva HD">
+    <title lang="pt">Damas da TV E6</title>
+    <desc lang="pt">Série reúne atrizes brasileiras para reverenciar os 50 anos da telenovela no país. Neste episódio, Nicette Bruno fala sobre o casamento com Paulo Goulart e conta qual é o lado positivo de envelhecer atuando(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426053000 -0300" stop="20180426054500 -0300" channel="Viva HD">
+    <title lang="pt">Bicicleta e Melancia E11</title>
+    <desc lang="pt">Marco fica surpreso com o beijo de Diana. Ela pede desculpas e sai correndo. Bruninho vai até a casa de Marco para cobrar dele o tal segredo e pergunta na lata se ele é gay. Marco conta que é virgem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426054500 -0300" stop="20180426060000 -0300" channel="Viva HD">
+    <title lang="pt">Bicicleta e Melancia E12</title>
+    <desc lang="pt">Bruninho passado diante de Marco e ele diz que não é fácil ser conhecido como o "comedor". Gabi janta com Gastão e dá em cima dele. Marco e Diana se encontram novamente no estúdio e conhecem "os pais de Diana"(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426060000 -0300" stop="20180426061500 -0300" channel="Viva HD">
+    <title lang="pt">Bicicleta e Melancia E13</title>
+    <desc lang="pt">Bruninho entra no curso de teatro pra pegar mulher. Gabi e Gastão se despedem na praia como se tivessem passado a noite juntos. Marco e Diana conversam num clima bom e quase se beijam. Gabi chega bem na hora(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426061500 -0300" stop="20180426063000 -0300" channel="Viva HD">
+    <title lang="pt">Bicicleta e Melancia E14</title>
+    <desc lang="pt">Marco chocado com a presença de Gabi no estúdio diz que eles estavam ensaiando uma cena. Diana confirma. Ela chega em casa e conversa com a mãe. Diz à mãe que tem uma coisa muito importante pra contar a ela(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426063000 -0300" stop="20180426071500 -0300" channel="Viva HD">
+    <title lang="pt">Conselhos da Supernanny E5</title>
+    <desc lang="pt">Os ataques de raiva da pequena Madison estão afetando toda a família. Eles precisam da ajuda da Supernanny, mas o pai não está muito disposto a ouvir e colaborar. Será que Jo Frost vai conseguir ajudá-los?(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180426071500 -0300" stop="20180426081500 -0300" channel="Viva HD">
+    <title lang="pt">Mr. M</title>
+    <desc lang="pt">Mr. M desvenda grandes mágicas e segredos do ilusionismo para o público(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180426081500 -0300" stop="20180426090000 -0300" channel="Viva HD">
+    <title lang="pt">Bem Estar</title>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426090000 -0300" stop="20180426093000 -0300" channel="Viva HD">
+    <title lang="pt">Malhação 2006 E283</title>
+    <date>2005</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426093000 -0300" stop="20180426100000 -0300" channel="Viva HD">
+    <title lang="pt">Família Dinossauros - S2E6</title>
+    <desc lang="pt">Quando Dino é nomeado "Empregado do Mês", ele acha que será promovido, mas durante o jantar com o Sr. Richfield uma presença inusitada atrapalha seus planos(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426100000 -0300" stop="20180426103000 -0300" channel="Viva HD">
+    <title lang="pt">Família Dinossauros - S1E4</title>
+    <desc lang="pt">Dino é desafiado por Gary, um dinossauro gigante que se interessou por Fran e quer tomar sua casa e filhos. Agora, Dino deverá decidir se batalha por sua família ou se foge para evitar o pior(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180426103000 -0300" stop="20180426110000 -0300" channel="Viva HD">
+    <title lang="pt">Sandy e Júnior E136</title>
+    <desc lang="pt">O seriado mostra o cotidiano, os problemas e as aventuras de Sandy e Junior e uma turma de jovens numa escola(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426110000 -0300" stop="20180426113000 -0300" channel="Viva HD">
+    <title lang="pt">Sandy e Júnior E137</title>
+    <desc lang="pt">O seriado mostra o cotidiano, os problemas e as aventuras de Sandy e Junior e uma turma de jovens numa escola(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426113000 -0300" stop="20180426120000 -0300" channel="Viva HD">
+    <title lang="pt">A Turma do Didi</title>
+    <desc lang="pt">Exibido aos domingos, o programa marcou a reestreia de Renato Aragão na Globo e a volta do eterno Didi Mocó, após 30 anos de sucesso com Os Trapalhões(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426120000 -0300" stop="20180426123000 -0300" channel="Viva HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt">Programa humorístico comandado por Chico Anísio(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426123000 -0300" stop="20180426130000 -0300" channel="Viva HD">
+    <title lang="pt">Malhação 2006 E283</title>
+    <date>2005</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426130000 -0300" stop="20180426133000 -0300" channel="Viva HD">
+    <title lang="pt">Malhação 2006 E283</title>
+    <date>2005</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426133000 -0300" stop="20180426143000 -0300" channel="Viva HD">
+    <title lang="pt">Explode Coração E75</title>
+    <desc lang="pt">Em Explode Coração, Igor volta para casa e Soraya impede o casamento. Marisa descobre que Avelar não está doente. César chega na casa de Betty e surpreende ela e Serginho. Eugênia visita Júlio(n)</desc>
+    <date>1995</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426143000 -0300" stop="20180426153000 -0300" channel="Viva HD">
+    <title lang="pt">Sinhá Moça E76</title>
+    <date>1986</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426153000 -0300" stop="20180426161500 -0300" channel="Viva HD">
+    <title lang="pt">Bebê a Bordo E88</title>
+    <date>1988</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426161500 -0300" stop="20180426170000 -0300" channel="Viva HD">
+    <title lang="pt">Estrelas</title>
+    <date>2010</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426170000 -0300" stop="20180426181500 -0300" channel="Viva HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426181500 -0300" stop="20180426191500 -0300" channel="Viva HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Programa de variedades apresentado por Ana Maria Braga(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426191500 -0300" stop="20180426194500 -0300" channel="Viva HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt">Programa humorístico comandado por Chico Anísio(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426194500 -0300" stop="20180426201500 -0300" channel="Viva HD">
+    <title lang="pt">A Turma do Didi</title>
+    <desc lang="pt">Exibido aos domingos, o programa marcou a reestreia de Renato Aragão na Globo e a volta do eterno Didi Mocó, após 30 anos de sucesso com Os Trapalhões(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426201500 -0300" stop="20180426211500 -0300" channel="Viva HD">
+    <title lang="pt">Os Trapalhões</title>
+    <date>1988</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426211500 -0300" stop="20180426220000 -0300" channel="Viva HD">
+    <title lang="pt">Estados Anysios de Chico City</title>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426220000 -0300" stop="20180426230000 -0300" channel="Viva HD">
+    <title lang="pt">Sai de baixo: Me engana que eu gosto E26</title>
+    <desc lang="pt">Seriado de humor com Miguel Falabella, Marisa Orth, Tom Cavalcanti, Luís Gustavo, Aracy Balabanian e Claudia Jimenez(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180426230000 -0300" stop="20180426233000 -0300" channel="Viva HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt">Programa humorístico comandado por Chico Anísio(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180426233000 -0300" stop="20180427003000 -0300" channel="Viva HD">
+    <title lang="pt">Explode Coração E76</title>
+    <desc lang="pt">Em Explode Coração, Eugênia não viaja após Avelar revelar que tem planos para ela ficar com Júlio. Soraya vê o casamento de Dara nas cartas. Betty conta a Catty que está namorando Serginho(n)</desc>
+    <date>1995</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427003000 -0300" stop="20180427011500 -0300" channel="Viva HD">
+    <title lang="pt">Bebê a Bordo E88</title>
+    <date>1988</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427011500 -0300" stop="20180427020000 -0300" channel="Viva HD">
+    <title lang="pt">Sinhá Moça E76</title>
+    <date>1986</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427020000 -0300" stop="20180427023000 -0300" channel="Viva HD">
+    <title lang="pt">Família Dinossauros - S2E6</title>
+    <desc lang="pt">Quando Dino é nomeado "Empregado do Mês", ele acha que será promovido, mas durante o jantar com o Sr. Richfield uma presença inusitada atrapalha seus planos(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427023000 -0300" stop="20180427030000 -0300" channel="Viva HD">
+    <title lang="pt">Família Dinossauros - S1E4</title>
+    <desc lang="pt">Dino é desafiado por Gary, um dinossauro gigante que se interessou por Fran e quer tomar sua casa e filhos. Agora, Dino deverá decidir se batalha por sua família ou se foge para evitar o pior(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427030000 -0300" stop="20180427040000 -0300" channel="Viva HD">
+    <title lang="pt">Mr. M</title>
+    <desc lang="pt">Mr. M desvenda grandes mágicas e segredos do ilusionismo para o público(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180427040000 -0300" stop="20180427050000 -0300" channel="Viva HD">
+    <title lang="pt">Conselhos da Supernanny E5</title>
+    <desc lang="pt">Os ataques de raiva da pequena Madison estão afetando toda a família. Eles precisam da ajuda da Supernanny, mas o pai não está muito disposto a ouvir e colaborar. Será que Jo Frost vai conseguir ajudá-los?(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180427050000 -0300" stop="20180427051500 -0300" channel="Viva HD">
+    <title lang="pt">Viva o Sucesso - S3E24</title>
+    <desc lang="pt">O programa "Viva o Sucesso" se propõe a descobrir, através de um retrato de profissionais criativos, como sua relação com o trabalho os levou a se destacar em suas áreas de atuação(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427051500 -0300" stop="20180427053000 -0300" channel="Viva HD">
+    <title lang="pt">Viva o Sucesso - S3E25</title>
+    <desc lang="pt">Victor &amp; Léo são os convidados do "Viva o Sucesso" desta sexta. Os irmãos contam que, depois de quinze anos de apresentações em bares, o sucesso chegou de repente. Léo, o caçula, teve dificuldades para lidar com a fama(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427053000 -0300" stop="20180427054500 -0300" channel="Viva HD">
+    <title lang="pt">Bicicleta e Melancia E13</title>
+    <desc lang="pt">Bruninho entra no curso de teatro pra pegar mulher. Gabi e Gastão se despedem na praia como se tivessem passado a noite juntos. Marco e Diana conversam num clima bom e quase se beijam. Gabi chega bem na hora(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427054500 -0300" stop="20180427060000 -0300" channel="Viva HD">
+    <title lang="pt">Bicicleta e Melancia E14</title>
+    <desc lang="pt">Marco chocado com a presença de Gabi no estúdio diz que eles estavam ensaiando uma cena. Diana confirma. Ela chega em casa e conversa com a mãe. Diz à mãe que tem uma coisa muito importante pra contar a ela(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427060000 -0300" stop="20180427061500 -0300" channel="Viva HD">
+    <title lang="pt">Bicicleta e Melancia E15</title>
+    <desc lang="pt">Gabi vai até a casa de Diana e "se abre" com ela. Diz que está precisando de sua ajuda, já que sofre muito com Marco. Diana conta à mãe que está apaixonada por Marco. Beta e Bruninho veem Gabi beijando Gastão(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427061500 -0300" stop="20180427063000 -0300" channel="Viva HD">
+    <title lang="pt">Bicicleta e Melancia E16</title>
+    <desc lang="pt">Beta e Bruninho chocados com Gabi beijando Gastão. Diana e Marco seguem gravando num clima estranho. Diana, apaixonada por Marco não sabe lidar com isso. Marco pergunta a ela o que houve, mas ela não fala(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427063000 -0300" stop="20180427071500 -0300" channel="Viva HD">
+    <title lang="pt">S.O.S. Babá - S4</title>
+    <desc lang="pt">Babás são chamadas pelas família, para mudar o comportamento de crianças(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427071500 -0300" stop="20180427081500 -0300" channel="Viva HD">
+    <title lang="pt">Mr. M</title>
+    <desc lang="pt">Mr. M desvenda grandes mágicas e segredos do ilusionismo para o público(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180427081500 -0300" stop="20180427090000 -0300" channel="Viva HD">
+    <title lang="pt">Bem Estar</title>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427090000 -0300" stop="20180427093000 -0300" channel="Viva HD">
+    <title lang="pt">Malhação 2006 E283</title>
+    <date>2005</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427093000 -0300" stop="20180427100000 -0300" channel="Viva HD">
+    <title lang="pt">Família Dinossauros - S1E4</title>
+    <desc lang="pt">Dino é desafiado por Gary, um dinossauro gigante que se interessou por Fran e quer tomar sua casa e filhos. Agora, Dino deverá decidir se batalha por sua família ou se foge para evitar o pior(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427100000 -0300" stop="20180427103000 -0300" channel="Viva HD">
+    <title lang="pt">Família Dinossauros - S1E5</title>
+    <desc lang="pt">Bobby completa 15 anos e terá que participar da tradição do Dia do Uivo. Porém, ao chegar no topo da montanha, o jovem não consegue uivar e todos temem as consequências por ele ter quebrado a tradição(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180427103000 -0300" stop="20180427110000 -0300" channel="Viva HD">
+    <title lang="pt">Sandy e Júnior E137</title>
+    <desc lang="pt">O seriado mostra o cotidiano, os problemas e as aventuras de Sandy e Junior e uma turma de jovens numa escola(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427110000 -0300" stop="20180427113000 -0300" channel="Viva HD">
+    <title lang="pt">Sandy e Júnior E138</title>
+    <desc lang="pt">O seriado mostra o cotidiano, os problemas e as aventuras de Sandy e Junior e uma turma de jovens numa escola(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427113000 -0300" stop="20180427120000 -0300" channel="Viva HD">
+    <title lang="pt">A Turma do Didi</title>
+    <desc lang="pt">Exibido aos domingos, o programa marcou a reestreia de Renato Aragão na Globo e a volta do eterno Didi Mocó, após 30 anos de sucesso com Os Trapalhões(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427120000 -0300" stop="20180427123000 -0300" channel="Viva HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt">Programa humorístico comandado por Chico Anísio(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427123000 -0300" stop="20180427130000 -0300" channel="Viva HD">
+    <title lang="pt">Malhação 2006 E283</title>
+    <date>2005</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427130000 -0300" stop="20180427133000 -0300" channel="Viva HD">
+    <title lang="pt">Malhação 2006 E283</title>
+    <date>2005</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427133000 -0300" stop="20180427143000 -0300" channel="Viva HD">
+    <title lang="pt">Explode Coração E76</title>
+    <desc lang="pt">Em Explode Coração, Eugênia não viaja após Avelar revelar que tem planos para ela ficar com Júlio. Soraya vê o casamento de Dara nas cartas. Betty conta a Catty que está namorando Serginho(n)</desc>
+    <date>1995</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427143000 -0300" stop="20180427153000 -0300" channel="Viva HD">
+    <title lang="pt">Sinhá Moça E77</title>
+    <date>1986</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427153000 -0300" stop="20180427161500 -0300" channel="Viva HD">
+    <title lang="pt">Bebê a Bordo E89</title>
+    <date>1988</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427161500 -0300" stop="20180427170000 -0300" channel="Viva HD">
+    <title lang="pt">Estrelas</title>
+    <date>2010</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427170000 -0300" stop="20180427181500 -0300" channel="Viva HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427181500 -0300" stop="20180427191500 -0300" channel="Viva HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Programa de variedades apresentado por Ana Maria Braga(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427191500 -0300" stop="20180427194500 -0300" channel="Viva HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt">Programa humorístico comandado por Chico Anísio(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427194500 -0300" stop="20180427201500 -0300" channel="Viva HD">
+    <title lang="pt">A Turma do Didi</title>
+    <desc lang="pt">Exibido aos domingos, o programa marcou a reestreia de Renato Aragão na Globo e a volta do eterno Didi Mocó, após 30 anos de sucesso com Os Trapalhões(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427201500 -0300" stop="20180427211500 -0300" channel="Viva HD">
+    <title lang="pt">Os Trapalhões</title>
+    <date>1988</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427211500 -0300" stop="20180427220000 -0300" channel="Viva HD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <desc lang="pt">Programa humorístico com a participação de Miguel Falabella, Marisa Orth e Diogo Vilela(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427220000 -0300" stop="20180427224500 -0300" channel="Viva HD">
+    <title lang="pt">A Diarista E82</title>
+    <desc lang="pt">Comédia de costumes que conta as aventuras da empregada doméstica Marinete (Cláudia Rodrigues) e seus amigos(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427224500 -0300" stop="20180427231500 -0300" channel="Viva HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <desc lang="pt">Programa humorístico comandado por Chico Anísio(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427231500 -0300" stop="20180427233000 -0300" channel="Viva HD">
+    <title lang="pt">A Vida como Ela é</title>
+    <date>1996</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180427233000 -0300" stop="20180428003000 -0300" channel="Viva HD">
+    <title lang="pt">Explode Coração E77</title>
+    <desc lang="pt">Em Explode Coração, Dara convence Júlio a procurar os pais. Mio e Soraya tem maus presságios sobre o casamento de Igor. Tadeu conta para Júlio que sua candidatura ao Senado foi aprovada(n)</desc>
+    <date>1995</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
     <country>Brasil</country>
   </programme>
   <programme start="20180426010500 -0300" stop="20180426015000 -0300" channel="Band HD">
