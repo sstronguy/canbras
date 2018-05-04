@@ -90,8 +90,8 @@
     <icon src="http://www.lineup.tv.br/canais/warner.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="A E HD">
-    <display-name lang="pt">A E HD</display-name>
+  <channel id="A&E HD">
+    <display-name lang="pt">A&E HD</display-name>
     <icon src="http://www.lineup.tv.br/canais/ae.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
@@ -5039,7 +5039,7 @@
     <category lang="pt">Ação</category>
     <country>Canadá/EUA/ Reino Unido</country>
   </programme>
-  <programme start="20180504000000 -0300" stop="20180504010000 -0300" channel="A E HD">
+  <programme start="20180504000000 -0300" stop="20180504010000 -0300" channel="A&E HD">
     <title lang="pt">Bull - S2E3</title>
     <desc lang="pt">Quando um novato morre afogado durante um ritual de iniciação em uma fraternidade, o promotor de justiça do caso pede a ajuda de Bull. Mas seu trabalho pode ser comprometido quando os estudantes se pactuam para se negarem a responder(n)</desc>
     <date>2017</date>
@@ -5047,7 +5047,7 @@
     <category lang="pt">Drama</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504010000 -0300" stop="20180504020000 -0300" channel="A E HD">
+  <programme start="20180504010000 -0300" stop="20180504020000 -0300" channel="A&E HD">
     <title lang="pt">Ncis: Los Angeles - S6E18</title>
     <desc lang="pt">Quando três agentes do FBI morrem numa explosão logo depois de uma operação confidencial secreta bem sucedida, a equipe procura o culpado do ataque. Enquanto isso, Deeks e Kensi percebem que a equipe sabe sobre seu relacionamento(n)</desc>
     <date>2015</date>
@@ -5055,7 +5055,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504020000 -0300" stop="20180504030000 -0300" channel="A E HD">
+  <programme start="20180504020000 -0300" stop="20180504030000 -0300" channel="A&E HD">
     <title lang="pt">Bull - S2E1</title>
     <desc lang="pt">Uma mulher é acusada de assassinar seu esposo multimilionário, mas alega que foi em autodefesa. Bull se junta à equipe do promotor de justiça e deverá enfrentar sua ex, Diana Lindsay, que defende a viúva(n)</desc>
     <date>2017</date>
@@ -5063,7 +5063,7 @@
     <category lang="pt">Drama</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504030000 -0300" stop="20180504034500 -0300" channel="A E HD">
+  <programme start="20180504030000 -0300" stop="20180504034500 -0300" channel="A&E HD">
     <title lang="pt">Ncis: Nova Orleans - S2E4</title>
     <desc lang="pt">A equipe do NCIS precisa determinar porque um piloto de drone, assassinado, estava usando um drone do mercado negro para realizar vigilância militar, e se as imagens do drone têm alguma ligação com sua morte(n)</desc>
     <date>2015</date>
@@ -5071,7 +5071,7 @@
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504034500 -0300" stop="20180504043000 -0300" channel="A E HD">
+  <programme start="20180504034500 -0300" stop="20180504043000 -0300" channel="A&E HD">
     <title lang="pt">Bull - S2E3</title>
     <desc lang="pt">Quando um novato morre afogado durante um ritual de iniciação em uma fraternidade, o promotor de justiça do caso pede a ajuda de Bull. Mas seu trabalho pode ser comprometido quando os estudantes se pactuam para se negarem a responder(n)</desc>
     <date>2017</date>
@@ -5079,7 +5079,7 @@
     <category lang="pt">Drama</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504043000 -0300" stop="20180504051500 -0300" channel="A E HD">
+  <programme start="20180504043000 -0300" stop="20180504051500 -0300" channel="A&E HD">
     <title lang="pt">O Mistério das 11 Garotas - S1E5</title>
     <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
     <date>2017</date>
@@ -5087,7 +5087,7 @@
     <category lang="pt">Documentário</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504051500 -0300" stop="20180504060000 -0300" channel="A E HD">
+  <programme start="20180504051500 -0300" stop="20180504060000 -0300" channel="A&E HD">
     <title lang="pt">Esposas Assassinas - S1E5</title>
     <desc lang="pt">Duas histórias de esposas mortais dispostas a trocar o amor, por luxúria e ganância. Morgan Wixon, esposa infiel, e Darlene Gentry, ex-rainha de baile endividada, que tenta esconder a verdade e enganar as autoridades(n)</desc>
     <date>2012</date>
@@ -5095,7 +5095,7 @@
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504060000 -0300" stop="20180504064500 -0300" channel="A E HD">
+  <programme start="20180504060000 -0300" stop="20180504064500 -0300" channel="A&E HD">
     <title lang="pt">Escravos da Cientologia - S2E7</title>
     <desc lang="pt">Os supostos campos educacionais para crianças problemáticas da Cientologia, eram na realidade campos de trabalho onde os alunos suportavam castigos físicos e árduas condições de vida(n)</desc>
     <date>2017</date>
@@ -5103,7 +5103,7 @@
     <category lang="pt">Documentário</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504064500 -0300" stop="20180504073000 -0300" channel="A E HD">
+  <programme start="20180504064500 -0300" stop="20180504073000 -0300" channel="A&E HD">
     <title lang="pt">60 Dias Infiltrados Na Prisão - S1E12</title>
     <desc lang="pt">Três participantes permanecem na Penitenciária do Condado de Clark. Uma das mulheres da Ala F é solta, deixando Tami à beira de um ataque de nervos. E na Ala D, há uma ameaça constante de violência com um chefe removido e outro reivindicando o poder(n)</desc>
     <date>2016</date>
@@ -5111,20 +5111,20 @@
     <category lang="pt">Documentário</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504073000 -0300" stop="20180504081500 -0300" channel="A E HD">
+  <programme start="20180504073000 -0300" stop="20180504081500 -0300" channel="A&E HD">
     <title lang="pt">Vidas Interrompidas - S12E5</title>
     <date>2017</date>
     <category lang="pt">Séries</category>
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504081500 -0300" stop="20180504090000 -0300" channel="A E HD">
+  <programme start="20180504081500 -0300" stop="20180504090000 -0300" channel="A&E HD">
     <title lang="pt">Jovens Assassinos E5</title>
     <desc lang="pt">Os pais de Ronald Salazar o deixam em El Salvador, enquanto vão tentar a vida na Flórida. Doze anos depois, quando se reencontram, o choque cultural e o ciúmes de seus três irmãos, transformam Ronald em um assassino frio(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Policial</category>
   </programme>
-  <programme start="20180504090000 -0300" stop="20180504100000 -0300" channel="A E HD">
+  <programme start="20180504090000 -0300" stop="20180504100000 -0300" channel="A&E HD">
     <title lang="pt">Escravos da Cientologia - S2E7</title>
     <desc lang="pt">Os supostos campos educacionais para crianças problemáticas da Cientologia, eram na realidade campos de trabalho onde os alunos suportavam castigos físicos e árduas condições de vida(n)</desc>
     <date>2017</date>
@@ -5132,7 +5132,7 @@
     <category lang="pt">Documentário</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504100000 -0300" stop="20180504110000 -0300" channel="A E HD">
+  <programme start="20180504100000 -0300" stop="20180504110000 -0300" channel="A&E HD">
     <title lang="pt">60 Dias Infiltrados Na Prisão - S1E12</title>
     <desc lang="pt">Três participantes permanecem na Penitenciária do Condado de Clark. Uma das mulheres da Ala F é solta, deixando Tami à beira de um ataque de nervos. E na Ala D, há uma ameaça constante de violência com um chefe removido e outro reivindicando o poder(n)</desc>
     <date>2016</date>
@@ -5140,14 +5140,14 @@
     <category lang="pt">Documentário</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504110000 -0300" stop="20180504120000 -0300" channel="A E HD">
+  <programme start="20180504110000 -0300" stop="20180504120000 -0300" channel="A&E HD">
     <title lang="pt">Vidas Interrompidas - S12E5</title>
     <date>2017</date>
     <category lang="pt">Séries</category>
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504120000 -0300" stop="20180504130000 -0300" channel="A E HD">
+  <programme start="20180504120000 -0300" stop="20180504130000 -0300" channel="A&E HD">
     <title lang="pt">Ncis: Nova Orleans - S2E4</title>
     <desc lang="pt">A equipe do NCIS precisa determinar porque um piloto de drone, assassinado, estava usando um drone do mercado negro para realizar vigilância militar, e se as imagens do drone têm alguma ligação com sua morte(n)</desc>
     <date>2015</date>
@@ -5155,13 +5155,13 @@
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504130000 -0300" stop="20180504140000 -0300" channel="A E HD">
+  <programme start="20180504130000 -0300" stop="20180504140000 -0300" channel="A&E HD">
     <title lang="pt">Jovens Assassinos E5</title>
     <desc lang="pt">Os pais de Ronald Salazar o deixam em El Salvador, enquanto vão tentar a vida na Flórida. Doze anos depois, quando se reencontram, o choque cultural e o ciúmes de seus três irmãos, transformam Ronald em um assassino frio(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Policial</category>
   </programme>
-  <programme start="20180504140000 -0300" stop="20180504150000 -0300" channel="A E HD">
+  <programme start="20180504140000 -0300" stop="20180504150000 -0300" channel="A&E HD">
     <title lang="pt">60 Dias Infiltrados Na Prisão - S1E12</title>
     <desc lang="pt">Três participantes permanecem na Penitenciária do Condado de Clark. Uma das mulheres da Ala F é solta, deixando Tami à beira de um ataque de nervos. E na Ala D, há uma ameaça constante de violência com um chefe removido e outro reivindicando o poder(n)</desc>
     <date>2016</date>
@@ -5169,7 +5169,7 @@
     <category lang="pt">Documentário</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504150000 -0300" stop="20180504160000 -0300" channel="A E HD">
+  <programme start="20180504150000 -0300" stop="20180504160000 -0300" channel="A&E HD">
     <title lang="pt">Tratamento de Choque - S6E63</title>
     <desc lang="pt">Shavia, de 18 anos, foi pega por roubar e está atrás das grades da prisão do Condado de Chester, na Carolina do Sul, para um choque de realidade. Só que seu comportamento delinquente acaba se revelando muito pior do que os delitos que ela comete(n)</desc>
     <date>2014</date>
@@ -5177,7 +5177,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504160000 -0300" stop="20180504170000 -0300" channel="A E HD">
+  <programme start="20180504160000 -0300" stop="20180504170000 -0300" channel="A&E HD">
     <title lang="pt">Segurança Máxima - S2E7</title>
     <desc lang="pt">O trabalho na prisão está desgastando os novatos. Fabian comete um gravíssimo erro que pode comprometer seu posto, enquanto Ariel se corrói em dúvidas sobre sua carreira e deixa de ir ao trabalho. Quem estará à altura e quem ficará pelo caminho?(n)</desc>
     <date>2017</date>
@@ -5185,7 +5185,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504170000 -0300" stop="20180504180000 -0300" channel="A E HD">
+  <programme start="20180504170000 -0300" stop="20180504180000 -0300" channel="A&E HD">
     <title lang="pt">Segurança Máxima - S2</title>
     <desc lang="pt">A violência na prisão continua aumentando e os novatos devem antecipar cada movimento dos internos se quiserem evitar conflitos. Uma briga entre membros das gangues põe à prova a resistência de Chaz. Ariel não suporta a pressão e renuncia(n)</desc>
     <date>2017</date>
@@ -5193,7 +5193,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504180000 -0300" stop="20180504190000 -0300" channel="A E HD">
+  <programme start="20180504180000 -0300" stop="20180504190000 -0300" channel="A&E HD">
     <title lang="pt">Sem Volta - S1E5</title>
     <desc lang="pt">O grupo de montanhistas precisa atravessar um rio, e querem deixar Yordi para trás, mas o guia se recusa a revelar o caminho que os levará até o resgate(n)</desc>
     <date>2016</date>
@@ -5201,7 +5201,7 @@
     <category lang="pt">Ação</category>
     <country>Brasil</country>
   </programme>
-  <programme start="20180504190000 -0300" stop="20180504200000 -0300" channel="A E HD">
+  <programme start="20180504190000 -0300" stop="20180504200000 -0300" channel="A&E HD">
     <title lang="pt">Ncis: Los Angeles - S6E19</title>
     <desc lang="pt">Quando um míssil em teste é apreendido e sua rota desviada, a equipe procura pelo grupo hacker responsável pelo ataque com a ajuda de uma jovem especialista de informática trazida por Hetty(n)</desc>
     <date>2015</date>
@@ -5209,7 +5209,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504200000 -0300" stop="20180504205000 -0300" channel="A E HD">
+  <programme start="20180504200000 -0300" stop="20180504205000 -0300" channel="A&E HD">
     <title lang="pt">NCIS: Los Angeles - S9E7</title>
     <desc lang="pt">Kensi deve ir a uma instalação de lançamento de mísseis para tentar impedir uma tomada de poder que coloque em risco as armas nucleares dos Estados Unidos. Conseguirá impor sua autoridade?(n)</desc>
     <date>2017</date>
@@ -5217,7 +5217,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504205000 -0300" stop="20180504213500 -0300" channel="A E HD">
+  <programme start="20180504205000 -0300" stop="20180504213500 -0300" channel="A&E HD">
     <title lang="pt">NCIS: Los Angeles - S9E8</title>
     <desc lang="pt">A equipe NCIS segue a pista de um grupo de assaltantes que se dedica a atacar imigrantes ilegais e oficiais da patrulha de fronteiras(n)</desc>
     <date>2017</date>
@@ -5225,7 +5225,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180504213500 -0300" stop="20180504233500 -0300" channel="A E HD">
+  <programme start="20180504213500 -0300" stop="20180504233500 -0300" channel="A&E HD">
     <title lang="pt">O Dragão Chinês</title>
     <desc lang="pt">Cheng passa a trabalhar na fábrica de gelo em Bancoc cujo proprietário está envolvido com tráfico de drogas e prostituição. Cheng revela-se profundo conhecedor das artes marciais e derrota a quadrilha(n)</desc>
     <date>1972</date>
@@ -5233,7 +5233,7 @@
     <category lang="pt">Ação</category>
     <country>China</country>
   </programme>
-  <programme start="20180504233500 -0300" stop="20180505002500 -0300" channel="A E HD">
+  <programme start="20180504233500 -0300" stop="20180505002500 -0300" channel="A&E HD">
     <title lang="pt">NCIS: Nova Orleans - S3E4</title>
     <desc lang="pt">Sebastian enfrenta o desafio mais difícil de sua vida quando é sequestrado para ajudar na fuga de prisioneiros utilizando suas habilidades no videogame(n)</desc>
     <date>2017</date>
@@ -5241,7 +5241,7 @@
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505002500 -0300" stop="20180505011500 -0300" channel="A E HD">
+  <programme start="20180505002500 -0300" stop="20180505011500 -0300" channel="A&E HD">
     <title lang="pt">NCIS: Los Angeles - S9E7</title>
     <desc lang="pt">Kensi deve ir a uma instalação de lançamento de mísseis para tentar impedir uma tomada de poder que coloque em risco as armas nucleares dos Estados Unidos. Conseguirá impor sua autoridade?(n)</desc>
     <date>2017</date>
@@ -5249,7 +5249,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505011500 -0300" stop="20180505021500 -0300" channel="A E HD">
+  <programme start="20180505011500 -0300" stop="20180505021500 -0300" channel="A&E HD">
     <title lang="pt">Segurança Máxima - S2E7</title>
     <desc lang="pt">O trabalho na prisão está desgastando os novatos. Fabian comete um gravíssimo erro que pode comprometer seu posto, enquanto Ariel se corrói em dúvidas sobre sua carreira e deixa de ir ao trabalho. Quem estará à altura e quem ficará pelo caminho?(n)</desc>
     <date>2017</date>
@@ -5257,7 +5257,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505021500 -0300" stop="20180505030000 -0300" channel="A E HD">
+  <programme start="20180505021500 -0300" stop="20180505030000 -0300" channel="A&E HD">
     <title lang="pt">Segurança Máxima - S2</title>
     <desc lang="pt">A violência na prisão continua aumentando e os novatos devem antecipar cada movimento dos internos se quiserem evitar conflitos. Uma briga entre membros das gangues põe à prova a resistência de Chaz. Ariel não suporta a pressão e renuncia(n)</desc>
     <date>2017</date>
@@ -5265,7 +5265,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505030000 -0300" stop="20180505034500 -0300" channel="A E HD">
+  <programme start="20180505030000 -0300" stop="20180505034500 -0300" channel="A&E HD">
     <title lang="pt">NCIS: Los Angeles - S9E8</title>
     <desc lang="pt">A equipe NCIS segue a pista de um grupo de assaltantes que se dedica a atacar imigrantes ilegais e oficiais da patrulha de fronteiras(n)</desc>
     <date>2017</date>
@@ -5273,7 +5273,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505034500 -0300" stop="20180505043000 -0300" channel="A E HD">
+  <programme start="20180505034500 -0300" stop="20180505043000 -0300" channel="A&E HD">
     <title lang="pt">Ncis: Los Angeles - S6E19</title>
     <desc lang="pt">Quando um míssil em teste é apreendido e sua rota desviada, a equipe procura pelo grupo hacker responsável pelo ataque com a ajuda de uma jovem especialista de informática trazida por Hetty(n)</desc>
     <date>2015</date>
@@ -5281,7 +5281,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505043000 -0300" stop="20180505051500 -0300" channel="A E HD">
+  <programme start="20180505043000 -0300" stop="20180505051500 -0300" channel="A&E HD">
     <title lang="pt">NCIS: Nova Orleans - S3E4</title>
     <desc lang="pt">Sebastian enfrenta o desafio mais difícil de sua vida quando é sequestrado para ajudar na fuga de prisioneiros utilizando suas habilidades no videogame(n)</desc>
     <date>2017</date>
@@ -5289,21 +5289,21 @@
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505051500 -0300" stop="20180505060000 -0300" channel="A E HD">
+  <programme start="20180505051500 -0300" stop="20180505060000 -0300" channel="A&E HD">
     <title lang="pt">Vidas Interrompidas - S12E5</title>
     <date>2017</date>
     <category lang="pt">Séries</category>
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505060000 -0300" stop="20180505064500 -0300" channel="A E HD">
+  <programme start="20180505060000 -0300" stop="20180505064500 -0300" channel="A&E HD">
     <title lang="pt">Vidas Interrompidas - S12E5</title>
     <date>2017</date>
     <category lang="pt">Séries</category>
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505064500 -0300" stop="20180505070700 -0300" channel="A E HD">
+  <programme start="20180505064500 -0300" stop="20180505070700 -0300" channel="A&E HD">
     <title lang="pt">O Caçador de Fugitivos - S1E9</title>
     <desc lang="pt">Quando as pílulas oferecidas por um traficante de drogas começam a afetar os jovens de uma comunidade, Akil se torna determinado a deter o criminoso(n)</desc>
     <date>2017</date>
@@ -5311,7 +5311,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505070700 -0300" stop="20180505073000 -0300" channel="A E HD">
+  <programme start="20180505070700 -0300" stop="20180505073000 -0300" channel="A&E HD">
     <title lang="pt">O Caçador de Fugitivos - S1E10</title>
     <desc lang="pt">Akil e sua equipe enfrentam um desafio maior do que o esperado quando têm que sair à caça de uma criminosa que cometeu uma fraude de cartão de crédito(n)</desc>
     <date>2017</date>
@@ -5319,20 +5319,20 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505073000 -0300" stop="20180505081500 -0300" channel="A E HD">
+  <programme start="20180505073000 -0300" stop="20180505081500 -0300" channel="A&E HD">
     <title lang="pt">Jovens Assassinos E5</title>
     <desc lang="pt">Os pais de Ronald Salazar o deixam em El Salvador, enquanto vão tentar a vida na Flórida. Doze anos depois, quando se reencontram, o choque cultural e o ciúmes de seus três irmãos, transformam Ronald em um assassino frio(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Policial</category>
   </programme>
-  <programme start="20180505081500 -0300" stop="20180505090000 -0300" channel="A E HD">
+  <programme start="20180505081500 -0300" stop="20180505090000 -0300" channel="A&E HD">
     <title lang="pt">Nascidos na Prisão - S1E3</title>
     <desc lang="pt">Stephanie tentará conseguir a liberdade condicional, mesmo não tendo concluído seu programa de reabilitação. Enquanto isso, a babá Ruthanne luta para que a deixem reencontrar o seu filho, que não vê há mais de um ano(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505090000 -0300" stop="20180505093000 -0300" channel="A E HD">
+  <programme start="20180505090000 -0300" stop="20180505093000 -0300" channel="A&E HD">
     <title lang="pt">O Caçador de Fugitivos - S1E9</title>
     <desc lang="pt">Quando as pílulas oferecidas por um traficante de drogas começam a afetar os jovens de uma comunidade, Akil se torna determinado a deter o criminoso(n)</desc>
     <date>2017</date>
@@ -5340,7 +5340,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505093000 -0300" stop="20180505100000 -0300" channel="A E HD">
+  <programme start="20180505093000 -0300" stop="20180505100000 -0300" channel="A&E HD">
     <title lang="pt">O Caçador de Fugitivos - S1E10</title>
     <desc lang="pt">Akil e sua equipe enfrentam um desafio maior do que o esperado quando têm que sair à caça de uma criminosa que cometeu uma fraude de cartão de crédito(n)</desc>
     <date>2017</date>
@@ -5348,7 +5348,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505100000 -0300" stop="20180505110000 -0300" channel="A E HD">
+  <programme start="20180505100000 -0300" stop="20180505110000 -0300" channel="A&E HD">
     <title lang="pt">Emergências Noturnas - S3E13</title>
     <desc lang="pt">Para trabalhar como Técnico de Emergências Médicas é imprescindível estar preparado para tudo. Nesta primeira parte, os membros da Patrulha Noturna relembram os momentos mais marcantes e desconcertantes de suas noites em Nova Orleans(n)</desc>
     <date>2017</date>
@@ -5356,7 +5356,7 @@
     <category lang="pt">Drama</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505110000 -0300" stop="20180505120000 -0300" channel="A E HD">
+  <programme start="20180505110000 -0300" stop="20180505120000 -0300" channel="A&E HD">
     <title lang="pt">Tratamento de Choque - S5E49</title>
     <desc lang="pt">Pela primeira vez, um adolescente violento, que já participou de um episódio anterior de "Tratamento de Choque", é agora um prisioneiro submisso com a esperança de mudar a vida de um novo grupo de adolescentes na prisão do Condado de Floyd(n)</desc>
     <date>2013</date>
@@ -5364,7 +5364,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505120000 -0300" stop="20180505124500 -0300" channel="A E HD">
+  <programme start="20180505120000 -0300" stop="20180505124500 -0300" channel="A&E HD">
     <title lang="pt">O Mistério das 11 Garotas - S1E5</title>
     <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
     <date>2017</date>
@@ -5372,7 +5372,7 @@
     <category lang="pt">Documentário</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505124500 -0300" stop="20180505134500 -0300" channel="A E HD">
+  <programme start="20180505124500 -0300" stop="20180505134500 -0300" channel="A&E HD">
     <title lang="pt">Esposas Assassinas - S1E6</title>
     <desc lang="pt">Na típica cidade americana de Edgewood, no Kentucky, Stephen e Adele Craven se encaixam com perfeição, porém, as coisas não vão bem entre eles; Stephen está sempre longe a trabalho e Adele gasta seu tempo no jogo, atividades no bairro, e um amante(n)</desc>
     <date>2012</date>
@@ -5380,7 +5380,7 @@
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505134500 -0300" stop="20180505144500 -0300" channel="A E HD">
+  <programme start="20180505134500 -0300" stop="20180505144500 -0300" channel="A&E HD">
     <title lang="pt">Emergências Noturnas - S3E13</title>
     <desc lang="pt">Para trabalhar como Técnico de Emergências Médicas é imprescindível estar preparado para tudo. Nesta primeira parte, os membros da Patrulha Noturna relembram os momentos mais marcantes e desconcertantes de suas noites em Nova Orleans(n)</desc>
     <date>2017</date>
@@ -5388,7 +5388,7 @@
     <category lang="pt">Drama</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505144500 -0300" stop="20180505153500 -0300" channel="A E HD">
+  <programme start="20180505144500 -0300" stop="20180505153500 -0300" channel="A&E HD">
     <title lang="pt">Tratamento de Choque - S5E49</title>
     <desc lang="pt">Pela primeira vez, um adolescente violento, que já participou de um episódio anterior de "Tratamento de Choque", é agora um prisioneiro submisso com a esperança de mudar a vida de um novo grupo de adolescentes na prisão do Condado de Floyd(n)</desc>
     <date>2013</date>
@@ -5396,7 +5396,7 @@
     <category lang="pt">Reality Show</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505153500 -0300" stop="20180505163500 -0300" channel="A E HD">
+  <programme start="20180505153500 -0300" stop="20180505163500 -0300" channel="A&E HD">
     <title lang="pt">O Mistério das 11 Garotas - S1E5</title>
     <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
     <date>2017</date>
@@ -5404,7 +5404,7 @@
     <category lang="pt">Documentário</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505163500 -0300" stop="20180505173500 -0300" channel="A E HD">
+  <programme start="20180505163500 -0300" stop="20180505173500 -0300" channel="A&E HD">
     <title lang="pt">Esposas Assassinas - S1E6</title>
     <desc lang="pt">Na típica cidade americana de Edgewood, no Kentucky, Stephen e Adele Craven se encaixam com perfeição, porém, as coisas não vão bem entre eles; Stephen está sempre longe a trabalho e Adele gasta seu tempo no jogo, atividades no bairro, e um amante(n)</desc>
     <date>2012</date>
@@ -5412,7 +5412,7 @@
     <category lang="pt">Policial</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505173500 -0300" stop="20180505193500 -0300" channel="A E HD">
+  <programme start="20180505173500 -0300" stop="20180505193500 -0300" channel="A&E HD">
     <title lang="pt">O Dragão Chinês</title>
     <desc lang="pt">Cheng passa a trabalhar na fábrica de gelo em Bancoc cujo proprietário está envolvido com tráfico de drogas e prostituição. Cheng revela-se profundo conhecedor das artes marciais e derrota a quadrilha(n)</desc>
     <date>1972</date>
@@ -5420,7 +5420,7 @@
     <category lang="pt">Ação</category>
     <country>China</country>
   </programme>
-  <programme start="20180505193500 -0300" stop="20180505213500 -0300" channel="A E HD">
+  <programme start="20180505193500 -0300" stop="20180505213500 -0300" channel="A&E HD">
     <title lang="pt">Coragem de Viver</title>
     <desc lang="pt">A inspiradora história real de Bethany Hamilton, uma jovem surfistinha que decide voltar ao esporte depois de ter perdido o seu braço esquerdo num ataque de tubarão(n)</desc>
     <date>2011</date>
@@ -5428,7 +5428,7 @@
     <category lang="pt">Drama</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505213500 -0300" stop="20180505222500 -0300" channel="A E HD">
+  <programme start="20180505213500 -0300" stop="20180505222500 -0300" channel="A&E HD">
     <title lang="pt">Bull - S2E1</title>
     <desc lang="pt">Uma mulher é acusada de assassinar seu esposo multimilionário, mas alega que foi em autodefesa. Bull se junta à equipe do promotor de justiça e deverá enfrentar sua ex, Diana Lindsay, que defende a viúva(n)</desc>
     <date>2017</date>
@@ -5436,7 +5436,7 @@
     <category lang="pt">Drama</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505222500 -0300" stop="20180505231500 -0300" channel="A E HD">
+  <programme start="20180505222500 -0300" stop="20180505231500 -0300" channel="A&E HD">
     <title lang="pt">NCIS: Los Angeles - S9E8</title>
     <desc lang="pt">A equipe NCIS segue a pista de um grupo de assaltantes que se dedica a atacar imigrantes ilegais e oficiais da patrulha de fronteiras(n)</desc>
     <date>2017</date>
@@ -5444,7 +5444,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180505231500 -0300" stop="20180506001500 -0300" channel="A E HD">
+  <programme start="20180505231500 -0300" stop="20180506001500 -0300" channel="A&E HD">
     <title lang="pt">NCIS: Nova Orleans - S3E20</title>
     <desc lang="pt">A equipe NCIS descobre uma conexão entre o Departamento de Polícia de Nova Orleans e uma quadrilha internacional de traficantes de drogas. O principal suspeito é um antigo sócio de LaSalle(n)</desc>
     <date>2017</date>
