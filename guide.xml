@@ -256,42 +256,6 @@
     <display-name lang="pt">Combate - Brasil</display-name>
     <url>http://www.tvplus.com.br.E</url>
   </channel>
-  <programme start="20200224003000 -0300" stop="20200224013000 -0300" channel="SporTv - Brasil">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224013000 -0300" stop="20200224023000 -0300" channel="SporTv - Brasil">
-    <title lang="pt">VT - Caxias x Grêmio</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224023000 -0300" stop="20200224033000 -0300" channel="SporTv - Brasil">
-    <title lang="pt">VT - Tombense x Cruzeiro</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224033000 -0300" stop="20200224043000 -0300" channel="SporTv - Brasil">
-    <title lang="pt">VT - Ituano x Santos</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224043000 -0300" stop="20200224053000 -0300" channel="SporTv - Brasil">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224053000 -0300" stop="20200224063000 -0300" channel="SporTv - Brasil">
-    <title lang="pt">VT - Tombense x Cruzeiro</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224063000 -0300" stop="20200224075000 -0300" channel="SporTv - Brasil">
-    <title lang="pt">VT - Ituano x Santos</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224075000 -0300" stop="20200224084500 -0300" channel="SporTv - Brasil">
-    <title lang="pt">Boleiragem</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200224084500 -0300" stop="20200224100000 -0300" channel="SporTv - Brasil">
-    <title lang="pt">SporTV News - Ao Vivo</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
   <programme start="20200224100000 -0300" stop="20200224123000 -0300" channel="SporTv - Brasil">
     <title lang="pt">Redação SporTV - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -652,212 +616,276 @@
     <title lang="pt">Troca de Passes - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200224233500 -0300" stop="20200225013000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Superliga de Vôlei Masculino: Ribeirão Preto x Itapetininga</title>
-    <category lang="pt">Esporte/Vôlei Masculino</category>
+  <programme start="20200224090000 -0300" stop="20200224110000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">NBA: Oklahoma City Thunder x San Antonio Spurs</title>
+    <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200225013000 -0300" stop="20200225023000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Faixa Olímpica</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200225023000 -0300" stop="20200225033000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200224110000 -0300" stop="20200224120000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">Giro da Rodada</title>
     <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200225033000 -0300" stop="20200225043000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Boleiragem</title>
-    <category lang="pt">Esporte/Diversos</category>
+  <programme start="20200224120000 -0300" stop="20200224130000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Tombense x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200225043000 -0300" stop="20200225063000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Superliga de Vôlei Masculino: Ribeirão Preto x Itapetininga</title>
-    <category lang="pt">Esporte/Vôlei Masculino</category>
+  <programme start="20200224130000 -0300" stop="20200224140000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Ituano x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200225063000 -0300" stop="20200225070000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Baú do Esporte</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200225070000 -0300" stop="20200225080000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200224140000 -0300" stop="20200224150000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Água Santa x Corinthians</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200225080000 -0300" stop="20200225090000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200224150000 -0300" stop="20200224160000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Caxias x Grêmio</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200225090000 -0300" stop="20200225110000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">NBA: Oklahoma City Thunder x San Antonio Spurs</title>
+  <programme start="20200224160000 -0300" stop="20200224170000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Água Santa x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200224170000 -0300" stop="20200224180000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Tombense x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200224180000 -0300" stop="20200224180500 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Rumo a Tóquio</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200224180500 -0300" stop="20200224190000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Ituano x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200224190000 -0300" stop="20200224200000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Água Santa x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200224200000 -0300" stop="20200224205500 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Caxias x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200224205500 -0300" stop="20200224210000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Rumo a Tóquio</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200224210000 -0300" stop="20200224230000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Eliminatórias da Americup de Basquete Masculino: Uruguai x Brasil - Ao Vivo</title>
     <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200224230000 -0300" stop="20200224230500 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Rumo a Tóquio</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200224230500 -0300" stop="20200225002500 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Água Santa x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200225002500 -0300" stop="20200225003000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Rumo a Tóquio</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200225003000 -0300" stop="20200225030000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">NBA: L. A. Clippers x Memphis Grizzles - Ao Vivo</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200225030000 -0300" stop="20200225053000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Bem, Amigos!</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200225053000 -0300" stop="20200225060000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200225060000 -0300" stop="20200225070000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Faixa Olímpica</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200225070000 -0300" stop="20200225080000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Tombense x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200225080000 -0300" stop="20200225090000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Ituano x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200225090000 -0300" stop="20200225100000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Água Santa x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200225100000 -0300" stop="20200225110000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Caxias x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
   </programme>
   <programme start="20200225110000 -0300" stop="20200225120000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">Giro da Rodada</title>
     <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200225120000 -0300" stop="20200225130000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Tombense x Cruzeiro</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200225130000 -0300" stop="20200225140000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Ituano x Santos</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200225140000 -0300" stop="20200225150000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200225150000 -0300" stop="20200225160000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Caxias x Grêmio</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200225160000 -0300" stop="20200225170000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200225170000 -0300" stop="20200225180000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Tombense x Cruzeiro</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200225180000 -0300" stop="20200225180500 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Rumo a Tóquio</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200225180500 -0300" stop="20200225190000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Ituano x Santos</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200225190000 -0300" stop="20200225200000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200225200000 -0300" stop="20200225205500 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Caxias x Grêmio</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200225205500 -0300" stop="20200225210000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Rumo a Tóquio</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200225210000 -0300" stop="20200225230000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Eliminatórias da Americup de Basquete Masculino: Uruguai x Brasil - Ao Vivo</title>
-    <category lang="pt">Esporte/Basquete</category>
-  </programme>
-  <programme start="20200225230000 -0300" stop="20200225230500 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Rumo a Tóquio</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200225230500 -0300" stop="20200226002500 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200226002500 -0300" stop="20200226003000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Rumo a Tóquio</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200226003000 -0300" stop="20200226030000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">NBA: L. A. Clippers x Memphis Grizzles - Ao Vivo</title>
-    <category lang="pt">Esporte/Basquete</category>
-  </programme>
-  <programme start="20200226030000 -0300" stop="20200226053000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Bem, Amigos!</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200226053000 -0300" stop="20200226060000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200225120000 -0300" stop="20200225123000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">Baú do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200226060000 -0300" stop="20200226070000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Faixa Olímpica</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200226070000 -0300" stop="20200226080000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Tombense x Cruzeiro</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200226080000 -0300" stop="20200226090000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Ituano x Santos</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200226090000 -0300" stop="20200226100000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200226100000 -0300" stop="20200226110000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Caxias x Grêmio</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200226110000 -0300" stop="20200226120000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Giro da Rodada</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20200226120000 -0300" stop="20200226123000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Baú do Esporte</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200226123000 -0300" stop="20200226143000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200225123000 -0300" stop="20200225143000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">NBA: L. A. Clippers x Memphis Grizzles</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200226143000 -0300" stop="20200226153000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200225143000 -0300" stop="20200225153000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Ituano x Santos</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200226153000 -0300" stop="20200226163000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200225153000 -0300" stop="20200225163000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Água Santa x Corinthians</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200226163000 -0300" stop="20200226173000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200225163000 -0300" stop="20200225173000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Caxias x Grêmio</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200226173000 -0300" stop="20200226183000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200225173000 -0300" stop="20200225183000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Tombense x Cruzeiro</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200226183000 -0300" stop="20200226193000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200225183000 -0300" stop="20200225193000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Palmeiras x Guarani</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200226193000 -0300" stop="20200226213000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200225193000 -0300" stop="20200225213000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">NBA: L. A. Clippers x Memphis Grizzles</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200226213000 -0300" stop="20200227000000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200225213000 -0300" stop="20200226000000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">NBA: Toronto Raptors x Milwaukee Bucks - Ao Vivo</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200227000000 -0300" stop="20200227023000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200226000000 -0300" stop="20200226023000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">NBA: Portland Trail Blazers x Boston Celtics - Ao Vivo</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200227023000 -0300" stop="20200227043000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200226023000 -0300" stop="20200226043000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">NBA: Toronto Raptors x Milwaukee Bucks</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200227043000 -0300" stop="20200227053000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200226043000 -0300" stop="20200226053000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">Giro da Rodada</title>
     <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200226053000 -0300" stop="20200226063000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Faixa Olímpica</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200226063000 -0300" stop="20200226083000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">NBA: Toronto Raptors x Milwaukee Bucks</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200226083000 -0300" stop="20200226103000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">NBA: Portland Trail Blazers x Boston Celtics</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200226103000 -0300" stop="20200226113000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200226113000 -0300" stop="20200226123000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Boleiragem</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200226123000 -0300" stop="20200226133000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Palmeiras x Guarani</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200226133000 -0300" stop="20200226143000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Ituano x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200226143000 -0300" stop="20200226153000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Oeste x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200226153000 -0300" stop="20200226163000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Caxias x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200226163000 -0300" stop="20200226173000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Água Santa x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200226173000 -0300" stop="20200226182500 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200226182500 -0300" stop="20200226183000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Rumo a Tóquio</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200226183000 -0300" stop="20200226190000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200226190000 -0300" stop="20200226210500 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20200226210500 -0300" stop="20200226211000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Rumo a Tóquio</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200226211000 -0300" stop="20200226213000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200226213000 -0300" stop="20200226233000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Afogados PE x Atlético MG - Ao Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200226233000 -0300" stop="20200226233500 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Rumo a Tóquio</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200226233500 -0300" stop="20200227003000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Palmeiras x Guarani</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200227003000 -0300" stop="20200227013000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Moto Club x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200227013000 -0300" stop="20200227023000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Caxias x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200227023000 -0300" stop="20200227033000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Faixa Olímpica</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200227033000 -0300" stop="20200227053000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+    <category lang="pt">Esporte/Vôlei Masculino</category>
   </programme>
   <programme start="20200227053000 -0300" stop="20200227063000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">Faixa Olímpica</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200227063000 -0300" stop="20200227083000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">NBA: Toronto Raptors x Milwaukee Bucks</title>
-    <category lang="pt">Esporte/Basquete</category>
-  </programme>
-  <programme start="20200227083000 -0300" stop="20200227103000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">NBA: Portland Trail Blazers x Boston Celtics</title>
-    <category lang="pt">Esporte/Basquete</category>
-  </programme>
-  <programme start="20200227103000 -0300" stop="20200227113000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Giro da Rodada</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20200227113000 -0300" stop="20200227123000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200227063000 -0300" stop="20200227073000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">Boleiragem</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200227123000 -0300" stop="20200227133000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200227073000 -0300" stop="20200227093000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+    <category lang="pt">Esporte/Vôlei Masculino</category>
+  </programme>
+  <programme start="20200227093000 -0300" stop="20200227103000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Palmeiras x Guarani</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200227103000 -0300" stop="20200227113000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Caxias x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200227113000 -0300" stop="20200227123000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Moto Club x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200227123000 -0300" stop="20200227133000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Corinthians x Santo André</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
   <programme start="20200227133000 -0300" stop="20200227143000 -0300" channel="SporTv 2 - Brasil">
@@ -865,168 +893,108 @@
     <category lang="pt">Esporte/Futebol</category>
   </programme>
   <programme start="20200227143000 -0300" stop="20200227153000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Oeste x São Paulo</title>
+    <title lang="pt">VT - Caxias x Grêmio</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
   <programme start="20200227153000 -0300" stop="20200227163000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Caxias x Grêmio</title>
+    <title lang="pt">VT - Palmeiras x Guarani</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
   <programme start="20200227163000 -0300" stop="20200227173000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200227173000 -0300" stop="20200227182500 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Giro da Rodada</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20200227182500 -0300" stop="20200227183000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Rumo a Tóquio</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200227183000 -0300" stop="20200227190000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Pré Jogo - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200227190000 -0300" stop="20200227210500 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro - Vivo</title>
-    <category lang="pt">Esporte/Vôlei</category>
-  </programme>
-  <programme start="20200227210500 -0300" stop="20200227211000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Rumo a Tóquio</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200227211000 -0300" stop="20200227213000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Pré Jogo - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200227213000 -0300" stop="20200227233000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Afogados PE x Atlético MG - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200227233000 -0300" stop="20200227233500 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Rumo a Tóquio</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200227233500 -0300" stop="20200228003000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Palmeiras x Guarani</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200228003000 -0300" stop="20200228013000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Moto Club x Fluminense</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200228013000 -0300" stop="20200228023000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Caxias x Grêmio</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200228023000 -0300" stop="20200228033000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Faixa Olímpica</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200228033000 -0300" stop="20200228053000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
-    <category lang="pt">Esporte/Vôlei Masculino</category>
-  </programme>
-  <programme start="20200228053000 -0300" stop="20200228063000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Faixa Olímpica</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200228063000 -0300" stop="20200228073000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Boleiragem</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200228073000 -0300" stop="20200228093000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
-    <category lang="pt">Esporte/Vôlei Masculino</category>
-  </programme>
-  <programme start="20200228093000 -0300" stop="20200228103000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Palmeiras x Guarani</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200228103000 -0300" stop="20200228113000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Caxias x Grêmio</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200228113000 -0300" stop="20200228123000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Moto Club x Fluminense</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200228123000 -0300" stop="20200228133000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200227173000 -0300" stop="20200227184500 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Corinthians x Santo André</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200228133000 -0300" stop="20200228143000 -0300" channel="SporTv 2 - Brasil">
+  <programme start="20200227184500 -0300" stop="20200227205500 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+    <category lang="pt">Esporte/Vôlei Masculino</category>
+  </programme>
+  <programme start="20200227205500 -0300" stop="20200227210000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Rumo a Tóquio</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200227210000 -0300" stop="20200227220000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Palmeiras x Guarani</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200227220000 -0300" stop="20200227230000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Moto Club x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200227230000 -0300" stop="20200228000000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT - Corinthians x Santo André</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200228000000 -0300" stop="20200228020000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+    <category lang="pt">Esporte/Vôlei Masculino</category>
+  </programme>
+  <programme start="20200228020000 -0300" stop="20200228030000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Faixa Olímpica</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200228030000 -0300" stop="20200228040000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">VT - Ituano x Santos</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200228143000 -0300" stop="20200228153000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Caxias x Grêmio</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200228153000 -0300" stop="20200228163000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Palmeiras x Guarani</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200228163000 -0300" stop="20200228173000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Moto Club x Fluminense</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200228173000 -0300" stop="20200228184500 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Corinthians x Santo André</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200228184500 -0300" stop="20200228205500 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
-    <category lang="pt">Esporte/Vôlei Masculino</category>
-  </programme>
-  <programme start="20200228205500 -0300" stop="20200228210000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200228040000 -0300" stop="20200228050000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Boleiragem</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200228210000 -0300" stop="20200228220000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Palmeiras x Guarani</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20200228050000 -0300" stop="20200228060000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200228220000 -0300" stop="20200228230000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Moto Club x Fluminense</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20200228060000 -0300" stop="20200228070000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Faixa Olímpica</title>
+    <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200228230000 -0300" stop="20200229000000 -0300" channel="SporTv 2 - Brasil">
-    <title lang="pt">VT - Corinthians x Santo André</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20200228070000 -0300" stop="20200228083000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT de Eventos</title>
+    <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200224010000 -0300" stop="20200224033000 -0300" channel="SporTv 3 - Brasil">
-    <title lang="pt">NBA: Utah Jazz x Houston Rockets</title>
+  <programme start="20200228083000 -0300" stop="20200228110000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT de Eventos</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200228110000 -0300" stop="20200228123000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT de Eventos</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200228123000 -0300" stop="20200228150000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT de Eventos</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200228150000 -0300" stop="20200228180000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT de Eventos</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200228180000 -0300" stop="20200228183000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">NBA Action</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200224033000 -0300" stop="20200224040000 -0300" channel="SporTv 3 - Brasil">
-    <title lang="pt">Baú do Esporte</title>
+  <programme start="20200228183000 -0300" stop="20200228203000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">VT de Eventos</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200224040000 -0300" stop="20200224050000 -0300" channel="SporTv 3 - Brasil">
-    <title lang="pt">Faixa Olímpica</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200224050000 -0300" stop="20200224070000 -0300" channel="SporTv 3 - Brasil">
-    <title lang="pt">NBA: L. A. Clippers x Sacramento Kings</title>
+  <programme start="20200228203000 -0300" stop="20200228210000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Rumo À UEFA Euro 2020</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200224070000 -0300" stop="20200224080000 -0300" channel="SporTv 3 - Brasil">
-    <title lang="pt">UFC: Felder x Hooker</title>
-    <category lang="pt">Esporte/Luta</category>
+  <programme start="20200228210000 -0300" stop="20200228213000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200224080000 -0300" stop="20200224090000 -0300" channel="SporTv 3 - Brasil">
-    <title lang="pt">Faixa Olímpica</title>
-    <category lang="pt">Esporte/Diversos</category>
+  <programme start="20200228213000 -0300" stop="20200228233000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Superliga Feminina de Vôlei: Praia Clube x Osasco - Ao Vivo</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
   </programme>
-  <programme start="20200224090000 -0300" stop="20200224093000 -0300" channel="SporTv 3 - Brasil">
-    <title lang="pt">Baú do Esporte</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200224093000 -0300" stop="20200224103000 -0300" channel="SporTv 3 - Brasil">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20200228233000 -0300" stop="20200229000000 -0300" channel="SporTv 2 - Brasil">
+    <title lang="pt">Pós Jogo - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
   <programme start="20200224103000 -0300" stop="20200224113000 -0300" channel="SporTv 3 - Brasil">
     <title lang="pt">VT - Ituano x Santos</title>
@@ -1412,26 +1380,6 @@
     <title lang="pt">Faixa Olímpica</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200224010000 -0300" stop="20200224023000 -0300" channel="Espn - Brasil">
-    <title lang="pt">Sportscenter</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200224023000 -0300" stop="20200224041500 -0300" channel="Espn - Brasil">
-    <title lang="pt">Rugby: Inglaterra x Irlanda</title>
-    <category lang="pt">Esporte/Rugby</category>
-  </programme>
-  <programme start="20200224041500 -0300" stop="20200224060000 -0300" channel="Espn - Brasil">
-    <title lang="pt">Derby County x Fulham</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224073000 -0300" channel="Espn - Brasil">
-    <title lang="pt">Sportscenter</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200224073000 -0300" stop="20200224090000 -0300" channel="Espn - Brasil">
-    <title lang="pt">Sportscenter</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
   <programme start="20200224090000 -0300" stop="20200224113000 -0300" channel="Espn - Brasil">
     <title lang="pt">NBA: Boston Celtics x Los Angeles Lakers</title>
     <category lang="pt">Esporte/Basquete</category>
@@ -1772,30 +1720,6 @@
     <title lang="pt">NBA: Oklahoma City Thunder x Milwaukee Bucks - Ao Vivo</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200224000000 -0300" stop="20200224013000 -0300" channel="Espn Brasil - Brasil">
-    <title lang="pt">Resenha ESPN</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200224013000 -0300" stop="20200224033000 -0300" channel="Espn Brasil - Brasil">
-    <title lang="pt">Barcelona x Eibar</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224033000 -0300" stop="20200224050000 -0300" channel="Espn Brasil - Brasil">
-    <title lang="pt">Sportscenter</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200224050000 -0300" stop="20200224060000 -0300" channel="Espn Brasil - Brasil">
-    <title lang="pt">Chelsea x Tottenham</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224073000 -0300" channel="Espn Brasil - Brasil">
-    <title lang="pt">Bola da Vez: Fernando Fernandes, Tetracampeão Mundial de Paracanoagem</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200224073000 -0300" stop="20200224090000 -0300" channel="Espn Brasil - Brasil">
-    <title lang="pt">Resenha ESPN</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
   <programme start="20200224090000 -0300" stop="20200224120000 -0300" channel="Espn Brasil - Brasil">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -2051,26 +1975,6 @@
   <programme start="20200228230000 -0300" stop="20200229000000 -0300" channel="Espn Brasil - Brasil">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200224003000 -0300" stop="20200224023000 -0300" channel="Fox Sports - Brasil">
-    <title lang="pt">A Última Palavra</title>
-    <category lang="pt">Variedades/Talk Show</category>
-  </programme>
-  <programme start="20200224023000 -0300" stop="20200224041500 -0300" channel="Fox Sports - Brasil">
-    <title lang="pt">VT - América RN x Sport</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224041500 -0300" stop="20200224051500 -0300" channel="Fox Sports - Brasil">
-    <title lang="pt">Aqui Com Benja</title>
-    <category lang="pt">Variedades/Talk Show</category>
-  </programme>
-  <programme start="20200224051500 -0300" stop="20200224070000 -0300" channel="Fox Sports - Brasil">
-    <title lang="pt">VT - Boca Juniors x Godoy Cruz</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224084500 -0300" channel="Fox Sports - Brasil">
-    <title lang="pt">VT - Estudiantes x River Plate</title>
-    <category lang="pt">Esporte/Futebol</category>
   </programme>
   <programme start="20200224084500 -0300" stop="20200224111500 -0300" channel="Fox Sports - Brasil">
     <title lang="pt">Bom Dia Fox - Ao Vivo</title>
@@ -2375,38 +2279,6 @@
   <programme start="20200228231000 -0300" stop="20200229000500 -0300" channel="Fox Sports - Brasil">
     <title lang="pt">NBB: Paulistano x Bauru - Ao Vivo</title>
     <category lang="pt">Esporte/Basquete Masculino</category>
-  </programme>
-  <programme start="20200224003000 -0300" stop="20200224013000 -0300" channel="Fox Sports 2 - Brasil">
-    <title lang="pt">Aqui Com Benja</title>
-    <category lang="pt">Variedades/Talk Show</category>
-  </programme>
-  <programme start="20200224013000 -0300" stop="20200224031500 -0300" channel="Fox Sports 2 - Brasil">
-    <title lang="pt">VT - Levante x Real Madrid</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224031500 -0300" stop="20200224033000 -0300" channel="Fox Sports 2 - Brasil">
-    <title lang="pt">Filler</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200224033000 -0300" stop="20200224063000 -0300" channel="Fox Sports 2 - Brasil">
-    <title lang="pt">Nascar Cup Séries</title>
-    <category lang="pt">Esporte/Automobilismo</category>
-  </programme>
-  <programme start="20200224063000 -0300" stop="20200224070000 -0300" channel="Fox Sports 2 - Brasil">
-    <title lang="pt">Show da Liga Europa</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224084500 -0300" channel="Fox Sports 2 - Brasil">
-    <title lang="pt">VT - Deportes Tolima (COL) x Internacional</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200224084500 -0300" stop="20200224093500 -0300" channel="Fox Sports 2 - Brasil">
-    <title lang="pt">WWE Vintage</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200224093500 -0300" stop="20200224102500 -0300" channel="Fox Sports 2 - Brasil">
-    <title lang="pt">WWE RAW</title>
-    <category lang="pt">Esporte/Luta</category>
   </programme>
   <programme start="20200224102500 -0300" stop="20200224111500 -0300" channel="Fox Sports 2 - Brasil">
     <title lang="pt">WWE Main Event</title>
@@ -2788,34 +2660,6 @@
     <title lang="pt">Colon x Boca Juniors - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200224000000 -0300" stop="20200224020000 -0300" channel="Band Sports - Brasil">
-    <title lang="pt">Depois do Jogo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200224020000 -0300" stop="20200224030000 -0300" channel="Band Sports - Brasil">
-    <title lang="pt">Doc. Bandsports</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200224030000 -0300" stop="20200224050000 -0300" channel="Band Sports - Brasil">
-    <title lang="pt">Depois do Jogo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200224050000 -0300" stop="20200224053000 -0300" channel="Band Sports - Brasil">
-    <title lang="pt">#TamoJunto</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200224053000 -0300" stop="20200224060000 -0300" channel="Band Sports - Brasil">
-    <title lang="pt">Lado B</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224070000 -0300" channel="Band Sports - Brasil">
-    <title lang="pt">Doc. Bandsports</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224090000 -0300" channel="Band Sports - Brasil">
-    <title lang="pt">ATP - Ao Vivo</title>
-    <category lang="pt">Esporte/Tênis</category>
-  </programme>
   <programme start="20200224090000 -0300" stop="20200224110000 -0300" channel="Band Sports - Brasil">
     <title lang="pt">ATP 500: Dubai - Ao Vivo</title>
     <category lang="pt">Esporte/Tênis</category>
@@ -3108,104 +2952,136 @@
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200224234900 -0300" stop="20200225015200 -0300" channel="TNT - Brasil">
-    <title lang="pt">O Quarto de Jack</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200225015200 -0300" stop="20200225032400 -0300" channel="TNT - Brasil">
-    <title lang="pt">Ataque ao Prédio</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200225032400 -0300" stop="20200225051900 -0300" channel="TNT - Brasil">
-    <title lang="pt">A Entrevista</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200225051900 -0300" stop="20200225060000 -0300" channel="TNT - Brasil">
-    <title lang="pt">Hollywood One on One</title>
-    <category lang="pt">Documentário/Cinema</category>
-  </programme>
-  <programme start="20200225060000 -0300" stop="20200225061400 -0300" channel="TNT - Brasil">
-    <title lang="pt">Hollywood One on One</title>
-    <category lang="pt">Documentário/Cinema</category>
-  </programme>
-  <programme start="20200225061400 -0300" stop="20200225075700 -0300" channel="TNT - Brasil">
-    <title lang="pt">Apnéia</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200225075700 -0300" stop="20200225091300 -0300" channel="TNT - Brasil">
-    <title lang="pt">Judy Moody em Férias Incríveis</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200225091300 -0300" stop="20200225111800 -0300" channel="TNT - Brasil">
+  <programme start="20200224091300 -0300" stop="20200224111800 -0300" channel="TNT - Brasil">
     <title lang="pt">Descendentes 2</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200225111800 -0300" stop="20200225125200 -0300" channel="TNT - Brasil">
+  <programme start="20200224111800 -0300" stop="20200224125200 -0300" channel="TNT - Brasil">
     <title lang="pt">Monstros S.A.</title>
     <category lang="pt">Filme/Infantil</category>
   </programme>
-  <programme start="20200225125200 -0300" stop="20200225143900 -0300" channel="TNT - Brasil">
+  <programme start="20200224125200 -0300" stop="20200224143900 -0300" channel="TNT - Brasil">
     <title lang="pt">Procurando Nemo</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200225143900 -0300" stop="20200225162300 -0300" channel="TNT - Brasil">
+  <programme start="20200224143900 -0300" stop="20200224162300 -0300" channel="TNT - Brasil">
     <title lang="pt">Agentes Selvagens</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200225162300 -0300" stop="20200225182700 -0300" channel="TNT - Brasil">
+  <programme start="20200224162300 -0300" stop="20200224182700 -0300" channel="TNT - Brasil">
     <title lang="pt">O Bom Gigante Amigo</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200225182700 -0300" stop="20200225203600 -0300" channel="TNT - Brasil">
+  <programme start="20200224182700 -0300" stop="20200224203600 -0300" channel="TNT - Brasil">
     <title lang="pt">Doutor Estranho</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200225203600 -0300" stop="20200225223000 -0300" channel="TNT - Brasil">
+  <programme start="20200224203600 -0300" stop="20200224223000 -0300" channel="TNT - Brasil">
     <title lang="pt">Mogli: O Menino Lobo</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200225223000 -0300" stop="20200226001700 -0300" channel="TNT - Brasil">
+  <programme start="20200224223000 -0300" stop="20200225001700 -0300" channel="TNT - Brasil">
     <title lang="pt">John Wick - De Volta ao Jogo</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200226001700 -0300" stop="20200226020000 -0300" channel="TNT - Brasil">
+  <programme start="20200225001700 -0300" stop="20200225020000 -0300" channel="TNT - Brasil">
     <title lang="pt">Em um Relacionamento Sério</title>
     <category lang="pt">Filme/Drama</category>
   </programme>
-  <programme start="20200226020000 -0300" stop="20200226035500 -0300" channel="TNT - Brasil">
+  <programme start="20200225020000 -0300" stop="20200225035500 -0300" channel="TNT - Brasil">
     <title lang="pt">A Entrevista</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200226035500 -0300" stop="20200226055200 -0300" channel="TNT - Brasil">
+  <programme start="20200225035500 -0300" stop="20200225055200 -0300" channel="TNT - Brasil">
     <title lang="pt">Este é o Meu Garoto</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200226055200 -0300" stop="20200226060000 -0300" channel="TNT - Brasil">
+  <programme start="20200225055200 -0300" stop="20200225060000 -0300" channel="TNT - Brasil">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Documentário/Cinema</category>
   </programme>
-  <programme start="20200226060000 -0300" stop="20200226071800 -0300" channel="TNT - Brasil">
+  <programme start="20200225060000 -0300" stop="20200225071800 -0300" channel="TNT - Brasil">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Documentário/Cinema</category>
   </programme>
-  <programme start="20200226071800 -0300" stop="20200226085300 -0300" channel="TNT - Brasil">
+  <programme start="20200225071800 -0300" stop="20200225085300 -0300" channel="TNT - Brasil">
     <title lang="pt">Monstros S.A.</title>
     <category lang="pt">Filme/Infantil</category>
   </programme>
-  <programme start="20200226085300 -0300" stop="20200226103800 -0300" channel="TNT - Brasil">
+  <programme start="20200225085300 -0300" stop="20200225103800 -0300" channel="TNT - Brasil">
     <title lang="pt">Procurando Nemo</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200226103800 -0300" stop="20200226121500 -0300" channel="TNT - Brasil">
+  <programme start="20200225103800 -0300" stop="20200225121500 -0300" channel="TNT - Brasil">
     <title lang="pt">Axel e os Meninos do Espaço</title>
     <category lang="pt">Filme/Animação</category>
   </programme>
-  <programme start="20200226121500 -0300" stop="20200226135500 -0300" channel="TNT - Brasil">
+  <programme start="20200225121500 -0300" stop="20200225135500 -0300" channel="TNT - Brasil">
     <title lang="pt">Cão-estrela e Turbo-gato</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200226135500 -0300" stop="20200226160000 -0300" channel="TNT - Brasil">
+  <programme start="20200225135500 -0300" stop="20200225160000 -0300" channel="TNT - Brasil">
     <title lang="pt">O Bom Gigante Amigo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200225160000 -0300" stop="20200225170000 -0300" channel="TNT - Brasil">
+    <title lang="pt">Pré-jogo Uefa Champions League</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200225170000 -0300" stop="20200225190000 -0300" channel="TNT - Brasil">
+    <title lang="pt">UEFA Champions League</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200225190000 -0300" stop="20200225200000 -0300" channel="TNT - Brasil">
+    <title lang="pt">UEFA Champions League</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200225200000 -0300" stop="20200225210000 -0300" channel="TNT - Brasil">
+    <title lang="pt">Último Lance</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200225210000 -0300" stop="20200225230100 -0300" channel="TNT - Brasil">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200225230100 -0300" stop="20200226005000 -0300" channel="TNT - Brasil">
+    <title lang="pt">John Wick - De Volta ao Jogo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200226005000 -0300" stop="20200226023800 -0300" channel="TNT - Brasil">
+    <title lang="pt">Convidado Vitalício</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200226023800 -0300" stop="20200226044900 -0300" channel="TNT - Brasil">
+    <title lang="pt">Constantine</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200226044900 -0300" stop="20200226060000 -0300" channel="TNT - Brasil">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Documentário/Cinema</category>
+  </programme>
+  <programme start="20200226060000 -0300" stop="20200226061800 -0300" channel="TNT - Brasil">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Documentário/Cinema</category>
+  </programme>
+  <programme start="20200226061800 -0300" stop="20200226075600 -0300" channel="TNT - Brasil">
+    <title lang="pt">Atlantis: O Reino Perdido</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200226075600 -0300" stop="20200226101800 -0300" channel="TNT - Brasil">
+    <title lang="pt">Star Wars: O Despertar da Força</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200226101800 -0300" stop="20200226120000 -0300" channel="TNT - Brasil">
+    <title lang="pt">A Trilha</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200226120000 -0300" stop="20200226135900 -0300" channel="TNT - Brasil">
+    <title lang="pt">Ratatouille</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200226135900 -0300" stop="20200226160000 -0300" channel="TNT - Brasil">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
   <programme start="20200226160000 -0300" stop="20200226170000 -0300" channel="TNT - Brasil">
@@ -3224,129 +3100,129 @@
     <title lang="pt">Último Lance</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200226210000 -0300" stop="20200226230100 -0300" channel="TNT - Brasil">
-    <title lang="pt">Moana: Um Mar de Aventuras</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200226230100 -0300" stop="20200227005000 -0300" channel="TNT - Brasil">
-    <title lang="pt">John Wick - De Volta ao Jogo</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200227005000 -0300" stop="20200227023800 -0300" channel="TNT - Brasil">
-    <title lang="pt">Convidado Vitalício</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200227023800 -0300" stop="20200227044900 -0300" channel="TNT - Brasil">
-    <title lang="pt">Constantine</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200227044900 -0300" stop="20200227060000 -0300" channel="TNT - Brasil">
-    <title lang="pt">Hollywood One on One</title>
-    <category lang="pt">Documentário/Cinema</category>
-  </programme>
-  <programme start="20200227060000 -0300" stop="20200227061800 -0300" channel="TNT - Brasil">
-    <title lang="pt">Hollywood One on One</title>
-    <category lang="pt">Documentário/Cinema</category>
-  </programme>
-  <programme start="20200227061800 -0300" stop="20200227075600 -0300" channel="TNT - Brasil">
-    <title lang="pt">Atlantis: O Reino Perdido</title>
-    <category lang="pt">Filme/Infantil</category>
-  </programme>
-  <programme start="20200227075600 -0300" stop="20200227101800 -0300" channel="TNT - Brasil">
-    <title lang="pt">Star Wars: O Despertar da Força</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200227101800 -0300" stop="20200227120000 -0300" channel="TNT - Brasil">
-    <title lang="pt">A Trilha</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200227120000 -0300" stop="20200227135900 -0300" channel="TNT - Brasil">
-    <title lang="pt">Ratatouille</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200227135900 -0300" stop="20200227160000 -0300" channel="TNT - Brasil">
-    <title lang="pt">Moana: Um Mar de Aventuras</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200227160000 -0300" stop="20200227170000 -0300" channel="TNT - Brasil">
-    <title lang="pt">Pré-jogo Uefa Champions League</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200227170000 -0300" stop="20200227190000 -0300" channel="TNT - Brasil">
-    <title lang="pt">UEFA Champions League</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200227190000 -0300" stop="20200227200000 -0300" channel="TNT - Brasil">
-    <title lang="pt">UEFA Champions League</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200227200000 -0300" stop="20200227210000 -0300" channel="TNT - Brasil">
-    <title lang="pt">Último Lance</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200227210000 -0300" stop="20200227230200 -0300" channel="TNT - Brasil">
+  <programme start="20200226210000 -0300" stop="20200226230200 -0300" channel="TNT - Brasil">
     <title lang="pt">A Fantástica Fábrica De Chocolate</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200227230200 -0300" stop="20200228012000 -0300" channel="TNT - Brasil">
+  <programme start="20200226230200 -0300" stop="20200227012000 -0300" channel="TNT - Brasil">
     <title lang="pt">Constantine</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200228012000 -0300" stop="20200228032500 -0300" channel="TNT - Brasil">
+  <programme start="20200227012000 -0300" stop="20200227032500 -0300" channel="TNT - Brasil">
     <title lang="pt">Doutor Estranho</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200228032500 -0300" stop="20200228050900 -0300" channel="TNT - Brasil">
+  <programme start="20200227032500 -0300" stop="20200227050900 -0300" channel="TNT - Brasil">
     <title lang="pt">O Homem do Tai Chi</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200228050900 -0300" stop="20200228060000 -0300" channel="TNT - Brasil">
+  <programme start="20200227050900 -0300" stop="20200227060000 -0300" channel="TNT - Brasil">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Documentário/Cinema</category>
   </programme>
-  <programme start="20200228060000 -0300" stop="20200228063300 -0300" channel="TNT - Brasil">
+  <programme start="20200227060000 -0300" stop="20200227063300 -0300" channel="TNT - Brasil">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Documentário/Cinema</category>
   </programme>
-  <programme start="20200228063300 -0300" stop="20200228081800 -0300" channel="TNT - Brasil">
+  <programme start="20200227063300 -0300" stop="20200227081800 -0300" channel="TNT - Brasil">
     <title lang="pt">Fogo Contra Fogo</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200228081800 -0300" stop="20200228101500 -0300" channel="TNT - Brasil">
+  <programme start="20200227081800 -0300" stop="20200227101500 -0300" channel="TNT - Brasil">
     <title lang="pt">Corpo Fechado</title>
     <category lang="pt">Filme/Suspense</category>
   </programme>
-  <programme start="20200228101500 -0300" stop="20200228121300 -0300" channel="TNT - Brasil">
+  <programme start="20200227101500 -0300" stop="20200227121300 -0300" channel="TNT - Brasil">
     <title lang="pt">Ratatouille</title>
     <category lang="pt">Filme/Animação</category>
   </programme>
-  <programme start="20200228121300 -0300" stop="20200228140200 -0300" channel="TNT - Brasil">
+  <programme start="20200227121300 -0300" stop="20200227140200 -0300" channel="TNT - Brasil">
     <title lang="pt">O Homem do Tai Chi</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200228140200 -0300" stop="20200228160500 -0300" channel="TNT - Brasil">
+  <programme start="20200227140200 -0300" stop="20200227160500 -0300" channel="TNT - Brasil">
     <title lang="pt">A Fantástica Fábrica De Chocolate</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200228160500 -0300" stop="20200228180600 -0300" channel="TNT - Brasil">
+  <programme start="20200227160500 -0300" stop="20200227180600 -0300" channel="TNT - Brasil">
     <title lang="pt">Moana: Um Mar de Aventuras</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200228180600 -0300" stop="20200228183600 -0300" channel="TNT - Brasil">
+  <programme start="20200227180600 -0300" stop="20200227183600 -0300" channel="TNT - Brasil">
     <title lang="pt">Mapa do Pop</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200228183600 -0300" stop="20200228202100 -0300" channel="TNT - Brasil">
+  <programme start="20200227183600 -0300" stop="20200227202100 -0300" channel="TNT - Brasil">
     <title lang="pt">Irmão Do Jorel: Edição Especial Alucinante</title>
     <category lang="pt">Infantil/Animação</category>
   </programme>
-  <programme start="20200228202100 -0300" stop="20200228223000 -0300" channel="TNT - Brasil">
+  <programme start="20200227202100 -0300" stop="20200227223000 -0300" channel="TNT - Brasil">
     <title lang="pt">Doutor Estranho</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200228223000 -0300" stop="20200229005300 -0300" channel="TNT - Brasil">
+  <programme start="20200227223000 -0300" stop="20200228005300 -0300" channel="TNT - Brasil">
     <title lang="pt">Déjà Vu</title>
     <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200228005300 -0300" stop="20200228013000 -0300" channel="TNT - Brasil">
+    <title lang="pt">Liga Espetacular</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200228013000 -0300" stop="20200228031000 -0300" channel="TNT - Brasil">
+    <title lang="pt">Em um Relacionamento Sério</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200228031000 -0300" stop="20200228050200 -0300" channel="TNT - Brasil">
+    <title lang="pt">Quero Matar Meu Chefe 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200228050200 -0300" stop="20200228060000 -0300" channel="TNT - Brasil">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Documentário/Cinema</category>
+  </programme>
+  <programme start="20200228060000 -0300" stop="20200228070900 -0300" channel="TNT - Brasil">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Documentário/Cinema</category>
+  </programme>
+  <programme start="20200228070900 -0300" stop="20200228090600 -0300" channel="TNT - Brasil">
+    <title lang="pt">Corpo Fechado</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200228090600 -0300" stop="20200228105100 -0300" channel="TNT - Brasil">
+    <title lang="pt">Afinado no Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200228105100 -0300" stop="20200228123100 -0300" channel="TNT - Brasil">
+    <title lang="pt">Wall-E</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200228123100 -0300" stop="20200228143100 -0300" channel="TNT - Brasil">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200228143100 -0300" stop="20200228164200 -0300" channel="TNT - Brasil">
+    <title lang="pt">Carros</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200228164200 -0300" stop="20200228182000 -0300" channel="TNT - Brasil">
+    <title lang="pt">O Bom Dinossauro</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200228182000 -0300" stop="20200228185000 -0300" channel="TNT - Brasil">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200228185000 -0300" stop="20200228203600 -0300" channel="TNT - Brasil">
+    <title lang="pt">O Escaravelho do Diabo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200228203600 -0300" stop="20200228223000 -0300" channel="TNT - Brasil">
+    <title lang="pt">Mogli: O Menino Lobo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200228223000 -0300" stop="20200229002100 -0300" channel="TNT - Brasil">
+    <title lang="pt">Vingança Fm</title>
+    <category lang="pt">Filme/Suspense</category>
   </programme>
   <programme start="20200224000200 -0300" stop="20200224003200 -0300" channel="HBO - Latinoamerica">
     <title lang="es">Avenue 5</title>
@@ -60691,174 +60567,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200224005000 -0300" stop="20200224015000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Narcos: México</title>
-    <sub-title lang="es">Jefe de jefes</sub-title>
-    <desc lang="es">María le ruega a Félix que regresen a Sinaloa. En tanto, Kiki reúne evidencia sobre los campos de marihuana del cártel de Guadalajara, mientras Neto vive un duelo.(n)</desc>
-    <credits>
-      <actor>Diego Luna</actor>
-      <actor>Teresa Ruiz</actor>
-      <actor>Aaron Staton</actor>
-      <actor>Alyssa Diaz</actor>
-      <actor>Joaquín Cosio</actor>
-      <actor>Scoot McNairy</actor>
-      <actor>Michael Pena</actor>
-      <actor>Matt Letscher</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/10952839.jpg" />
-    <country lang="es">México</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200224015000 -0300" stop="20200224025000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Narcos: México</title>
-    <sub-title lang="es">Solo di que no</sub-title>
-    <desc lang="es">Félix intenta evitar que sus socios tomen represalias después de que la DEA cerca el enorme campo de marihuana de Rafa. En tanto, Kiki y Jaime se encuentran con los investigadores.(n)</desc>
-    <credits>
-      <actor>Diego Luna</actor>
-      <actor>Teresa Ruiz</actor>
-      <actor>Aaron Staton</actor>
-      <actor>Alyssa Diaz</actor>
-      <actor>Joaquín Cosio</actor>
-      <actor>Scoot McNairy</actor>
-      <actor>Michael Pena</actor>
-      <actor>Matt Letscher</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/10952873.jpg" />
-    <country lang="es">México</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20200224025000 -0300" stop="20200224035000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Narcos: México</title>
-    <sub-title lang="es">881 Lope de Vega</sub-title>
-    <desc lang="es">Desesperado, Jaime se hunde en papeleo burocrático. En tanto, Mika está preocupada por su esposo, mientras Félix le pide a Rafa que desaparezca.(n)</desc>
-    <credits>
-      <actor>Diego Luna</actor>
-      <actor>Teresa Ruiz</actor>
-      <actor>Aaron Staton</actor>
-      <actor>Alyssa Diaz</actor>
-      <actor>Joaquín Cosio</actor>
-      <actor>Scoot McNairy</actor>
-      <actor>Michael Pena</actor>
-      <actor>Matt Letscher</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11035415.jpg" />
-    <country lang="es">México</country>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20200224035000 -0300" stop="20200224044500 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Narcos: México</title>
-    <sub-title lang="es">Leyenda</sub-title>
-    <desc lang="es">A medida que aumenta la presión, Félix regresa a Sinaloa. Por otro lado, Jaime y Mika enfurecidos buscan justicia y respuestas.(n)</desc>
-    <credits>
-      <actor>Diego Luna</actor>
-      <actor>Teresa Ruiz</actor>
-      <actor>Aaron Staton</actor>
-      <actor>Alyssa Diaz</actor>
-      <actor>Joaquín Cosio</actor>
-      <actor>Scoot McNairy</actor>
-      <actor>Michael Pena</actor>
-      <actor>Matt Letscher</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11035331.jpg" />
-    <country lang="es">México</country>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20200224044500 -0300" stop="20200224053500 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Obsesivos compulsivos</title>
-    <sub-title lang="es">Sybil y Ron</sub-title>
-    <desc lang="es">La acumulación de Sybil es tan intensa que los ratones han comenzado a vivir en su bañera y en su refrigerador. Su hogar está tan lleno de artículos y roedores que, literalmente, la han forzado a salir.(n)</desc>
-    <credits>
-      <director>Pat Barnes</director>
-      <actor>Geralin Thomas</actor>
-      <actor>Cory Chalmers</actor>
-      <actor>Dorothy Breininger</actor>
-      <actor>Matt Paxton</actor>
-      <actor>Robin Zasio</actor>
-      <actor>David Tolin</actor>
-      <actor>Melva Green</actor>
-      <actor>Standolyn Robertson</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/9462383.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S8 E104</episode-num>
-  </programme>
-  <programme start="20200224053500 -0300" stop="20200224060000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Fronteras peligrosas: Estados Unidos</title>
-    <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/10346683.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S2 E8</episode-num>
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224070000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">NCIS: New Orleans</title>
-    <sub-title lang="es">Perro ovejeros</sub-title>
-    <desc lang="es">Tras una explosión mortal en el Barrio Francés, el equipo interroga a un profesor y exmiembro de una organización de protesta estudiantil. Además, Tammy descubre un secreto sobre la vida personal de Hannah.(n)</desc>
-    <credits>
-      <actor>Rob Kerkovich</actor>
-      <actor>Cch Pounder</actor>
-      <actor>Lucas Black</actor>
-      <actor>Scott Bakula</actor>
-      <actor>Zoe McLellan</actor>
-      <actor>James Logan</actor>
-      <actor>Patrick Kearns</actor>
-      <actor>Christopher Heskey</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11056159.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S5 E7</episode-num>
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224080000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Bull</title>
-    <sub-title lang="es">Una chica sin sentimientos</sub-title>
-    <desc lang="es">Bill se siente culpable porque una antigua paciente de la clínica psiquiátrica que él cerró ha asesinado a su hermano. Ahora debe defenderla y tratar de conseguir un jurado compuesto por personas que simpaticen con ella.(n)</desc>
-    <credits>
-      <director>Paul Attanasio</director>
-      <actor>Michael Weatherly</actor>
-      <actor>Freddy Rodríguez</actor>
-      <actor>Jill Flint</actor>
-      <actor>Annabelle Attanasio</actor>
-      <actor>Chris Jackson</actor>
-      <actor>Jaime Lee Kirchner</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Dena Tyler</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/9599129.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S3 E7</episode-num>
-  </programme>
-  <programme start="20200224080000 -0300" stop="20200224090000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2702629.jpg" />
-    <country lang="es">Argentina</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200224090000 -0300" stop="20200224100000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2702629.jpg" />
-    <country lang="es">Argentina</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200224100000 -0300" stop="20200224105000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Último día en libertad</title>
-    <sub-title lang="es">Una bofetada en la cara</sub-title>
-    <desc lang="es">Conozca la historia de individuos recientemente condenados mientras disfrutan sus últimas veinticuatro horas de libertad antes de presentarse a la cárcel, en un recorrido que contempla sus pensamientos, conflictos internos y decisiones.(n)</desc>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/3460227.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S2 E12</episode-num>
-  </programme>
   <programme start="20200224105000 -0300" stop="20200224112000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
@@ -61081,7 +60789,7 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/11055333.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
   <programme start="20200224225000 -0300" stop="20200224235000 -0300" channel="AyE - Latinoamerica">
@@ -61099,7 +60807,7 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/11072494.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
   <programme start="20200224235000 -0300" stop="20200225014000 -0300" channel="AyE - Latinoamerica">
@@ -61499,7 +61207,7 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/11072494.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
   <programme start="20200225225000 -0300" stop="20200225235000 -0300" channel="AyE - Latinoamerica">
@@ -61517,7 +61225,7 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/11076936.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
   <programme start="20200225235000 -0300" stop="20200226014000 -0300" channel="AyE - Latinoamerica">
@@ -61910,7 +61618,7 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/11076936.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
   <programme start="20200226225000 -0300" stop="20200226235000 -0300" channel="AyE - Latinoamerica">
@@ -61928,7 +61636,7 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/11025471.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
   <programme start="20200226235000 -0300" stop="20200227013000 -0300" channel="AyE - Latinoamerica">
@@ -62326,7 +62034,7 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/11025471.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
   <programme start="20200227225000 -0300" stop="20200227235000 -0300" channel="AyE - Latinoamerica">
@@ -62344,7 +62052,7 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/10911446.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
   <programme start="20200227235000 -0300" stop="20200228015500 -0300" channel="AyE - Latinoamerica">
@@ -62721,7 +62429,7 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/10911446.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
   <programme start="20200228225000 -0300" stop="20200228235000 -0300" channel="AyE - Latinoamerica">
@@ -62739,77 +62447,8 @@
     </credits>
     <category lang="es">Series</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/10911446.jpg" />
-    <country lang="es">USA</country>
+    <country lang="es">México</country>
     <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20200224010000 -0300" stop="20200224020000 -0300" channel="Espn 1 - Argentina">
-    <title lang="es">Compact - Fútbol de España. Atlético Madrid vs. Villarreal, Fecha 25, Estadio Wanda Metropolitano</title>
-    <desc lang="es">Lo mejor de la máxima categoría del sistema de Ligas de fútbol de España que se disputa anualmente y consta de un grupo único integrado por veinte equipos que se enfrentan todos contra todos en dos ocasiones, local y visitante.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11034255.jpg" />
-    <country lang="es">España</country>
-  </programme>
-  <programme start="20200224020000 -0300" stop="20200224030000 -0300" channel="Espn 1 - Argentina">
-    <title lang="es">Goles de Europa</title>
-    <desc lang="es">Todos los tantos convertidos durante el fin de semana en el viejo continente.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/1159441.jpg" />
-  </programme>
-  <programme start="20200224030000 -0300" stop="20200224040000 -0300" channel="Espn 1 - Argentina">
-    <title lang="es">Compact - Fútbol de España. Atlético Madrid vs. Villarreal, Fecha 25, Estadio Wanda Metropolitano</title>
-    <desc lang="es">Lo mejor de la máxima categoría del sistema de Ligas de fútbol de España que se disputa anualmente y consta de un grupo único integrado por veinte equipos que se enfrentan todos contra todos en dos ocasiones, local y visitante.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11034255.jpg" />
-    <country lang="es">España</country>
-  </programme>
-  <programme start="20200224040000 -0300" stop="20200224053000 -0300" channel="Espn 1 - Argentina">
-    <title lang="es">Sportscenter (LA). Poker Stars</title>
-    <credits>
-      <actor>Enrique Sacco</actor>
-      <actor>Fernando Carlos</actor>
-      <actor>Pablo Stecco</actor>
-      <actor>Gustavo Sgalla</actor>
-      <actor>Jorge Barril</actor>
-      <actor>Alejandro Coccia</actor>
-      <actor>Quique Wolff</actor>
-      <actor>Miguel Simón</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/Noticias y negocios_gr.jpg" />
-  </programme>
-  <programme start="20200224053000 -0300" stop="20200224060000 -0300" channel="Espn 1 - Argentina">
-    <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/487483.jpg" />
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224073000 -0300" channel="Espn 1 - Argentina">
-    <title lang="es">Sportscenter (LA). Poker Stars</title>
-    <credits>
-      <actor>Enrique Sacco</actor>
-      <actor>Fernando Carlos</actor>
-      <actor>Pablo Stecco</actor>
-      <actor>Gustavo Sgalla</actor>
-      <actor>Jorge Barril</actor>
-      <actor>Alejandro Coccia</actor>
-      <actor>Quique Wolff</actor>
-      <actor>Miguel Simón</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/Noticias y negocios_gr.jpg" />
-  </programme>
-  <programme start="20200224073000 -0300" stop="20200224094500 -0300" channel="Espn 1 - Argentina">
-    <title lang="es">Ciclismo internacional - UAE Tour. Etapa 2</title>
-    <desc lang="es">Una carrera por etapas de ciclismo en ruta que se disputa en los Emiratos Árabes Unidos desde el año 2019. La carrera nace por la fusión de las carreras Tour de Abu Dhabi y el Tour de Dubai que se realizaban en el país emiratí.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11071019.jpg" />
-    <country lang="es">Emiratos Árabes Unidos</country>
-  </programme>
-  <programme start="20200224094500 -0300" stop="20200224105000 -0300" channel="Espn 1 - Argentina">
-    <title lang="es">Goles de Europa</title>
-    <desc lang="es">Todos los tantos convertidos durante el fin de semana en el viejo continente.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/1159441.jpg" />
   </programme>
   <programme start="20200224105000 -0300" stop="20200224112500 -0300" channel="Espn 1 - Argentina">
     <title lang="es">UEFA Champions League Weekly</title>
@@ -63581,77 +63220,6 @@
     <icon src="https://epg.tcc.com.uy/recursos/eventos/2375800.jpg" />
     <country lang="es">USA</country>
   </programme>
-  <programme start="20200224003000 -0300" stop="20200224020000 -0300" channel="Espn 2 - Argentina">
-    <title lang="es">Sportscenter (LA). Poker Stars</title>
-    <credits>
-      <actor>Enrique Sacco</actor>
-      <actor>Fernando Carlos</actor>
-      <actor>Pablo Stecco</actor>
-      <actor>Gustavo Sgalla</actor>
-      <actor>Jorge Barril</actor>
-      <actor>Alejandro Coccia</actor>
-      <actor>Quique Wolff</actor>
-      <actor>Miguel Simón</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/Noticias y negocios_gr.jpg" />
-  </programme>
-  <programme start="20200224020000 -0300" stop="20200224033000 -0300" channel="Espn 2 - Argentina">
-    <title lang="es">Sportscenter (LA). Poker Stars</title>
-    <credits>
-      <actor>Enrique Sacco</actor>
-      <actor>Fernando Carlos</actor>
-      <actor>Pablo Stecco</actor>
-      <actor>Gustavo Sgalla</actor>
-      <actor>Jorge Barril</actor>
-      <actor>Alejandro Coccia</actor>
-      <actor>Quique Wolff</actor>
-      <actor>Miguel Simón</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/Noticias y negocios_gr.jpg" />
-  </programme>
-  <programme start="20200224033000 -0300" stop="20200224040000 -0300" channel="Espn 2 - Argentina">
-    <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/487483.jpg" />
-  </programme>
-  <programme start="20200224040000 -0300" stop="20200224050000 -0300" channel="Espn 2 - Argentina">
-    <title lang="es">Compact - Premier League. Leicester City vs. Manchester City, Fecha 27, King Power Stadium</title>
-    <desc lang="es">Un resumen con lo mejor de cada partido de la competición más importante de la liga inglesa, en la que veinte equipos se enfrentan dos veces entre sí.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11034985.jpg" />
-    <country lang="es">Inglaterra</country>
-  </programme>
-  <programme start="20200224050000 -0300" stop="20200224060000 -0300" channel="Espn 2 - Argentina">
-    <title lang="es">Compact - Fútbol de Italia - Serie A. SPAL vs. Juventus, Fecha 25, Stadio Paolo Mazza</title>
-    <desc lang="es">Compacto de la primera división del fútbol italiano, en la que veinte equipos se enfrentan todos contra todos en dos rondas.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11034464.jpg" />
-    <country lang="es">Italia</country>
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224073000 -0300" channel="Espn 2 - Argentina">
-    <title lang="es">Scrum. Urba</title>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/1176809.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224073000 -0300" stop="20200224090000 -0300" channel="Espn 2 - Argentina">
-    <title lang="es">Sportscenter (LA). Poker Stars</title>
-    <credits>
-      <actor>Enrique Sacco</actor>
-      <actor>Fernando Carlos</actor>
-      <actor>Pablo Stecco</actor>
-      <actor>Gustavo Sgalla</actor>
-      <actor>Jorge Barril</actor>
-      <actor>Alejandro Coccia</actor>
-      <actor>Quique Wolff</actor>
-      <actor>Miguel Simón</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/Noticias y negocios_gr.jpg" />
-  </programme>
   <programme start="20200224090000 -0300" stop="20200224150000 -0300" channel="Espn 2 - Argentina">
     <title lang="es">Sportscenter - Edición de mediodía</title>
     <desc lang="es">El noticiero de ESPN que brinda un amplio panorama del deporte mundial.(n)</desc>
@@ -64263,64 +63831,6 @@
     <desc lang="es">Donde ruede una pelota, allí estaremos con móviles donde la noticia convoque y con las voces autorizadas de nuestros especialistas.(n)</desc>
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/969424.jpg" />
-  </programme>
-  <programme start="20200224013000 -0300" stop="20200224023000 -0300" channel="Espn 3 - Argentina">
-    <title lang="es">Compact - Fútbol de España. Atlético Madrid vs. Villarreal, Fecha 25, Estadio Wanda Metropolitano</title>
-    <desc lang="es">Lo mejor de la máxima categoría del sistema de Ligas de fútbol de España que se disputa anualmente y consta de un grupo único integrado por veinte equipos que se enfrentan todos contra todos en dos ocasiones, local y visitante.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11034255.jpg" />
-    <country lang="es">España</country>
-  </programme>
-  <programme start="20200224023000 -0300" stop="20200224033000 -0300" channel="Espn 3 - Argentina">
-    <title lang="es">Compact - Fútbol de Italia - Serie A. SPAL vs. Juventus, Fecha 25, Stadio Paolo Mazza</title>
-    <desc lang="es">Compacto de la primera división del fútbol italiano, en la que veinte equipos se enfrentan todos contra todos en dos rondas.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11034464.jpg" />
-    <country lang="es">Italia</country>
-  </programme>
-  <programme start="20200224033000 -0300" stop="20200224040000 -0300" channel="Espn 3 - Argentina">
-    <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/487483.jpg" />
-  </programme>
-  <programme start="20200224040000 -0300" stop="20200224050000 -0300" channel="Espn 3 - Argentina">
-    <title lang="es">Goles de Europa</title>
-    <desc lang="es">Todos los tantos convertidos durante el fin de semana en el viejo continente.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/1159441.jpg" />
-  </programme>
-  <programme start="20200224050000 -0300" stop="20200224060000 -0300" channel="Espn 3 - Argentina">
-    <title lang="es">Goles de la UEFA Europa League</title>
-    <desc lang="es">Los mejores momentos de la temporada 2014/2015 de la UEFA Europa League, el segundo torneo de clubes más importante del Viejo Continente.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/502207.jpg" />
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224070000 -0300" channel="Espn 3 - Argentina">
-    <title lang="es">Compact - Fútbol de España. Levante vs. Real Madrid, Fecha 25, Estadio Ciutat de València</title>
-    <desc lang="es">Lo mejor de la máxima categoría del sistema de Ligas de fútbol de España que se disputa anualmente y consta de un grupo único integrado por veinte equipos que se enfrentan todos contra todos en dos ocasiones, local y visitante.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11034205.jpg" />
-    <country lang="es">España</country>
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224080000 -0300" channel="Espn 3 - Argentina">
-    <title lang="es">Goles de Europa</title>
-    <desc lang="es">Todos los tantos convertidos durante el fin de semana en el viejo continente.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/1159441.jpg" />
-  </programme>
-  <programme start="20200224080000 -0300" stop="20200224090000 -0300" channel="Espn 3 - Argentina">
-    <title lang="es">Compact - Fútbol de Italia - Serie A. Inter vs. Sampdoria, Fecha 25, Estadio San Siro</title>
-    <desc lang="es">Compacto de la primera división del fútbol italiano, en la que veinte equipos se enfrentan todos contra todos en dos rondas.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11034486.jpg" />
-    <country lang="es">Italia</country>
-  </programme>
-  <programme start="20200224090000 -0300" stop="20200224093000 -0300" channel="Espn 3 - Argentina">
-    <title lang="es">ESPN Run. Maratón de Disney</title>
-    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4529981.jpg" />
   </programme>
   <programme start="20200224093000 -0300" stop="20200224110000 -0300" channel="Espn 3 - Argentina">
     <title lang="es">Scrum. Urba</title>
@@ -65134,95 +64644,6 @@
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/3291956.jpg" />
   </programme>
-  <programme start="20200224010000 -0300" stop="20200224020000 -0300" channel="Fox Sports - Argentina">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas.(n)</desc>
-    <credits>
-      <actor>Adrián Puente</actor>
-      <actor>Martín Liberman</actor>
-      <actor>Margarita Wais</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2090702.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224020000 -0300" stop="20200224033000 -0300" channel="Fox Sports - Argentina">
-    <title lang="es">Juego sagrado</title>
-    <desc lang="es">La completa transmisión de la Superliga para comentar todo lo sucedido en las jornadas. El segmento cuenta con toda la información para los amantes del reconocido juego sagrado: el fútbol.(n)</desc>
-    <credits>
-      <actor>Martín Liberman</actor>
-      <actor>Gustavo López</actor>
-    </credits>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4283922.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224033000 -0300" stop="20200224043000 -0300" channel="Fox Sports - Argentina">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas.(n)</desc>
-    <credits>
-      <actor>Adrián Puente</actor>
-      <actor>Martín Liberman</actor>
-      <actor>Margarita Wais</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2090702.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224043000 -0300" stop="20200224060000 -0300" channel="Fox Sports - Argentina">
-    <title lang="es">Juego sagrado</title>
-    <desc lang="es">La completa transmisión de la Superliga para comentar todo lo sucedido en las jornadas. El segmento cuenta con toda la información para los amantes del reconocido juego sagrado: el fútbol.(n)</desc>
-    <credits>
-      <actor>Martín Liberman</actor>
-      <actor>Gustavo López</actor>
-    </credits>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4283922.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224070000 -0300" channel="Fox Sports - Argentina">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas.(n)</desc>
-    <credits>
-      <actor>Adrián Puente</actor>
-      <actor>Martín Liberman</actor>
-      <actor>Margarita Wais</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2090702.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224080000 -0300" channel="Fox Sports - Argentina">
-    <title lang="es">Highlights - WWE Raw</title>
-    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/620881.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20200224080000 -0300" stop="20200224090000 -0300" channel="Fox Sports - Argentina">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas.(n)</desc>
-    <credits>
-      <actor>Adrián Puente</actor>
-      <actor>Martín Liberman</actor>
-      <actor>Margarita Wais</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2090702.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224090000 -0300" stop="20200224100000 -0300" channel="Fox Sports - Argentina">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas.(n)</desc>
-    <credits>
-      <actor>Adrián Puente</actor>
-      <actor>Martín Liberman</actor>
-      <actor>Margarita Wais</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2090702.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
   <programme start="20200224100000 -0300" stop="20200224110000 -0300" channel="Fox Sports - Argentina">
     <title lang="es">Central Fox</title>
     <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas.(n)</desc>
@@ -66031,75 +65452,6 @@
     <icon src="https://epg.tcc.com.uy/recursos/eventos/641490.jpg" />
     <country lang="es">Argentina</country>
   </programme>
-  <programme start="20200224000000 -0300" stop="20200224020000 -0300" channel="Fox Sports 2 - Argentina">
-    <title lang="es">Bayer Leverkusen vs. Augsburg, Fecha 23, Estadio BayArena. Bundesliga</title>
-    <desc lang="es">Disfruta de la competición de la máxima categoría de Alemania, en la que dieciocho equipos compiten en partidos de ida y vuelta.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11039397.jpg" />
-    <country lang="es">Alemania</country>
-  </programme>
-  <programme start="20200224020000 -0300" stop="20200224030000 -0300" channel="Fox Sports 2 - Argentina">
-    <title lang="es">El show de la CONMEBOL Libertadores</title>
-    <desc lang="es">El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/3088609.jpg" />
-  </programme>
-  <programme start="20200224030000 -0300" stop="20200224050000 -0300" channel="Fox Sports 2 - Argentina">
-    <title lang="es">Borussia Dortmund (Ale) vs. PSG (Fra). UEFA Champions League</title>
-    <desc lang="es">Transmisión de los partidos de la Liga de Campeones de Europa, el torneo internacional de fútbol profesional más prestigioso a nivel de clubes, organizado por la Unión de Asociaciones Europeas de Fútbol.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/11021860.jpg" />
-  </programme>
-  <programme start="20200224050000 -0300" stop="20200224060000 -0300" channel="Fox Sports 2 - Argentina">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas.(n)</desc>
-    <credits>
-      <actor>Adrián Puente</actor>
-      <actor>Martín Liberman</actor>
-      <actor>Margarita Wais</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2090702.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224070000 -0300" channel="Fox Sports 2 - Argentina">
-    <title lang="es">Fox Fight Club. 155: Rafael Carvalho vs. Melvin Manhoef</title>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/1107852.jpg" />
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224080000 -0300" channel="Fox Sports 2 - Argentina">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas.(n)</desc>
-    <credits>
-      <actor>Adrián Puente</actor>
-      <actor>Martín Liberman</actor>
-      <actor>Margarita Wais</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2090702.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224080000 -0300" stop="20200224093000 -0300" channel="Fox Sports 2 - Argentina">
-    <title lang="es">Juego sagrado</title>
-    <desc lang="es">La completa transmisión de la Superliga para comentar todo lo sucedido en las jornadas. El segmento cuenta con toda la información para los amantes del reconocido juego sagrado: el fútbol.(n)</desc>
-    <credits>
-      <actor>Martín Liberman</actor>
-      <actor>Gustavo López</actor>
-    </credits>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4283922.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20200224093000 -0300" stop="20200224100000 -0300" channel="Fox Sports 2 - Argentina">
-    <title lang="es">Das Ligahaus</title>
-    <desc lang="es">Un show sobre la Bundesliga y la cultura alemana. Cada semana recorremos diferentes atracciones turísticas de este país y descubrimos los secretos del mundo del fútbol teutón.(n)</desc>
-    <credits>
-      <actor>Ezequiel Daray</actor>
-    </credits>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2450085.jpg" />
-    <country lang="es">Alemania</country>
-  </programme>
   <programme start="20200224100000 -0300" stop="20200224120000 -0300" channel="Fox Sports 2 - Argentina">
     <title lang="es">WWE Smackdown</title>
     <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE, un show, donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.(n)</desc>
@@ -66778,51 +66130,6 @@
     <icon src="https://epg.tcc.com.uy/recursos/eventos/11076885.jpg" />
     <country lang="es">Argentina</country>
   </programme>
-  <programme start="20200224000000 -0300" stop="20200224033000 -0300" channel="Fox Sports 3 - Argentina">
-    <title lang="es">NASCAR Cup Series Racing. Las Vegas</title>
-    <desc lang="es">La serie de carreras más importante de la Asociación Nacional para Stock Car Auto Racing.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/10999488.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20200224033000 -0300" stop="20200224043000 -0300" channel="Fox Sports 3 - Argentina">
-    <title lang="es">Central Fox Nitro</title>
-    <desc lang="es">Resumen en vivo de lo más importante de las carreras del fin de semana. Adicionalmente, el show contará con una emisión grabada complementaria diaria de media hora, con formato magazine con las noticias más destacadas del día.(n)</desc>
-    <credits>
-      <actor>Pablo Schillaci</actor>
-    </credits>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2090691.jpg" />
-  </programme>
-  <programme start="20200224043000 -0300" stop="20200224050000 -0300" channel="Fox Sports 3 - Argentina">
-    <title lang="es">Das Ligahaus</title>
-    <desc lang="es">Un show sobre la Bundesliga y la cultura alemana. Cada semana recorremos diferentes atracciones turísticas de este país y descubrimos los secretos del mundo del fútbol teutón.(n)</desc>
-    <credits>
-      <actor>Ezequiel Daray</actor>
-    </credits>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/2450085.jpg" />
-    <country lang="es">Alemania</country>
-  </programme>
-  <programme start="20200224050000 -0300" stop="20200224083000 -0300" channel="Fox Sports 3 - Argentina">
-    <title lang="es">NASCAR Cup Series Racing. Las Vegas</title>
-    <desc lang="es">La serie de carreras más importante de la Asociación Nacional para Stock Car Auto Racing.(n)</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/10999488.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20200224083000 -0300" stop="20200224090000 -0300" channel="Fox Sports 3 - Argentina">
-    <title lang="es">Rally on Board</title>
-    <desc lang="es">Vamos a recorrer el mundo del rally desde adentro y con la participación de los pilotos, mecánicos y toda la gente que trabaja en el rally, mostraremos como se vive, como se maneja y que pasa en las carreras.(n)</desc>
-    <credits>
-      <actor>Carolina Di Nezio</actor>
-      <actor>Pablo Schillaci</actor>
-      <actor>Marcos Ligato</actor>
-    </credits>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/388321.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
   <programme start="20200224090000 -0300" stop="20200224110000 -0300" channel="Fox Sports 3 - Argentina">
     <title lang="es">ePrix CDMX. Fórmula E</title>
     <desc lang="es">La Fórmula E es una nueva categoría de competición de monoplazas eléctricos con el mismo carácter jerárquico que la Fórmula 1, organizada por la Federación Internacional del Automóvil (FIA).(n)</desc>
@@ -66866,6 +66173,9 @@
   <programme start="20200224193000 -0300" stop="20200224200000 -0300" channel="Fox Sports 3 - Argentina">
     <title lang="es">Fórmula E: E-Street Racers</title>
     <desc lang="es">Programa que muestra todo el previo y post de las carreras de Fórmula E.(n)</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+    </credits>
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/2861853.jpg" />
   </programme>
@@ -67064,6 +66374,9 @@
   <programme start="20200225223000 -0300" stop="20200225230000 -0300" channel="Fox Sports 3 - Argentina">
     <title lang="es">Fórmula E: E-Street Racers</title>
     <desc lang="es">Programa que muestra todo el previo y post de las carreras de Fórmula E.(n)</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+    </credits>
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/2861853.jpg" />
   </programme>
@@ -67122,6 +66435,9 @@
   <programme start="20200226070000 -0300" stop="20200226073000 -0300" channel="Fox Sports 3 - Argentina">
     <title lang="es">Fórmula E: E-Street Racers</title>
     <desc lang="es">Programa que muestra todo el previo y post de las carreras de Fórmula E.(n)</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+    </credits>
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/2861853.jpg" />
   </programme>
@@ -67165,6 +66481,9 @@
   <programme start="20200226130000 -0300" stop="20200226133000 -0300" channel="Fox Sports 3 - Argentina">
     <title lang="es">Fórmula E: E-Street Racers</title>
     <desc lang="es">Programa que muestra todo el previo y post de las carreras de Fórmula E.(n)</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+    </credits>
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/2861853.jpg" />
   </programme>
@@ -67212,6 +66531,9 @@
   <programme start="20200226183000 -0300" stop="20200226190000 -0300" channel="Fox Sports 3 - Argentina">
     <title lang="es">Fórmula E: E-Street Racers</title>
     <desc lang="es">Programa que muestra todo el previo y post de las carreras de Fórmula E.(n)</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+    </credits>
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/2861853.jpg" />
   </programme>
@@ -67459,6 +66781,9 @@
   <programme start="20200228140000 -0300" stop="20200228143000 -0300" channel="Fox Sports 3 - Argentina">
     <title lang="es">Fórmula E: E-Street Racers</title>
     <desc lang="es">Programa que muestra todo el previo y post de las carreras de Fórmula E.(n)</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+    </credits>
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/2861853.jpg" />
   </programme>
@@ -67514,215 +66839,6 @@
     </credits>
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/2090691.jpg" />
-  </programme>
-  <programme start="20200224013700 -0300" stop="20200224020000 -0300" channel="History - Latinoamerica">
-    <title lang="es">El precio de la historia</title>
-    <sub-title lang="es">Al son de los años 30'</sub-title>
-    <desc lang="es">Una Ferrari del '84, un reproductor de 1930, un sombrero de vaquero de la serie "Dallas" y una camiseta de hockey autografiada.(n)</desc>
-    <credits>
-      <actor>Richard Harrison</actor>
-      <actor>Corey Harrison</actor>
-      <actor>Rick Harrison</actor>
-      <actor>Austin Russell</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4475917.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S19 E513</episode-num>
-  </programme>
-  <programme start="20200224020000 -0300" stop="20200224025000 -0300" channel="History - Latinoamerica">
-    <title lang="es">Lo mejor de Cazadores de tesoros</title>
-    <sub-title lang="es">Joyas de Hollywood</sub-title>
-    <desc lang="es">No todo lo que brilla es oro... pero en Hollywood casi todo. Mike y Frank repasan sus mejores cacerías de tesoros del séptimo arte.(n)</desc>
-    <credits>
-      <actor>Mike Wolfe</actor>
-      <actor>Frank Fritz</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/260360.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S14 E47</episode-num>
-  </programme>
-  <programme start="20200224025000 -0300" stop="20200224034000 -0300" channel="History - Latinoamerica">
-    <title lang="es">Maestros del trueque</title>
-    <sub-title lang="es">Frascos vacíos y grandes ideas</sub-title>
-    <desc lang="es">Mitch busca vender mermelada, Clint y Nate consiguen un auto a cambio de trabajo como leñadores y alguien busca comprar un terreno.(n)</desc>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/1286950.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S2 E10</episode-num>
-  </programme>
-  <programme start="20200224034000 -0300" stop="20200224040200 -0300" channel="History - Latinoamerica">
-    <title lang="es">El precio de la historia</title>
-    <sub-title lang="es">Altamente explosivo</sub-title>
-    <desc lang="es">Un accesorio del film "Volver al futuro 2"; un almanaque del 1900; un barril de pólvora único y el cinturón de una estrella del country.(n)</desc>
-    <credits>
-      <actor>Richard Harrison</actor>
-      <actor>Corey Harrison</actor>
-      <actor>Rick Harrison</actor>
-      <actor>Austin Russell</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4475917.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S19 E500</episode-num>
-  </programme>
-  <programme start="20200224040200 -0300" stop="20200224042500 -0300" channel="History - Latinoamerica">
-    <title lang="es">El precio de la historia</title>
-    <sub-title lang="es">Leyendas del rock</sub-title>
-    <desc lang="es">LeBron James es el basquetbolista más famoso del mundo y Chum Lee tiene la oportunidad de comprar un par de zapatos deportivos con su autógrafo. Mientras tanto, Rick recibe una guitarra autografiada de Def Leppard: ¿ofertará por ella.(n)</desc>
-    <credits>
-      <actor>Richard Harrison</actor>
-      <actor>Corey Harrison</actor>
-      <actor>Rick Harrison</actor>
-      <actor>Austin Russell</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4475917.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S18 E435</episode-num>
-  </programme>
-  <programme start="20200224042500 -0300" stop="20200224051000 -0300" channel="History - Latinoamerica">
-    <title lang="es">Hombres de montaña</title>
-    <sub-title lang="es">Aprovechar el momento</sub-title>
-    <desc lang="es">Tom construye un bote. Jake busca a su león. Morgan no puede con su carga. Eustace y Raleigh buscan madera y Jason, mineral de hierro.(n)</desc>
-    <credits>
-      <actor>Eustace Conway</actor>
-      <actor>Marty Meierotto</actor>
-      <actor>Tom Oar</actor>
-      <actor>Charlie Tucker</actor>
-      <actor>Morgan Beasley</actor>
-      <actor>George Michaud</actor>
-      <actor>Rich Lewis</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4201989.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S8 E117</episode-num>
-  </programme>
-  <programme start="20200224051000 -0300" stop="20200224060000 -0300" channel="History - Latinoamerica">
-    <title lang="es">Depredadores</title>
-    <sub-title lang="es">Pantano de la muerte</sub-title>
-    <desc lang="es">En Myanmar, Andrew y Brian buscan al cocodrilo más grande del mundo, acusado de masacrar a cientos de soldados japoneses.(n)</desc>
-    <credits>
-      <director>Forrest Galante</director>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/10941716.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224063000 -0300" channel="History - Latinoamerica">
-    <title lang="es">El precio de la historia</title>
-    <sub-title lang="es">Autógrafos y guitarras</sub-title>
-    <desc lang="es">Rick recibe en la tienda una increíble guitarra firmada por Sammy Hager, el vocalista de Van Halen, pero, ¿será un autógrafo verdadero? Y, si lo es, ¿podrá Rick pagar su precio? Un cliente ofrece libros de la colección de John Adams.(n)</desc>
-    <credits>
-      <actor>Richard Harrison</actor>
-      <actor>Corey Harrison</actor>
-      <actor>Rick Harrison</actor>
-      <actor>Austin Russell</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4475917.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S18 E427</episode-num>
-  </programme>
-  <programme start="20200224063000 -0300" stop="20200224070000 -0300" channel="History - Latinoamerica">
-    <title lang="es">El precio de la historia</title>
-    <sub-title lang="es">Al son de los años 30'</sub-title>
-    <desc lang="es">Una Ferrari del '84, un reproductor de 1930, un sombrero de vaquero de la serie "Dallas" y una camiseta de hockey autografiada.(n)</desc>
-    <credits>
-      <actor>Richard Harrison</actor>
-      <actor>Corey Harrison</actor>
-      <actor>Rick Harrison</actor>
-      <actor>Austin Russell</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4475917.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S19 E513</episode-num>
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224080000 -0300" channel="History - Latinoamerica">
-    <title lang="es">Alienígenas ancestrales</title>
-    <sub-title lang="es">Alienígenas y los portales celestiales</sub-title>
-    <desc lang="es">Antiguas leyendas hablan de entradas sagradas de los dioses a la Tierra. Puertas que permitían el paso instantáneo, más allá del espacio y el tiempo. ¿Se trata sólo de un mito o estos portales existieron realmente.(n)</desc>
-    <credits>
-      <actor>Robert Clotworthy</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4533434.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S6 E67</episode-num>
-  </programme>
-  <programme start="20200224080000 -0300" stop="20200224083000 -0300" channel="History - Latinoamerica">
-    <title lang="es">Quién da má$</title>
-    <sub-title lang="es">Darrell y Brandon</sub-title>
-    <desc lang="es">En este episodio especial recorremos la historia del maestro y del aprendiz de ¿Quién da má$?: Darrell y Brandon Sheets.(n)</desc>
-    <credits>
-      <director>Matthew Bennett</director>
-      <actor>Dave Hester</actor>
-      <actor>Barry Weiss</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Jarrod Schulz</actor>
-      <actor>Laurence Martin</actor>
-      <actor>Mary Padian</actor>
-      <actor>Mark Harris</actor>
-      <actor>Herb Brown</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4476781.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S7 E1006</episode-num>
-  </programme>
-  <programme start="20200224083000 -0300" stop="20200224090000 -0300" channel="History - Latinoamerica">
-    <title lang="es">Quién da má$</title>
-    <sub-title lang="es">El navegante</sub-title>
-    <desc lang="es">Jarrod y Brandi están decididos a no dejarse distraer por Dave para conseguir un buen tesoro. Entretanto, Darrell quiere averiguar más sobre el evasivo Magnate, y Dave se aparece todavía con más bravatas.(n)</desc>
-    <credits>
-      <director>Matthew Bennett</director>
-      <actor>Dave Hester</actor>
-      <actor>Barry Weiss</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Jarrod Schulz</actor>
-      <actor>Laurence Martin</actor>
-      <actor>Mary Padian</actor>
-      <actor>Mark Harris</actor>
-      <actor>Herb Brown</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4682542.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S7 E131</episode-num>
-  </programme>
-  <programme start="20200224090000 -0300" stop="20200224100000 -0300" channel="History - Latinoamerica">
-    <title lang="es">Depredadores</title>
-    <sub-title lang="es">Pantano de la muerte</sub-title>
-    <desc lang="es">En Myanmar, Andrew y Brian buscan al cocodrilo más grande del mundo, acusado de masacrar a cientos de soldados japoneses.(n)</desc>
-    <credits>
-      <director>Forrest Galante</director>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/10941716.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200224100000 -0300" stop="20200224105000 -0300" channel="History - Latinoamerica">
-    <title lang="es">Hombres de montaña</title>
-    <sub-title lang="es">Aprovechar el momento</sub-title>
-    <desc lang="es">Tom construye un bote. Jake busca a su león. Morgan no puede con su carga. Eustace y Raleigh buscan madera y Jason, mineral de hierro.(n)</desc>
-    <credits>
-      <actor>Eustace Conway</actor>
-      <actor>Marty Meierotto</actor>
-      <actor>Tom Oar</actor>
-      <actor>Charlie Tucker</actor>
-      <actor>Morgan Beasley</actor>
-      <actor>George Michaud</actor>
-      <actor>Rich Lewis</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/4201989.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S8 E117</episode-num>
   </programme>
   <programme start="20200224105000 -0300" stop="20200224114000 -0300" channel="History - Latinoamerica">
     <title lang="es">Maestros del trueque</title>
@@ -74419,27 +73535,6 @@
     <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
     <country lang="es">Argentina</country>
   </programme>
-  <programme start="20200224010000 -0300" stop="20200224023000 -0300" channel="Espn 2 - Brasil">
-    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
-    <icon src="http://tvplus.com.br/images/epg_272/00000000072890_epg.jpg" />
-  </programme>
-  <programme start="20200224023000 -0300" stop="20200224053000 -0300" channel="Espn 2 - Brasil">
-    <title lang="pt">Golfe: WGC - Vivo</title>
-    <icon src="http://tvplus.com.br/images/epg_272/0000597565_epg.jpg" />
-  </programme>
-  <programme start="20200224053000 -0300" stop="20200224071500 -0300" channel="Espn 2 - Brasil">
-    <title lang="pt">Leicester City x Manchester City</title>
-    <icon src="http://tvplus.com.br/images/epg_272/0000597565_epg.jpg" />
-  </programme>
-  <programme start="20200224071500 -0300" stop="20200224090000 -0300" channel="Espn 2 - Brasil">
-    <title lang="pt">Chelsea x Tottenham</title>
-    <icon src="http://tvplus.com.br/images/epg_272/0000597565_epg.jpg" />
-  </programme>
-  <programme start="20200224090000 -0300" stop="20200224103000 -0300" channel="Espn 2 - Brasil">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_272/00000000072890_epg.jpg" />
-  </programme>
   <programme start="20200224103000 -0300" stop="20200224113000 -0300" channel="Espn 2 - Brasil">
     <title lang="pt">Linha de Passe: Mesa-redonda</title>
     <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
@@ -74815,46 +73910,6 @@
   <programme start="20200228200500 -0300" stop="20200228210000 -0300" channel="Espn 2 - Brasil">
     <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
     <icon src="http://tvplus.com.br/images/epg_272/00000000085044000_epg.jpg" />
-  </programme>
-  <programme start="20200224010000 -0300" stop="20200224020000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT - Palmeiras x Guarani</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224020000 -0300" stop="20200224030000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT - Ituano x Santos</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224030000 -0300" stop="20200224040000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT - Oeste x São Paulo</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224040000 -0300" stop="20200224050000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224050000 -0300" stop="20200224060000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT - Tombense x Cruzeiro</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224070000 -0300" channel="Premiere Clubes">
-    <title lang="pt">Campeonato Gaúcho</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224080000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT - Tombense x Cruzeiro</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224080000 -0300" stop="20200224090000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT - Ituano x Santos</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224090000 -0300" stop="20200224100000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT - Oeste x São Paulo</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224100000 -0300" stop="20200224110000 -0300" channel="Premiere Clubes">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
   </programme>
   <programme start="20200224110000 -0300" stop="20200224120000 -0300" channel="Premiere Clubes">
     <title lang="pt">VT - Tombense x Cruzeiro</title>
@@ -75261,26 +74316,6 @@
     <title lang="pt">Bragantino x Ituano - Ao Vivo</title>
     <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
   </programme>
-  <programme start="20200224000000 -0300" stop="20200224020000 -0300" channel="Espn Extra - Brasil">
-    <title lang="pt">Rugby: Inglaterra x Irlanda</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224020000 -0300" stop="20200224040000 -0300" channel="Espn Extra - Brasil">
-    <title lang="pt">Vitesse x PSV</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224040000 -0300" stop="20200224060000 -0300" channel="Espn Extra - Brasil">
-    <title lang="pt">Heracles Almelo x Ajax</title>
-    <icon src="http://tvplus.com.br/images/epg_272/0020000700830_epg.jpg" />
-  </programme>
-  <programme start="20200224060000 -0300" stop="20200224083000 -0300" channel="Espn Extra - Brasil">
-    <title lang="pt">NBA: Boston Celtics x Los Angeles Lakers</title>
-    <icon src="http://tvplus.com.br/images/epg_272/00000000067245000_epg.jpg" />
-  </programme>
-  <programme start="20200224083000 -0300" stop="20200224103000 -0300" channel="Espn Extra - Brasil">
-    <title lang="pt">Rugby: Itália x Escócia</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
   <programme start="20200224103000 -0300" stop="20200224123000 -0300" channel="Espn Extra - Brasil">
     <title lang="pt">ESPN Knockout: Leah McCourt x Judith Ruis</title>
     <desc lang="pt">O MMA Bellator invade as telas da ESPN.(n)</desc>
@@ -75582,22 +74617,6 @@
   <programme start="20200228190000 -0300" stop="20200228220000 -0300" channel="Espn Extra - Brasil">
     <title lang="pt">Bayern de Munique x Paderborn</title>
     <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224000000 -0300" stop="20200224033000 -0300" channel="Combate - Brasil">
-    <title lang="pt">UFC Fight Night Combate - Felder x Hooker</title>
-    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224033000 -0300" stop="20200224070000 -0300" channel="Combate - Brasil">
-    <title lang="pt">UFC Fight Night Combate - Felder x Hooker</title>
-    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200224070000 -0300" stop="20200224090000 -0300" channel="Combate - Brasil">
-    <title lang="pt">Arena Combate Striking: Skaus Combat</title>
-    <desc lang="pt">Um dos melhores eventos de MMA nacional, não perca. Promessa de grandes lutas, não perca. SporTV: Somos Todos Campeões!(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_272/00000000090085_epg.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
   <programme start="20200224090000 -0300" stop="20200224123000 -0300" channel="Combate - Brasil">
     <title lang="pt">UFC Fight Night Combate - Felder x Hooker</title>
