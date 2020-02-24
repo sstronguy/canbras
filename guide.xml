@@ -176,8 +176,8 @@
     <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/343.svg" />
     <url>http://www.nuevosiglo.com.uy.E</url>
   </channel>
-  <channel id="A&E - Latinoamerica">
-    <display-name lang="es">A&E - Latinoamerica</display-name>
+  <channel id="AyE - Latinoamerica">
+    <display-name lang="es">AyE - Latinoamerica</display-name>
     <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/159.png" />
     <url>http://www.tccvivo.com.uy.E</url>
   </channel>
@@ -60691,7 +60691,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200224005000 -0300" stop="20200224015000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224005000 -0300" stop="20200224015000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Narcos: México</title>
     <sub-title lang="es">Jefe de jefes</sub-title>
     <desc lang="es">María le ruega a Félix que regresen a Sinaloa. En tanto, Kiki reúne evidencia sobre los campos de marihuana del cártel de Guadalajara, mientras Neto vive un duelo.(n)</desc>
@@ -60710,7 +60710,7 @@
     <country lang="es">México</country>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200224015000 -0300" stop="20200224025000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224015000 -0300" stop="20200224025000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Narcos: México</title>
     <sub-title lang="es">Solo di que no</sub-title>
     <desc lang="es">Félix intenta evitar que sus socios tomen represalias después de que la DEA cerca el enorme campo de marihuana de Rafa. En tanto, Kiki y Jaime se encuentran con los investigadores.(n)</desc>
@@ -60729,7 +60729,7 @@
     <country lang="es">México</country>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20200224025000 -0300" stop="20200224035000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224025000 -0300" stop="20200224035000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Narcos: México</title>
     <sub-title lang="es">881 Lope de Vega</sub-title>
     <desc lang="es">Desesperado, Jaime se hunde en papeleo burocrático. En tanto, Mika está preocupada por su esposo, mientras Félix le pide a Rafa que desaparezca.(n)</desc>
@@ -60748,7 +60748,7 @@
     <country lang="es">México</country>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200224035000 -0300" stop="20200224044500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224035000 -0300" stop="20200224044500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Narcos: México</title>
     <sub-title lang="es">Leyenda</sub-title>
     <desc lang="es">A medida que aumenta la presión, Félix regresa a Sinaloa. Por otro lado, Jaime y Mika enfurecidos buscan justicia y respuestas.(n)</desc>
@@ -60767,7 +60767,7 @@
     <country lang="es">México</country>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20200224044500 -0300" stop="20200224053500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224044500 -0300" stop="20200224053500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Obsesivos compulsivos</title>
     <sub-title lang="es">Sybil y Ron</sub-title>
     <desc lang="es">La acumulación de Sybil es tan intensa que los ratones han comenzado a vivir en su bañera y en su refrigerador. Su hogar está tan lleno de artículos y roedores que, literalmente, la han forzado a salir.(n)</desc>
@@ -60787,7 +60787,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S8 E104</episode-num>
   </programme>
-  <programme start="20200224053500 -0300" stop="20200224060000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224053500 -0300" stop="20200224060000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -60795,7 +60795,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200224060000 -0300" stop="20200224070000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224060000 -0300" stop="20200224070000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Perro ovejeros</sub-title>
     <desc lang="es">Tras una explosión mortal en el Barrio Francés, el equipo interroga a un profesor y exmiembro de una organización de protesta estudiantil. Además, Tammy descubre un secreto sobre la vida personal de Hannah.(n)</desc>
@@ -60814,7 +60814,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E7</episode-num>
   </programme>
-  <programme start="20200224070000 -0300" stop="20200224080000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224070000 -0300" stop="20200224080000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Bull</title>
     <sub-title lang="es">Una chica sin sentimientos</sub-title>
     <desc lang="es">Bill se siente culpable porque una antigua paciente de la clínica psiquiátrica que él cerró ha asesinado a su hermano. Ahora debe defenderla y tratar de conseguir un jurado compuesto por personas que simpaticen con ella.(n)</desc>
@@ -60834,7 +60834,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S3 E7</episode-num>
   </programme>
-  <programme start="20200224080000 -0300" stop="20200224090000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224080000 -0300" stop="20200224090000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -60842,7 +60842,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200224090000 -0300" stop="20200224100000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224090000 -0300" stop="20200224100000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -60850,7 +60850,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200224100000 -0300" stop="20200224105000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224100000 -0300" stop="20200224105000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Último día en libertad</title>
     <sub-title lang="es">Una bofetada en la cara</sub-title>
     <desc lang="es">Conozca la historia de individuos recientemente condenados mientras disfrutan sus últimas veinticuatro horas de libertad antes de presentarse a la cárcel, en un recorrido que contempla sus pensamientos, conflictos internos y decisiones.(n)</desc>
@@ -60859,7 +60859,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20200224105000 -0300" stop="20200224112000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224105000 -0300" stop="20200224112000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
     <category lang="es">Series</category>
@@ -60867,7 +60867,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200224112000 -0300" stop="20200224115000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224112000 -0300" stop="20200224115000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -60875,7 +60875,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200224115000 -0300" stop="20200224124000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224115000 -0300" stop="20200224124000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Atrapadas</title>
     <sub-title lang="es">Vonlee Nicole Titlow</sub-title>
     <desc lang="es">Después de que un alcohólico millonario muere por causas aparentemente naturales, una traición inesperada revela que puede haber más en la muerte de la víctima, así como en su hermosa sobrina.(n)</desc>
@@ -60889,7 +60889,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S13 E8</episode-num>
   </programme>
-  <programme start="20200224124000 -0300" stop="20200224130500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224124000 -0300" stop="20200224130500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Los agentes de Carolina del Sur arrestan a un sospechoso con crack, y los de Utah descubren una red de tráfico de marihuana. Además, una persecución a máxima velocidad en Kentucky.(n)</desc>
     <credits>
@@ -60902,7 +60902,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200224130500 -0300" stop="20200224133000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224130500 -0300" stop="20200224133000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">En Florida, las fuerzas policiales buscan a un fugitivo. Mientras tanto, en Oklahoma, un hombre se resiste al arresto, y en Utah, los agentes secuestran una enorme cantidad de marihuana.(n)</desc>
     <credits>
@@ -60915,7 +60915,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200224133000 -0300" stop="20200224135500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224133000 -0300" stop="20200224135500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
     <category lang="es">Series</category>
@@ -60923,7 +60923,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200224135500 -0300" stop="20200224142000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224135500 -0300" stop="20200224142000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -60931,7 +60931,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200224142000 -0300" stop="20200224151000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224142000 -0300" stop="20200224151000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Patrulla nocturna</title>
     <sub-title lang="es">Al borde del abismo</sub-title>
     <desc lang="es">Acompañe a policías, bomberos y personal de emergencias médicas de Nueva Orleans durante su labor en el turno de la noche: bomberos al rescate, personal de emergencias atendiendo a pacientes en riesgo, y persecuciones policíacas.(n)</desc>
@@ -60940,7 +60940,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20200224151000 -0300" stop="20200224153500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224151000 -0300" stop="20200224153500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Un oficial corre peligro en Arizona. Además, un auto robado en Carolina del Sur y una mujer desaparecida en Florida.(n)</desc>
     <credits>
@@ -60953,7 +60953,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20200224153500 -0300" stop="20200224160000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224153500 -0300" stop="20200224160000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Persecuciones en Indiana y Carolina del Sur. Mientras que en Kentucky se produce un insólito choque de caballos.(n)</desc>
     <credits>
@@ -60966,7 +60966,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E21</episode-num>
   </programme>
-  <programme start="20200224160000 -0300" stop="20200224165000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224160000 -0300" stop="20200224165000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Jóvenes en prisión</title>
     <sub-title lang="es">¿Libertad condicional o total?</sub-title>
     <desc lang="es">Se revelan las decisiones finales para los asesinos convictos Otis Daniels, Ronald Bell y Kristel Maestas.(n)</desc>
@@ -60978,7 +60978,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200224165000 -0300" stop="20200224172000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224165000 -0300" stop="20200224172000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
     <category lang="es">Series</category>
@@ -60986,7 +60986,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200224172000 -0300" stop="20200224175000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224172000 -0300" stop="20200224175000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -60994,7 +60994,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200224175000 -0300" stop="20200224184000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224175000 -0300" stop="20200224184000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Juegos mentales</sub-title>
     <desc lang="es">Gregorio llama a Claire McDermott, su antigua profesora de ciencias del comportamiento, cuando el último caso del equipo coincide con el que estudió durante la capacitación del FBI.(n)</desc>
@@ -61013,7 +61013,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E19</episode-num>
   </programme>
-  <programme start="20200224184000 -0300" stop="20200224193000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224184000 -0300" stop="20200224193000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Todo se ilumina</sub-title>
     <desc lang="es">Tras un ataque, se pierde por completo el suministro eléctrico del oeste de Los Ángeles. El equipo debe investigar quiénes son los responsables del hecho.(n)</desc>
@@ -61033,7 +61033,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S9 E9</episode-num>
   </programme>
-  <programme start="20200224193000 -0300" stop="20200224202000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224193000 -0300" stop="20200224202000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Crímenes no resueltos</title>
     <sub-title lang="es">Un secreto de familia</sub-title>
     <desc lang="es">Una madre encuentra el auto de su hija abandonado y su teléfono celular con un intento de llamada al 911. Toda la evidencia apunta a una persona, pero el FBI no es capaz de procesarlo.(n)</desc>
@@ -61052,7 +61052,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20200224202000 -0300" stop="20200224220000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224202000 -0300" stop="20200224220000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Línea de emergencia</title>
     <desc lang="es">Jordan, una operadora del 911, atiende la llamada de una adolescente que está siendo raptada y descubre que el criminal es un asesino de su pasado.(n)</desc>
     <credits>
@@ -61066,7 +61066,7 @@
     <icon src="https://epg.tcc.com.uy/recursos/eventos/511104_gr.jpg" />
     <country lang="es">USA</country>
   </programme>
-  <programme start="20200224220000 -0300" stop="20200224225000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224220000 -0300" stop="20200224225000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">El Chapo ordena a Don Sol evitar la llegada de Andrés Labrador a la presidencia de México porque teme que su negocio termine con él.(n)</desc>
     <credits>
@@ -61084,7 +61084,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20200224225000 -0300" stop="20200224235000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224225000 -0300" stop="20200224235000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">Con armas y tropas cedidas por el nuevo presidente de México para acabar con el cartel del Golfo, el Chapo decide matar dos pájaros de un solo tiro.(n)</desc>
     <credits>
@@ -61102,7 +61102,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200224235000 -0300" stop="20200225014000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200224235000 -0300" stop="20200225014000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">xXx 2</title>
     <desc lang="es">Un oficial de la marina norteamericana, experto en operaciones secretas, debe desmontar una conspiración para asesinar al presidente.(n)</desc>
     <credits>
@@ -61117,7 +61117,7 @@
     <icon src="https://epg.tcc.com.uy/recursos/eventos/137617_gr.jpg" />
     <country lang="es">USA</country>
   </programme>
-  <programme start="20200225014000 -0300" stop="20200225021000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225014000 -0300" stop="20200225021000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Un oficial corre peligro en Arizona. Además, un auto robado en Carolina del Sur y una mujer desaparecida en Florida.(n)</desc>
     <credits>
@@ -61130,7 +61130,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20200225021000 -0300" stop="20200225023500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225021000 -0300" stop="20200225023500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Persecuciones en Indiana y Carolina del Sur. Mientras que en Kentucky se produce un insólito choque de caballos.(n)</desc>
     <credits>
@@ -61143,7 +61143,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E21</episode-num>
   </programme>
-  <programme start="20200225023500 -0300" stop="20200225032500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225023500 -0300" stop="20200225032500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Patrulla nocturna</title>
     <sub-title lang="es">Al borde del abismo</sub-title>
     <desc lang="es">Acompañe a policías, bomberos y personal de emergencias médicas de Nueva Orleans durante su labor en el turno de la noche: bomberos al rescate, personal de emergencias atendiendo a pacientes en riesgo, y persecuciones policíacas.(n)</desc>
@@ -61152,7 +61152,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20200225032500 -0300" stop="20200225042000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225032500 -0300" stop="20200225042000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Atrapadas</title>
     <sub-title lang="es">Chyann Bratcher</sub-title>
     <desc lang="es">Una muerte misteriosa lleva a una familia a aguas turbulentas mientras buscan justicia.(n)</desc>
@@ -61166,7 +61166,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S13 E7</episode-num>
   </programme>
-  <programme start="20200225042000 -0300" stop="20200225051000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225042000 -0300" stop="20200225051000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Crímenes no resueltos</title>
     <sub-title lang="es">Un secreto de familia</sub-title>
     <desc lang="es">Una madre encuentra el auto de su hija abandonado y su teléfono celular con un intento de llamada al 911. Toda la evidencia apunta a una persona, pero el FBI no es capaz de procesarlo.(n)</desc>
@@ -61185,7 +61185,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20200225051000 -0300" stop="20200225053500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225051000 -0300" stop="20200225053500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
     <category lang="es">Series</category>
@@ -61193,7 +61193,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200225053500 -0300" stop="20200225060000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225053500 -0300" stop="20200225060000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61201,7 +61201,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200225060000 -0300" stop="20200225070000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225060000 -0300" stop="20200225070000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Obsesivos compulsivos</title>
     <sub-title lang="es">Maggie y Ann</sub-title>
     <desc lang="es">Debido a la adicción de Maggie a las compras, su nieta debe dormir sobre pilas de cosas. Un familiar las sacó de la casa y no regresarán si no limpian. Por otra parte, Ann está a punto de perder a su pareja por la acumulación.(n)</desc>
@@ -61221,7 +61221,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S8 E105</episode-num>
   </programme>
-  <programme start="20200225070000 -0300" stop="20200225073000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225070000 -0300" stop="20200225073000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
     <category lang="es">Series</category>
@@ -61229,7 +61229,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200225073000 -0300" stop="20200225080000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225073000 -0300" stop="20200225080000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61237,7 +61237,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200225080000 -0300" stop="20200225090000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225080000 -0300" stop="20200225090000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -61245,7 +61245,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200225090000 -0300" stop="20200225100000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225090000 -0300" stop="20200225100000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -61253,7 +61253,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200225100000 -0300" stop="20200225103000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225100000 -0300" stop="20200225103000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
     <category lang="es">Series</category>
@@ -61261,7 +61261,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200225103000 -0300" stop="20200225110000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225103000 -0300" stop="20200225110000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61269,7 +61269,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200225110000 -0300" stop="20200225115000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225110000 -0300" stop="20200225115000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Juegos mentales</sub-title>
     <desc lang="es">Gregorio llama a Claire McDermott, su antigua profesora de ciencias del comportamiento, cuando el último caso del equipo coincide con el que estudió durante la capacitación del FBI.(n)</desc>
@@ -61288,7 +61288,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E19</episode-num>
   </programme>
-  <programme start="20200225115000 -0300" stop="20200225124000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225115000 -0300" stop="20200225124000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Todo se ilumina</sub-title>
     <desc lang="es">Tras un ataque, se pierde por completo el suministro eléctrico del oeste de Los Ángeles. El equipo debe investigar quiénes son los responsables del hecho.(n)</desc>
@@ -61308,7 +61308,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S9 E9</episode-num>
   </programme>
-  <programme start="20200225124000 -0300" stop="20200225130500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225124000 -0300" stop="20200225130500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
     <category lang="es">Series</category>
@@ -61316,7 +61316,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200225130500 -0300" stop="20200225133000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225130500 -0300" stop="20200225133000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61324,7 +61324,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200225133000 -0300" stop="20200225135500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225133000 -0300" stop="20200225135500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Un oficial corre peligro en Arizona. Además, un auto robado en Carolina del Sur y una mujer desaparecida en Florida.(n)</desc>
     <credits>
@@ -61337,7 +61337,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20200225135500 -0300" stop="20200225142000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225135500 -0300" stop="20200225142000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Persecuciones en Indiana y Carolina del Sur. Mientras que en Kentucky se produce un insólito choque de caballos.(n)</desc>
     <credits>
@@ -61350,7 +61350,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E21</episode-num>
   </programme>
-  <programme start="20200225142000 -0300" stop="20200225151500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225142000 -0300" stop="20200225151500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Terapia de shock</title>
     <sub-title lang="es">Oklahoma County, OK</sub-title>
     <desc lang="es">Una edulcorada estrella de telenovelas aseguraba que las imágenes del presente reality eran trucadas, hasta que asistió en calidad de invitada. Acompáñala a vivir el horror carcelario en toda su dimensión.(n)</desc>
@@ -61359,7 +61359,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E38</episode-num>
   </programme>
-  <programme start="20200225151500 -0300" stop="20200225154500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225151500 -0300" stop="20200225154500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
     <category lang="es">Series</category>
@@ -61367,7 +61367,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200225154500 -0300" stop="20200225161500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225154500 -0300" stop="20200225161500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61375,7 +61375,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200225161500 -0300" stop="20200225170500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225161500 -0300" stop="20200225170500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Obsesivos compulsivos</title>
     <sub-title lang="es">Maggie y Ann</sub-title>
     <desc lang="es">Debido a la adicción de Maggie a las compras, su nieta debe dormir sobre pilas de cosas. Un familiar las sacó de la casa y no regresarán si no limpian. Por otra parte, Ann está a punto de perder a su pareja por la acumulación.(n)</desc>
@@ -61395,7 +61395,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S8 E105</episode-num>
   </programme>
-  <programme start="20200225170500 -0300" stop="20200225173000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225170500 -0300" stop="20200225173000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Menores bebiendo en Florida, una pandilla de bandidos en Tulsa y posesión de drogas y armas en Carolina del Sur.(n)</desc>
     <credits>
@@ -61408,7 +61408,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E22</episode-num>
   </programme>
-  <programme start="20200225173000 -0300" stop="20200225175500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225173000 -0300" stop="20200225175500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">En Maryland, alguien armado asusta a los vecinos. Además, una persecución en Arizona y un grupo de inmigrantes ilegales en Texas.(n)</desc>
     <credits>
@@ -61421,7 +61421,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E23</episode-num>
   </programme>
-  <programme start="20200225175500 -0300" stop="20200225184500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225175500 -0300" stop="20200225184500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">El asesinato de Dwayne Pride</sub-title>
     <desc lang="es">Un periodista realiza un artículo en el que critica el supuesto imprudente uso de la justicia de Pride, y el equipo teme las consecuencias que pueda desencadenar. Además, Rita Devereaux advierte que el artículo es obra de alguien poderoso.(n)</desc>
@@ -61440,7 +61440,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E20</episode-num>
   </programme>
-  <programme start="20200225184500 -0300" stop="20200225193500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225184500 -0300" stop="20200225193500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Cac Tu Nhan</sub-title>
     <desc lang="es">Eric y Nell encuentran una nueva pista y se proponen rescatar a Hetty de sus secuestradores antes de que sea demasiado tarde. ¿Lo lograrán.(n)</desc>
@@ -61460,7 +61460,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S9 E10</episode-num>
   </programme>
-  <programme start="20200225193500 -0300" stop="20200225202500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225193500 -0300" stop="20200225202500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Patrulla nocturna</title>
     <sub-title lang="es">El drama del trauma</sub-title>
     <desc lang="es">Brandon y Coop atraviesan una carrera contrarreloj para salvar la vida de un hombre después de haber sido alcanzado por una bala en el pecho.(n)</desc>
@@ -61469,7 +61469,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E8</episode-num>
   </programme>
-  <programme start="20200225202500 -0300" stop="20200225220000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225202500 -0300" stop="20200225220000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">8 minutos antes de morir</title>
     <desc lang="es">A un héroe de guerra viaja a través del tiempo durante sólo 8 minutos para evitar el estallido de una bomba en un tren con dirección a Chicago.(n)</desc>
     <credits>
@@ -61484,7 +61484,7 @@
     <country lang="es">USA</country>
     <country lang="es">Francia</country>
   </programme>
-  <programme start="20200225220000 -0300" stop="20200225225000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225220000 -0300" stop="20200225225000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">Con armas y tropas cedidas por el nuevo presidente de México para acabar con el cartel del Golfo, el Chapo decide matar dos pájaros de un solo tiro.(n)</desc>
     <credits>
@@ -61502,7 +61502,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200225225000 -0300" stop="20200225235000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225225000 -0300" stop="20200225235000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">Adolescentes y adultos jóvenes son secuestrados en Nuevo Laredo y obligados a trabajar para los carteles en guerra. Por otro lado, una madre viaja a Culiacán para buscar a su hija.(n)</desc>
     <credits>
@@ -61520,7 +61520,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200225235000 -0300" stop="20200226014000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200225235000 -0300" stop="20200226014000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">xXx 2</title>
     <desc lang="es">Un oficial de la marina norteamericana, experto en operaciones secretas, debe desmontar una conspiración para asesinar al presidente.(n)</desc>
     <credits>
@@ -61535,7 +61535,7 @@
     <icon src="https://epg.tcc.com.uy/recursos/eventos/137617_gr.jpg" />
     <country lang="es">USA</country>
   </programme>
-  <programme start="20200226014000 -0300" stop="20200226020500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226014000 -0300" stop="20200226020500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">En Maryland, alguien armado asusta a los vecinos. Además, una persecución en Arizona y un grupo de inmigrantes ilegales en Texas.(n)</desc>
     <credits>
@@ -61548,7 +61548,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E23</episode-num>
   </programme>
-  <programme start="20200226020500 -0300" stop="20200226030500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226020500 -0300" stop="20200226030500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">60 días preso: el experimento</title>
     <sub-title lang="es">Tú no perteneces aquí</sub-title>
     <desc lang="es">Se produce un problema imprevisto: la coartada de un concursante se desmorona y hay que decidir entre terminar el programa antes de tiempo o poner en peligro las vidas de los participantes.(n)</desc>
@@ -61565,7 +61565,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E61</episode-num>
   </programme>
-  <programme start="20200226030500 -0300" stop="20200226040500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226030500 -0300" stop="20200226040500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Terapia de shock</title>
     <sub-title lang="es">Oklahoma County, OK</sub-title>
     <desc lang="es">Una edulcorada estrella de telenovelas aseguraba que las imágenes del presente reality eran trucadas, hasta que asistió en calidad de invitada. Acompáñala a vivir el horror carcelario en toda su dimensión.(n)</desc>
@@ -61574,7 +61574,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E38</episode-num>
   </programme>
-  <programme start="20200226040500 -0300" stop="20200226050000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226040500 -0300" stop="20200226050000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Obsesivos compulsivos</title>
     <sub-title lang="es">Maggie y Ann</sub-title>
     <desc lang="es">Debido a la adicción de Maggie a las compras, su nieta debe dormir sobre pilas de cosas. Un familiar las sacó de la casa y no regresarán si no limpian. Por otra parte, Ann está a punto de perder a su pareja por la acumulación.(n)</desc>
@@ -61594,7 +61594,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S8 E105</episode-num>
   </programme>
-  <programme start="20200226050000 -0300" stop="20200226053000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226050000 -0300" stop="20200226053000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Los oficiales llevan una considerable cantidad de imitaciones de lujo. En otro lugar, atrapan a un dúo buscado con bolsas llenas de productos nuevos.(n)</desc>
     <category lang="es">Series</category>
@@ -61602,7 +61602,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200226053000 -0300" stop="20200226060000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226053000 -0300" stop="20200226060000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61610,7 +61610,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200226060000 -0300" stop="20200226070000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226060000 -0300" stop="20200226070000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Obsesivos compulsivos</title>
     <sub-title lang="es">Sandi y Vivian</sub-title>
     <desc lang="es">Sandi es conocida como la Sra. Claus en la temporada navideña y ha llevado el alter ego al extremo con su compulsión por los regalos. Las cosas se han salido tanto de control que está al borde de la quiebra y de perder su casa.(n)</desc>
@@ -61630,7 +61630,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S8 E106</episode-num>
   </programme>
-  <programme start="20200226070000 -0300" stop="20200226073000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226070000 -0300" stop="20200226073000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61638,7 +61638,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20200226073000 -0300" stop="20200226080000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226073000 -0300" stop="20200226080000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61646,7 +61646,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20200226080000 -0300" stop="20200226090000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226080000 -0300" stop="20200226090000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -61654,7 +61654,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200226090000 -0300" stop="20200226100000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226090000 -0300" stop="20200226100000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -61662,7 +61662,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200226100000 -0300" stop="20200226103000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226100000 -0300" stop="20200226103000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61670,7 +61670,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20200226103000 -0300" stop="20200226110000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226103000 -0300" stop="20200226110000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61678,7 +61678,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20200226110000 -0300" stop="20200226115000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226110000 -0300" stop="20200226115000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">El asesinato de Dwayne Pride</sub-title>
     <desc lang="es">Un periodista realiza un artículo en el que critica el supuesto imprudente uso de la justicia de Pride, y el equipo teme las consecuencias que pueda desencadenar. Además, Rita Devereaux advierte que el artículo es obra de alguien poderoso.(n)</desc>
@@ -61697,7 +61697,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E20</episode-num>
   </programme>
-  <programme start="20200226115000 -0300" stop="20200226124000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226115000 -0300" stop="20200226124000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Cac Tu Nhan</sub-title>
     <desc lang="es">Eric y Nell encuentran una nueva pista y se proponen rescatar a Hetty de sus secuestradores antes de que sea demasiado tarde. ¿Lo lograrán.(n)</desc>
@@ -61717,7 +61717,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S9 E10</episode-num>
   </programme>
-  <programme start="20200226124000 -0300" stop="20200226130500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226124000 -0300" stop="20200226130500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61725,7 +61725,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20200226130500 -0300" stop="20200226133000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226130500 -0300" stop="20200226133000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61733,7 +61733,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20200226133000 -0300" stop="20200226135500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226133000 -0300" stop="20200226135500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Menores bebiendo en Florida, una pandilla de bandidos en Tulsa y posesión de drogas y armas en Carolina del Sur.(n)</desc>
     <credits>
@@ -61746,7 +61746,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E22</episode-num>
   </programme>
-  <programme start="20200226135500 -0300" stop="20200226142000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226135500 -0300" stop="20200226142000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">En Maryland, alguien armado asusta a los vecinos. Además, una persecución en Arizona y un grupo de inmigrantes ilegales en Texas.(n)</desc>
     <credits>
@@ -61759,7 +61759,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E23</episode-num>
   </programme>
-  <programme start="20200226142000 -0300" stop="20200226151000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226142000 -0300" stop="20200226151000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Terapia de shock</title>
     <sub-title lang="es">Oneida N.Y</sub-title>
     <desc lang="es">Cuatro adolescentes de mala conducta reflexionan sobre las amarguras que hicieron vivir a sus madres mientras transcurren un día tras las rejas.(n)</desc>
@@ -61768,7 +61768,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E41</episode-num>
   </programme>
-  <programme start="20200226151000 -0300" stop="20200226153500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226151000 -0300" stop="20200226153500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Los vecinos de Carolina del Sur resuelven sus problemas a los tiros mientras en Utah, alguien aprovecha la ocasión y se roba un auto.(n)</desc>
     <credits>
@@ -61781,7 +61781,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E24</episode-num>
   </programme>
-  <programme start="20200226153500 -0300" stop="20200226160000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226153500 -0300" stop="20200226160000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">En Kentucky, un hombre mayor maneja alcoholizado. Además, se identifican drogas en Indiana y alguien recibe una orden judicial en Carolina del Sur.(n)</desc>
     <credits>
@@ -61794,7 +61794,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
-  <programme start="20200226160000 -0300" stop="20200226165000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226160000 -0300" stop="20200226165000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Jóvenes en prisión</title>
     <sub-title lang="es">Aaron</sub-title>
     <desc lang="es">Un joven de 14 años mata de un disparo a su vecina, de 14 años también. En efecto, es sentenciado a cadena perpetua sin libertad condicional a los 15 años. Sin embargo, 6 años después decide apelar su sentencia.(n)</desc>
@@ -61806,7 +61806,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200226165000 -0300" stop="20200226171500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226165000 -0300" stop="20200226171500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61814,7 +61814,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20200226171500 -0300" stop="20200226174000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226171500 -0300" stop="20200226174000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -61822,7 +61822,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20200226174000 -0300" stop="20200226183000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226174000 -0300" stop="20200226183000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Jaque mate - Parte 1</sub-title>
     <desc lang="es">Pride recluta a un equipo no oficial para intentar limpiar su nombre y salvar al escuadrón. ¿Sus viejos métodos servirán para arreglar las cosas? ¿O este será el final de su carrera.(n)</desc>
@@ -61841,7 +61841,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E21</episode-num>
   </programme>
-  <programme start="20200226183000 -0300" stop="20200226192000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226183000 -0300" stop="20200226192000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Bajo presión</sub-title>
     <desc lang="es">El equipo investiga un posible enlace entre la escena del crimen y un ataque terrorista.(n)</desc>
@@ -61861,7 +61861,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S9 E11</episode-num>
   </programme>
-  <programme start="20200226192000 -0300" stop="20200226201000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226192000 -0300" stop="20200226201000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Pecados del padre</sub-title>
     <desc lang="es">El hijo de Wade es atacado en la casa de su novia y él pide ayuda a Pride cuando ella desaparece.(n)</desc>
@@ -61880,7 +61880,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E6</episode-num>
   </programme>
-  <programme start="20200226201000 -0300" stop="20200226220000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226201000 -0300" stop="20200226220000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">xXx 2</title>
     <desc lang="es">Un oficial de la marina norteamericana, experto en operaciones secretas, debe desmontar una conspiración para asesinar al presidente.(n)</desc>
     <credits>
@@ -61895,7 +61895,7 @@
     <icon src="https://epg.tcc.com.uy/recursos/eventos/137617_gr.jpg" />
     <country lang="es">USA</country>
   </programme>
-  <programme start="20200226220000 -0300" stop="20200226225000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226220000 -0300" stop="20200226225000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">Adolescentes y adultos jóvenes son secuestrados en Nuevo Laredo y obligados a trabajar para los carteles en guerra. Por otro lado, una madre viaja a Culiacán para buscar a su hija.(n)</desc>
     <credits>
@@ -61913,7 +61913,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200226225000 -0300" stop="20200226235000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226225000 -0300" stop="20200226235000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">Arturo arriesga su vida y se reúne con Chente y el Cano para negociar la paz. Por otro lado, Quino cae arrestado y el Chapo no duda en cometer una traición para que liberen a su hijo.(n)</desc>
     <credits>
@@ -61931,7 +61931,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20200226235000 -0300" stop="20200227013000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200226235000 -0300" stop="20200227013000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">París en la mira</title>
     <desc lang="es">En París, un joven empleado de la Embajada de los EE.UU. se conecta con un espía de Estados Unidos para detener un ataque terrorista en la ciudad.(n)</desc>
     <credits>
@@ -61946,7 +61946,7 @@
     <country lang="es">USA</country>
     <country lang="es">Francia</country>
   </programme>
-  <programme start="20200227013000 -0300" stop="20200227020000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227013000 -0300" stop="20200227020000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Menores bebiendo en Florida, una pandilla de bandidos en Tulsa y posesión de drogas y armas en Carolina del Sur.(n)</desc>
     <credits>
@@ -61959,7 +61959,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E22</episode-num>
   </programme>
-  <programme start="20200227020000 -0300" stop="20200227022500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227020000 -0300" stop="20200227022500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">En Maryland, alguien armado asusta a los vecinos. Además, una persecución en Arizona y un grupo de inmigrantes ilegales en Texas.(n)</desc>
     <credits>
@@ -61972,7 +61972,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E23</episode-num>
   </programme>
-  <programme start="20200227022500 -0300" stop="20200227040000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227022500 -0300" stop="20200227040000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">60 días preso: el experimento</title>
     <sub-title lang="es">Reunión</sub-title>
     <desc lang="es">Todos los participantes se reúnen con el Sheriff Lamb y repasan todo lo sucedido durante la temporada.(n)</desc>
@@ -61989,7 +61989,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E62</episode-num>
   </programme>
-  <programme start="20200227040000 -0300" stop="20200227045000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227040000 -0300" stop="20200227045000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Terapia de shock</title>
     <sub-title lang="es">Oneida N.Y</sub-title>
     <desc lang="es">Cuatro adolescentes de mala conducta reflexionan sobre las amarguras que hicieron vivir a sus madres mientras transcurren un día tras las rejas.(n)</desc>
@@ -61998,7 +61998,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E41</episode-num>
   </programme>
-  <programme start="20200227045000 -0300" stop="20200227053500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227045000 -0300" stop="20200227053500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Obsesivos compulsivos</title>
     <sub-title lang="es">Sandi y Vivian</sub-title>
     <desc lang="es">Sandi es conocida como la Sra. Claus en la temporada navideña y ha llevado el alter ego al extremo con su compulsión por los regalos. Las cosas se han salido tanto de control que está al borde de la quiebra y de perder su casa.(n)</desc>
@@ -62018,7 +62018,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S8 E106</episode-num>
   </programme>
-  <programme start="20200227053500 -0300" stop="20200227060000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227053500 -0300" stop="20200227060000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62026,7 +62026,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20200227060000 -0300" stop="20200227070000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227060000 -0300" stop="20200227070000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Obsesivos compulsivos</title>
     <sub-title lang="es">Jackie y Richard</sub-title>
     <desc lang="es">Jackie ha llenado su casa de 4.000 pies cuadrados en la ladera de San Francisco con ositos de peluche por un valor de 1 millón de dólares.(n)</desc>
@@ -62046,7 +62046,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S8 E92</episode-num>
   </programme>
-  <programme start="20200227070000 -0300" stop="20200227073000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227070000 -0300" stop="20200227073000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62054,7 +62054,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20200227073000 -0300" stop="20200227080000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227073000 -0300" stop="20200227080000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62062,7 +62062,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
-  <programme start="20200227080000 -0300" stop="20200227090000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227080000 -0300" stop="20200227090000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -62070,7 +62070,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200227090000 -0300" stop="20200227100000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227090000 -0300" stop="20200227100000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -62078,7 +62078,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200227100000 -0300" stop="20200227102500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227100000 -0300" stop="20200227102500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62086,7 +62086,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20200227102500 -0300" stop="20200227105000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227102500 -0300" stop="20200227105000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62094,7 +62094,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
-  <programme start="20200227105000 -0300" stop="20200227114000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227105000 -0300" stop="20200227114000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Jaque mate - Parte 1</sub-title>
     <desc lang="es">Pride recluta a un equipo no oficial para intentar limpiar su nombre y salvar al escuadrón. ¿Sus viejos métodos servirán para arreglar las cosas? ¿O este será el final de su carrera.(n)</desc>
@@ -62113,7 +62113,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E21</episode-num>
   </programme>
-  <programme start="20200227114000 -0300" stop="20200227123000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227114000 -0300" stop="20200227123000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Bajo presión</sub-title>
     <desc lang="es">El equipo investiga un posible enlace entre la escena del crimen y un ataque terrorista.(n)</desc>
@@ -62133,7 +62133,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S9 E11</episode-num>
   </programme>
-  <programme start="20200227123000 -0300" stop="20200227125500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227123000 -0300" stop="20200227125500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62141,7 +62141,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20200227125500 -0300" stop="20200227132000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227125500 -0300" stop="20200227132000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62149,7 +62149,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
-  <programme start="20200227132000 -0300" stop="20200227134500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227132000 -0300" stop="20200227134500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Los vecinos de Carolina del Sur resuelven sus problemas a los tiros mientras en Utah, alguien aprovecha la ocasión y se roba un auto.(n)</desc>
     <credits>
@@ -62162,7 +62162,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E24</episode-num>
   </programme>
-  <programme start="20200227134500 -0300" stop="20200227141000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227134500 -0300" stop="20200227141000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">En Kentucky, un hombre mayor maneja alcoholizado. Además, se identifican drogas en Indiana y alguien recibe una orden judicial en Carolina del Sur.(n)</desc>
     <credits>
@@ -62175,7 +62175,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
-  <programme start="20200227141000 -0300" stop="20200227150000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227141000 -0300" stop="20200227150000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Terapia de shock</title>
     <sub-title lang="es">Western Tidewater cárcel regional, VA: grande y malo</sub-title>
     <desc lang="es">Los representantes de la Cárcel Regional de Western Tidewater en Virginia nunca han visto un nivel de desafío igual al que obtienen por parte de Tysharaw, un luchador callejero de tan solo 14 años de edad.(n)</desc>
@@ -62184,7 +62184,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E42</episode-num>
   </programme>
-  <programme start="20200227150000 -0300" stop="20200227152500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227150000 -0300" stop="20200227152500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Los polícias presencian una pelea en una autopista de Arizona y una exhibición indecente en Carolina del Sur, así como también un accidente automovilístico en Indiana.(n)</desc>
     <credits>
@@ -62197,7 +62197,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E26</episode-num>
   </programme>
-  <programme start="20200227152500 -0300" stop="20200227155000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227152500 -0300" stop="20200227155000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Los oficiales responden a un tiroteo en Texas, persiguen a un maleante en Carolina del Sur y lidian con drogas y armas en Arizona.(n)</desc>
     <credits>
@@ -62210,7 +62210,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E27</episode-num>
   </programme>
-  <programme start="20200227155000 -0300" stop="20200227164000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227155000 -0300" stop="20200227164000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Jóvenes en prisión</title>
     <sub-title lang="es">Curtis</sub-title>
     <desc lang="es">Curtis Brooks fue sentenciado a cadena perpetua a los 15 años por el asesinato de Christopher Ramos. Sin embargo, observamos los procesos legales involucrados en la revisión de su caso, 24 años después.(n)</desc>
@@ -62222,7 +62222,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200227164000 -0300" stop="20200227170500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227164000 -0300" stop="20200227170500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62230,7 +62230,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20200227170500 -0300" stop="20200227173000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227170500 -0300" stop="20200227173000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62238,7 +62238,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
-  <programme start="20200227173000 -0300" stop="20200227182000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227173000 -0300" stop="20200227182000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Jaque mate - Parte 2</sub-title>
     <desc lang="es">Pride recluta a un equipo no oficial para intentar limpiar su nombre y salvar al escuadrón. ¿Sus viejos métodos servirán para arreglar las cosas? ¿O este será el final de su carrera.(n)</desc>
@@ -62257,7 +62257,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E22</episode-num>
   </programme>
-  <programme start="20200227182000 -0300" stop="20200227191000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227182000 -0300" stop="20200227191000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Adiós, Vietnam</sub-title>
     <desc lang="es">Callen, Sam, Kensi y Deeks se unen al equipo de Hetty, Sterling Bridges, A.J. Chegwidden y Charles Langston en una misión de rescate peligrosa para salvarla de sus captores.(n)</desc>
@@ -62277,7 +62277,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S9 E12</episode-num>
   </programme>
-  <programme start="20200227191000 -0300" stop="20200227211000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227191000 -0300" stop="20200227211000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Marcado por la muerte</title>
     <desc lang="es">Victor es la mano derecha de Alphonse, un mafioso que vive bajo la amenaza de un asesino que está matando a todos los miembros de su banda.(n)</desc>
     <credits>
@@ -62291,7 +62291,7 @@
     <icon src="https://epg.tcc.com.uy/recursos/eventos/885509.jpg" />
     <country lang="es">USA</country>
   </programme>
-  <programme start="20200227211000 -0300" stop="20200227220000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227211000 -0300" stop="20200227220000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Bull</title>
     <sub-title lang="es">Le puede pasar a cualquiera</sub-title>
     <desc lang="es">Bull se enfrenta a un cliente pro bono al que su defensor público le recomendó mal para que se declarara culpable de un cargo de agresión por delitos menores y ahora se enfrenta a un homicidio culposo.(n)</desc>
@@ -62311,7 +62311,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S3 E8</episode-num>
   </programme>
-  <programme start="20200227220000 -0300" stop="20200227225000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227220000 -0300" stop="20200227225000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">Arturo arriesga su vida y se reúne con Chente y el Cano para negociar la paz. Por otro lado, Quino cae arrestado y el Chapo no duda en cometer una traición para que liberen a su hijo.(n)</desc>
     <credits>
@@ -62329,7 +62329,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20200227225000 -0300" stop="20200227235000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227225000 -0300" stop="20200227235000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">Historia de Joaquín Guzmán, conocido como "El Chapo.(n)</desc>
     <credits>
@@ -62347,7 +62347,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20200227235000 -0300" stop="20200228015500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200227235000 -0300" stop="20200228015500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El inmortal</title>
     <desc lang="es">Cuando Charly decidió dejar atrás su pasado en la mafia y regresar con la familia, jamás imaginó que tratarían de asesinarlo.(n)</desc>
     <credits>
@@ -62361,7 +62361,7 @@
     <icon src="https://epg.tcc.com.uy/recursos/eventos/340383_gr.jpg" />
     <country lang="es">Francia</country>
   </programme>
-  <programme start="20200228015500 -0300" stop="20200228022500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228015500 -0300" stop="20200228022500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">En Kentucky, un hombre mayor maneja alcoholizado. Además, se identifican drogas en Indiana y alguien recibe una orden judicial en Carolina del Sur.(n)</desc>
     <credits>
@@ -62374,7 +62374,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
-  <programme start="20200228022500 -0300" stop="20200228032000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228022500 -0300" stop="20200228032000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">60 Days in</title>
     <sub-title lang="es">Verdad o consecuencia</sub-title>
     <desc lang="es">De a poco, los primeros 5 participantes descubren las consecuencias de permanecer encerrados en una pequeña celda durante 12 largas horas. El abuso de sustancias y las conductas sexuales inapropiadas están a la orden del día en la prisión.(n)</desc>
@@ -62383,7 +62383,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E27</episode-num>
   </programme>
-  <programme start="20200228032000 -0300" stop="20200228041500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228032000 -0300" stop="20200228041500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Terapia de shock</title>
     <sub-title lang="es">Western Tidewater cárcel regional, VA: grande y malo</sub-title>
     <desc lang="es">Los representantes de la Cárcel Regional de Western Tidewater en Virginia nunca han visto un nivel de desafío igual al que obtienen por parte de Tysharaw, un luchador callejero de tan solo 14 años de edad.(n)</desc>
@@ -62392,7 +62392,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E42</episode-num>
   </programme>
-  <programme start="20200228041500 -0300" stop="20200228051000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228041500 -0300" stop="20200228051000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Obsesivos compulsivos</title>
     <sub-title lang="es">Jackie y Richard</sub-title>
     <desc lang="es">Jackie ha llenado su casa de 4.000 pies cuadrados en la ladera de San Francisco con ositos de peluche por un valor de 1 millón de dólares.(n)</desc>
@@ -62412,7 +62412,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S8 E92</episode-num>
   </programme>
-  <programme start="20200228051000 -0300" stop="20200228053500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228051000 -0300" stop="20200228053500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62420,7 +62420,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20200228053500 -0300" stop="20200228060000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228053500 -0300" stop="20200228060000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62428,7 +62428,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
-  <programme start="20200228060000 -0300" stop="20200228070000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228060000 -0300" stop="20200228070000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Obsesivos compulsivos</title>
     <sub-title lang="es">Ellen y Gloria</sub-title>
     <desc lang="es">La trágica muerte del marido de Ellen en el cumplimiento del deber desencadenó en ella la acumulación a través de la cleptomanía. Su casa se ha vuelto tan insegura que el seguro amenaza con retirar la cobertura.(n)</desc>
@@ -62448,7 +62448,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S8 E94</episode-num>
   </programme>
-  <programme start="20200228070000 -0300" stop="20200228073000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228070000 -0300" stop="20200228073000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62456,7 +62456,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20200228073000 -0300" stop="20200228080000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228073000 -0300" stop="20200228080000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62464,7 +62464,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20200228080000 -0300" stop="20200228090000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228080000 -0300" stop="20200228090000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -62472,7 +62472,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200228090000 -0300" stop="20200228100000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228090000 -0300" stop="20200228100000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <category lang="es">Series</category>
@@ -62480,7 +62480,7 @@
     <country lang="es">Argentina</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200228100000 -0300" stop="20200228103000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228100000 -0300" stop="20200228103000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62488,7 +62488,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20200228103000 -0300" stop="20200228110000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228103000 -0300" stop="20200228110000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62496,7 +62496,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20200228110000 -0300" stop="20200228115000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228110000 -0300" stop="20200228115000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Jaque mate - Parte 2</sub-title>
     <desc lang="es">Pride recluta a un equipo no oficial para intentar limpiar su nombre y salvar al escuadrón. ¿Sus viejos métodos servirán para arreglar las cosas? ¿O este será el final de su carrera.(n)</desc>
@@ -62515,7 +62515,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S4 E22</episode-num>
   </programme>
-  <programme start="20200228115000 -0300" stop="20200228124000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228115000 -0300" stop="20200228124000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Adiós, Vietnam</sub-title>
     <desc lang="es">Callen, Sam, Kensi y Deeks se unen al equipo de Hetty, Sterling Bridges, A.J. Chegwidden y Charles Langston en una misión de rescate peligrosa para salvarla de sus captores.(n)</desc>
@@ -62535,7 +62535,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S9 E12</episode-num>
   </programme>
-  <programme start="20200228124000 -0300" stop="20200228130500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228124000 -0300" stop="20200228130500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62543,7 +62543,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20200228130500 -0300" stop="20200228133000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228130500 -0300" stop="20200228133000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62551,7 +62551,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20200228133000 -0300" stop="20200228135500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228133000 -0300" stop="20200228135500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Los polícias presencian una pelea en una autopista de Arizona y una exhibición indecente en Carolina del Sur, así como también un accidente automovilístico en Indiana.(n)</desc>
     <credits>
@@ -62564,7 +62564,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E26</episode-num>
   </programme>
-  <programme start="20200228135500 -0300" stop="20200228142000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228135500 -0300" stop="20200228142000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Los oficiales responden a un tiroteo en Texas, persiguen a un maleante en Carolina del Sur y lidian con drogas y armas en Arizona.(n)</desc>
     <credits>
@@ -62577,7 +62577,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E27</episode-num>
   </programme>
-  <programme start="20200228142000 -0300" stop="20200228151000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228142000 -0300" stop="20200228151000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Terapia de shock</title>
     <sub-title lang="es">Especial de seguimiento</sub-title>
     <desc lang="es">Una visita a los adolescentes de las primeras temporadas para descubrir si éstas han tenido un impacto duradero en su comportamiento. Altamente chocante, edificante y desgarrador.(n)</desc>
@@ -62586,7 +62586,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E44</episode-num>
   </programme>
-  <programme start="20200228151000 -0300" stop="20200228153500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228151000 -0300" stop="20200228153500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">En Arizona, un grave accidente vial. En Carolina del Sur, una redada antidrogas; y en Indiana alguien se resiste al arresto.(n)</desc>
     <credits>
@@ -62599,7 +62599,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E28</episode-num>
   </programme>
-  <programme start="20200228153500 -0300" stop="20200228160000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228153500 -0300" stop="20200228160000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Lo mejor de policías en vivo</title>
     <desc lang="es">Una serie especial de no ficción de fin de semana que ofrece a los televidentes una visión sin filtro de los agentes del orden público en acción en todo Estados Unidos.(n)</desc>
     <credits>
@@ -62612,7 +62612,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S3 E29</episode-num>
   </programme>
-  <programme start="20200228160000 -0300" stop="20200228165000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228160000 -0300" stop="20200228165000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Jóvenes en prisión</title>
     <sub-title lang="es">James</sub-title>
     <desc lang="es">En 1990, James, de 15 años, mató a su madrastra y a sus tres hermanos con una escopeta, y luego incendió su casa. 27 años después, el equipo legal de James sostiene que su sentencia original es inconstitucional y que debería ser reevaluada.(n)</desc>
@@ -62624,7 +62624,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20200228165000 -0300" stop="20200228172000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228165000 -0300" stop="20200228172000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
     <category lang="es">Series</category>
@@ -62632,7 +62632,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20200228172000 -0300" stop="20200228181500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228172000 -0300" stop="20200228181500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Nos vemos pronto</sub-title>
     <desc lang="es">Mientras Pride lucha por su vida en la UCI, el equipo busca a la mujer que intentó matarlo.(n)</desc>
@@ -62651,7 +62651,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S5 E1</episode-num>
   </programme>
-  <programme start="20200228181500 -0300" stop="20200228190500 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228181500 -0300" stop="20200228190500 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Responsabilidades</sub-title>
     <desc lang="es">Callen y Sam sacan a Jennifer Kim de la protección de testigos para ayudar al equipo a encontrar un espía subterráneo con un arsenal de materiales de bombas.(n)</desc>
@@ -62671,7 +62671,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S9 E13</episode-num>
   </programme>
-  <programme start="20200228190500 -0300" stop="20200228211000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228190500 -0300" stop="20200228211000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Riddick, el amo de la oscuridad</title>
     <desc lang="es">Dado por muerto en un planeta arrasado por el sol, Riddick se enfrenta a una raza alienígena de predadores.(n)</desc>
     <credits>
@@ -62686,7 +62686,7 @@
     <country lang="es">USA</country>
     <country lang="es">Inglaterra</country>
   </programme>
-  <programme start="20200228211000 -0300" stop="20200228220000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228211000 -0300" stop="20200228220000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Que el destino lo decida</sub-title>
     <desc lang="es">Una dinámica división policial atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad.(n)</desc>
@@ -62706,7 +62706,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S10 E25</episode-num>
   </programme>
-  <programme start="20200228220000 -0300" stop="20200228225000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228220000 -0300" stop="20200228225000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">Historia de Joaquín Guzmán, conocido como "El Chapo.(n)</desc>
     <credits>
@@ -62724,7 +62724,7 @@
     <country lang="es">USA</country>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20200228225000 -0300" stop="20200228235000 -0300" channel="A&E - Latinoamerica">
+  <programme start="20200228225000 -0300" stop="20200228235000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">El Chapo</title>
     <desc lang="es">Historia de Joaquín Guzmán, conocido como "El Chapo.(n)</desc>
     <credits>
