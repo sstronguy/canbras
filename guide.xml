@@ -271,6 +271,16 @@
     <display-name lang="es">Canal 26 - Argentina</display-name>
     <url>http://www.telered.com.ar</url>
   </channel>
+  <channel id="Espn Deportes - Mexico">
+    <display-name lang="en">Espn Deportes - Mexico</display-name>
+    <icon src="https://streamingtvguides.com/img/s/ESPND.svg" />
+    <url>http://www.streamingtvguides.com.E</url>
+  </channel>
+  <channel id="Fox Deportes - Mexico">
+    <display-name lang="en">Fox Deportes - Mexico</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FXDEP.svg" />
+    <url>http://www.streamingtvguides.com.E</url>
+  </channel>
   <channel id="Eleven Sports 1 - Portugal">
     <display-name lang="en">Eleven Sports 1 - Portugal</display-name>
     <url>http://www.tudonumclick.com</url>
@@ -323,15 +333,6 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/77/10001015.png" />
     <url>http://www.elmundo.es</url>
   </channel>
-  <channel id="Espn Deportes - Mexico">
-    <display-name lang="en">Espn Deportes - Mexico</display-name>
-    <icon src="https://streamingtvguides.com/img/s/ESPND.svg" />
-    <url>http://www.streamingtvguides.com.E</url>
-  </channel>
-  <programme start="20200226084500 -0300" stop="20200226100000 -0300" channel="SporTv - Brasil">
-    <title lang="pt">SporTV News - Ao Vivo</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
   <programme start="20200226100000 -0300" stop="20200226123000 -0300" channel="SporTv - Brasil">
     <title lang="pt">Redação SporTV - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -863,10 +864,6 @@
   <programme start="20200229220000 -0300" stop="20200301003000 -0300" channel="SporTv 2 - Brasil">
     <title lang="pt">NBA: Memphis Grizzlies x Los Angeles Lakers - Ao Vivo</title>
     <category lang="pt">Esporte/Basquete</category>
-  </programme>
-  <programme start="20200226090000 -0300" stop="20200226100000 -0300" channel="SporTv 3 - Brasil">
-    <title lang="pt">Faixa Olímpica</title>
-    <category lang="pt">Esporte/Diversos</category>
   </programme>
   <programme start="20200226100000 -0300" stop="20200226110000 -0300" channel="SporTv 3 - Brasil">
     <title lang="pt">Especial UFC: Benavidez x Figueiredo</title>
@@ -2452,10 +2449,6 @@
     <title lang="pt">ATP 500: Dubai</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200226075600 -0300" stop="20200226101800 -0300" channel="TNT - Brasil">
-    <title lang="pt">Star Wars: O Despertar da Força</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
   <programme start="20200226101800 -0300" stop="20200226120000 -0300" channel="TNT - Brasil">
     <title lang="pt">A Trilha</title>
     <category lang="pt">Filme/Ação</category>
@@ -2667,11 +2660,6 @@
   <programme start="20200229223200 -0300" stop="20200301010900 -0300" channel="TNT - Brasil">
     <title lang="pt">Piratas do Caribe: O Baú da Morte</title>
     <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200226090000 -0300" stop="20200226100000 -0300" channel="Espn 2 - Brasil">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_272/00000000072890_epg.jpg" />
   </programme>
   <programme start="20200226100000 -0300" stop="20200226113000 -0300" channel="Espn 2 - Brasil">
     <title lang="pt">Bola da Vez: Fernando Fernandes, Tetracampeão Mundial de Paracanoagem</title>
@@ -2982,10 +2970,6 @@
     <title lang="pt">Peyton's Places</title>
     <desc lang="pt">Ao lado de Jay Leno, Peyton Manning vai conhecer lugares ligados à NFL, trazendo os bastidores desse esporte tão amado nos Estados Unidos e que vem conquistando milhares de fãs ao redor do mundo.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_272/0000597565_epg.jpg" />
-  </programme>
-  <programme start="20200226090000 -0300" stop="20200226100000 -0300" channel="Premiere Clubes - Brasil">
-    <title lang="pt">VT - Oeste x São Paulo</title>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
   </programme>
   <programme start="20200226100000 -0300" stop="20200226110000 -0300" channel="Premiere Clubes - Brasil">
     <title lang="pt">VT - Água Santa x Corinthians</title>
@@ -52955,14 +52939,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200226100000 -0300" stop="20200226103000 -0300" channel="AyE - Latinoamerica">
-    <title lang="es">Fronteras peligrosas: Estados Unidos</title>
-    <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
-    <category lang="es">Series</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/10346683.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
   <programme start="20200226103000 -0300" stop="20200226110000 -0300" channel="AyE - Latinoamerica">
     <title lang="es">Fronteras peligrosas: Estados Unidos</title>
     <desc lang="es">Documenta las vidas de los oficiales en la Agencia de Servicios Fronterizos de Canadá, así como en la Agencia de Aduanas y Protección de Fronteras de los Estados Unidos.(n)</desc>
@@ -61515,6 +61491,727 @@
     <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
     <country lang="es">Argentina</country>
   </programme>
+  <programme start="20200226050000 -0800" stop="20200226060000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200226060000 -0800" stop="20200226070000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200226070000 -0800" stop="20200226090000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">ESPN AM</title>
+    <desc lang="en">En un show fresco, creativo y casual que acompañará a los fanáticos cada mañana, periodistas especializados discuten los temas deportivos del día, principalmente todo lo relacionado con el fútbol mexicano.(n)</desc>
+  </programme>
+  <programme start="20200226090000 -0800" stop="20200226100000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200226100000 -0800" stop="20200226110000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200226110000 -0800" stop="20200226120000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200226120000 -0800" stop="20200226130000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Los capitanes</title>
+    <desc lang="en">Noticias, polémicas y acontecimientos del ambiente deportivo presentadas de manera original, dinámica y entretenida.(n)</desc>
+  </programme>
+  <programme start="20200226130000 -0800" stop="20200226160000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Jorge Ramos y su banda</title>
+    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
+  </programme>
+  <programme start="20200226160000 -0800" stop="20200226163000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Cronómetro</title>
+    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
+  </programme>
+  <programme start="20200226163000 -0800" stop="20200226170000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200226170000 -0800" stop="20200226193000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Baloncesto NBA</title>
+    <sub-title lang="en">Memphis Grizzlies vs. Houston Rockets</sub-title>
+    <desc lang="en">Los Grizzlies visitan a los Rockets en el Toyota Center en una nueva jornada de NBA. Los equipos se repartieron 2 partidos en Tennessee a principios de la campaña. James Harden promedió 42.5 puntos en esos enfrentamientos.(n)</desc>
+  </programme>
+  <programme start="20200226193000 -0800" stop="20200226220000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Baloncesto NBA</title>
+    <sub-title lang="en">Boston Celtics vs. Utah Jazz</sub-title>
+    <desc lang="en">Los Celtics cierran una gira de 4 juegos al visitar a los Jazz. En la campaña pasada, Utah se quedó con ambos juegos ante Boston por primera vez de la 2006-07. Gordon Hayward sumó 13 puntos en su primer juego en Utah tras firmar con los C's en 2017.(n)</desc>
+  </programme>
+  <programme start="20200226220000 -0800" stop="20200226230000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200226230000 -0800" stop="20200226233000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Ahora o nunca</title>
+    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
+  </programme>
+  <programme start="20200226233000 -0800" stop="20200227003000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200227003000 -0800" stop="20200227010000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Ahora o nunca</title>
+    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
+  </programme>
+  <programme start="20200227010000 -0800" stop="20200227020000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200227020000 -0800" stop="20200227030000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200227030000 -0800" stop="20200227040000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200227040000 -0800" stop="20200227050000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200227050000 -0800" stop="20200227060000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200227060000 -0800" stop="20200227070000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200227070000 -0800" stop="20200227090000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">ESPN AM</title>
+    <desc lang="en">En un show fresco, creativo y casual que acompañará a los fanáticos cada mañana, periodistas especializados discuten los temas deportivos del día, principalmente todo lo relacionado con el fútbol mexicano.(n)</desc>
+  </programme>
+  <programme start="20200227090000 -0800" stop="20200227100000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200227100000 -0800" stop="20200227110000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200227110000 -0800" stop="20200227120000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200227120000 -0800" stop="20200227130000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Los capitanes</title>
+    <desc lang="en">Noticias, polémicas y acontecimientos del ambiente deportivo presentadas de manera original, dinámica y entretenida.(n)</desc>
+  </programme>
+  <programme start="20200227130000 -0800" stop="20200227160000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Jorge Ramos y su banda</title>
+    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
+  </programme>
+  <programme start="20200227160000 -0800" stop="20200227163000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Cronómetro</title>
+    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
+  </programme>
+  <programme start="20200227163000 -0800" stop="20200227170000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200227170000 -0800" stop="20200227180000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">UFC 201: Demetrious Johnson vs. Wilson Reis</sub-title>
+    <desc lang="en">Combate disputado el 15 de abril de 2017 en el Sprint Center de Kansas City, en Misuri, Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20200227180000 -0800" stop="20200227185000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200227185000 -0800" stop="20200227210000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol Mexicano División Ascenso</title>
+    <sub-title lang="en">Dorados vs. Mineros de Zacatecas</sub-title>
+    <desc lang="en">Jornada 6 del Torneo Clausura 2020. Dorados recibe a Mineros de Zacatecas, desde el estadio Banorte en Culiacán, Sinaloa.(n)</desc>
+  </programme>
+  <programme start="20200227210000 -0800" stop="20200227220000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200227220000 -0800" stop="20200227230000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200227230000 -0800" stop="20200227233000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Ahora o nunca</title>
+    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
+  </programme>
+  <programme start="20200227233000 -0800" stop="20200228003000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200228003000 -0800" stop="20200228010000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Ahora o nunca</title>
+    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
+  </programme>
+  <programme start="20200228010000 -0800" stop="20200228020000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200228020000 -0800" stop="20200228030000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200228030000 -0800" stop="20200228040000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200228040000 -0800" stop="20200228050000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200228050000 -0800" stop="20200228060000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200228060000 -0800" stop="20200228070000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200228070000 -0800" stop="20200228090000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">ESPN AM</title>
+    <desc lang="en">En un show fresco, creativo y casual que acompañará a los fanáticos cada mañana, periodistas especializados discuten los temas deportivos del día, principalmente todo lo relacionado con el fútbol mexicano.(n)</desc>
+  </programme>
+  <programme start="20200228090000 -0800" stop="20200228100000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200228100000 -0800" stop="20200228110000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200228110000 -0800" stop="20200228120000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200228120000 -0800" stop="20200228130000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Los capitanes</title>
+    <desc lang="en">Noticias, polémicas y acontecimientos del ambiente deportivo presentadas de manera original, dinámica y entretenida.(n)</desc>
+  </programme>
+  <programme start="20200228130000 -0800" stop="20200228160000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Jorge Ramos y su banda</title>
+    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
+  </programme>
+  <programme start="20200228160000 -0800" stop="20200228163000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Cronómetro</title>
+    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
+  </programme>
+  <programme start="20200228163000 -0800" stop="20200228170000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">NBA Tonight</title>
+    <desc lang="en">Destacados, análisis y actualizaciones de juegos a través del país.(n)</desc>
+  </programme>
+  <programme start="20200228170000 -0800" stop="20200228180000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">A los golpes</title>
+    <desc lang="en">Análisis de toda la acción del boxeo, las artes marciales mixtas y los deportes de contacto, con la participación especial de los principales peleadores.(n)</desc>
+  </programme>
+  <programme start="20200228180000 -0800" stop="20200228183000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200228183000 -0800" stop="20200228210000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Tijuana vs. Puebla</sub-title>
+    <desc lang="en">Los Xolos de Tijuana enfrentan a Puebla por la Jornada 8 del Torneo Clausura 2020. Desde el estadio Caliente.(n)</desc>
+  </programme>
+  <programme start="20200228210000 -0800" stop="20200228220000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200228220000 -0800" stop="20200228230000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200228230000 -0800" stop="20200228233000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Ahora o nunca</title>
+    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
+  </programme>
+  <programme start="20200228233000 -0800" stop="20200229003000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200229003000 -0800" stop="20200229010000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Ahora o nunca</title>
+    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
+  </programme>
+  <programme start="20200229010000 -0800" stop="20200229020000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229020000 -0800" stop="20200229030000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229030000 -0800" stop="20200229040000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200229040000 -0800" stop="20200229050000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229050000 -0800" stop="20200229060000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229060000 -0800" stop="20200229070000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200229070000 -0800" stop="20200229080000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229080000 -0800" stop="20200229090000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">A los golpes</title>
+    <desc lang="en">Análisis de toda la acción del boxeo, las artes marciales mixtas y los deportes de contacto, con la participación especial de los principales peleadores.(n)</desc>
+  </programme>
+  <programme start="20200229090000 -0800" stop="20200229100000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">ESPN Fútbol Center</title>
+    <desc lang="en">Los analistas repasan pieza por pieza las noticias del fútbol europeo y revisan el desempeño de los futbolistas mexicanos en las principales ligas del viejo continente.(n)</desc>
+  </programme>
+  <programme start="20200229100000 -0800" stop="20200229110000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229110000 -0800" stop="20200229120000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229120000 -0800" stop="20200229130000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229130000 -0800" stop="20200229133000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">UFC Ultimate Knockouts</title>
+    <sub-title lang="en">Fastest Knockouts</sub-title>
+    <desc lang="en">Finales más rápidos en historia de MMA.(n)</desc>
+  </programme>
+  <programme start="20200229133000 -0800" stop="20200229143000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">ESPN Fútbol Center</title>
+    <desc lang="en">Los analistas repasan pieza por pieza las noticias del fútbol europeo y revisan el desempeño de los futbolistas mexicanos en las principales ligas del viejo continente.(n)</desc>
+  </programme>
+  <programme start="20200229143000 -0800" stop="20200229165500 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Pachuca vs. Querétaro</sub-title>
+    <desc lang="en">Querétaro visita a Pachuca por la Jornada 8 del Torneo Clausura 2020 de la Liga MX. Desde el estadio Hidalgo.(n)</desc>
+  </programme>
+  <programme start="20200229165500 -0800" stop="20200229190000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">América vs. Necaxa</sub-title>
+    <desc lang="en">Las Águilas del América enfrentan a Necaxa por la Jornada 8 del Torneo Clausura 2020. Desde el estadio Azteca.(n)</desc>
+  </programme>
+  <programme start="20200229190000 -0800" stop="20200229200000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229200000 -0800" stop="20200229210000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229210000 -0800" stop="20200229220000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200229220000 -0800" stop="20200229230000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20200229230000 -0800" stop="20200301000000 -0800" channel="Espn Deportes - Mexico">
+    <title lang="en">Fútbol picante</title>
+    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
+  </programme>
+  <programme start="20200226050000 -0800" stop="20200226060000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200226060000 -0800" stop="20200226070000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200226070000 -0800" stop="20200226080000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Agenda Fox Sports</title>
+    <desc lang="en">Un espacio en el que se narra todo lo que sucedió y lo que marcará la pauta de la jornada deportiva mundial presentándolo de manera divertida.(n)</desc>
+  </programme>
+  <programme start="20200226080000 -0800" stop="20200226090000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200226090000 -0800" stop="20200226100000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200226100000 -0800" stop="20200226110000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200226110000 -0800" stop="20200226120000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Agenda Fox Sports</title>
+    <desc lang="en">Un espacio en el que se narra todo lo que sucedió y lo que marcará la pauta de la jornada deportiva mundial presentándolo de manera divertida.(n)</desc>
+  </programme>
+  <programme start="20200226120000 -0800" stop="20200226130000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200226130000 -0800" stop="20200226140000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Compacto: Tijuana vs. Guadalajara</sub-title>
+    <desc lang="en">Compacto con los mejores momentos y las jugadas más destacadas del partido de la Jornada 7 del Torneo Clausura. Disputado el 21 de febrero de 2020.(n)</desc>
+  </programme>
+  <programme start="20200226140000 -0800" stop="20200226150000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fox Sports Radio México</title>
+    <desc lang="en">Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20200226150000 -0800" stop="20200226160000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200226160000 -0800" stop="20200226170000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fox Sports Radio México</title>
+    <desc lang="en">Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20200226170000 -0800" stop="20200226190000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Monterrey vs. América</sub-title>
+    <desc lang="en">Monterrey disputa un duro duelo ante América por la Jornada 7 del Clausura 2020 en el estadio BBVA. Los Rayados solo acumulan 3 unidades en el torneo, pero se impusieron ante las Águilas en la final del Apertura 2019.(n)</desc>
+  </programme>
+  <programme start="20200226190000 -0800" stop="20200226200000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol Copa MX</title>
+    <sub-title lang="en">Compacto: Monterrey vs. Santos Laguna</sub-title>
+    <desc lang="en">Un repaso del partido de vuelta de Cuartos de Final de la Copa MX. Disputado el 19 de febrero de 2020, en el estadio BBVA.(n)</desc>
+  </programme>
+  <programme start="20200226200000 -0800" stop="20200226210000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200226210000 -0800" stop="20200226220000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200226220000 -0800" stop="20200226230000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200226230000 -0800" stop="20200227000000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200227000000 -0800" stop="20200227010000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200227010000 -0800" stop="20200227013000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200227013000 -0800" stop="20200227020000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200227020000 -0800" stop="20200227023000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200227023000 -0800" stop="20200227030000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200227030000 -0800" stop="20200227033000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200227033000 -0800" stop="20200227040000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200227040000 -0800" stop="20200227050000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200227050000 -0800" stop="20200227060000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200227060000 -0800" stop="20200227070000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200227070000 -0800" stop="20200227080000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Agenda Fox Sports</title>
+    <desc lang="en">Un espacio en el que se narra todo lo que sucedió y lo que marcará la pauta de la jornada deportiva mundial presentándolo de manera divertida.(n)</desc>
+  </programme>
+  <programme start="20200227080000 -0800" stop="20200227090000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200227090000 -0800" stop="20200227100000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200227100000 -0800" stop="20200227110000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200227110000 -0800" stop="20200227120000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Agenda Fox Sports</title>
+    <desc lang="en">Un espacio en el que se narra todo lo que sucedió y lo que marcará la pauta de la jornada deportiva mundial presentándolo de manera divertida.(n)</desc>
+  </programme>
+  <programme start="20200227120000 -0800" stop="20200227130000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200227130000 -0800" stop="20200227140000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Compacto: Monterrey vs. América</sub-title>
+    <desc lang="en">Un repaso de lo más destacado del partido correspondiente a la Jornada 7 del Clausura 2020. Disputado el 22 de febrero, en el estadio BBVA.(n)</desc>
+  </programme>
+  <programme start="20200227140000 -0800" stop="20200227150000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fox Sports Radio México</title>
+    <desc lang="en">Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20200227150000 -0800" stop="20200227160000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200227160000 -0800" stop="20200227170000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fox Sports Radio México</title>
+    <desc lang="en">Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20200227170000 -0800" stop="20200227183000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Boxeo</title>
+    <sub-title lang="en">Deontay Wilder vs. Tyson Fury II, preliminares</sub-title>
+    <desc lang="en">Combates preliminares de la gran velada de la revancha entre Deontay Wilder y Tyson Fury. Desde Las Vegas.(n)</desc>
+  </programme>
+  <programme start="20200227183000 -0800" stop="20200227190000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">PBC Postfight Show</title>
+    <sub-title lang="en">Deontay Wilder vs. Tyson Fury II</sub-title>
+    <desc lang="en">Repaso y análisis del combate entre Deontay Wilder y Tyson Fury II.(n)</desc>
+  </programme>
+  <programme start="20200227190000 -0800" stop="20200227200000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fox Gol México</title>
+    <desc lang="en">Noticias, análisis, comentarios, goles y las jugadas más destacadas de la Liga mexicana de fútbol.(n)</desc>
+  </programme>
+  <programme start="20200227200000 -0800" stop="20200227210000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200227210000 -0800" stop="20200227220000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200227220000 -0800" stop="20200227230000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fox Gol Centroamérica</title>
+    <desc lang="en">El show que presenta las jugadas más destacadas, los mejores goles, las noticias más importantes, análisis y debate del fútbol centroamericano.(n)</desc>
+  </programme>
+  <programme start="20200227230000 -0800" stop="20200228000000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200228000000 -0800" stop="20200228010000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">WWE Backstage</title>
+    <desc lang="en">Una charla con el análisis de las mejores historias en la WWE.(n)</desc>
+  </programme>
+  <programme start="20200228010000 -0800" stop="20200228013000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200228013000 -0800" stop="20200228020000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200228020000 -0800" stop="20200228023000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200228023000 -0800" stop="20200228030000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200228030000 -0800" stop="20200228033000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200228033000 -0800" stop="20200228040000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200228040000 -0800" stop="20200228050000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200228050000 -0800" stop="20200228060000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200228060000 -0800" stop="20200228070000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200228070000 -0800" stop="20200228080000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Agenda Fox Sports</title>
+    <desc lang="en">Un espacio en el que se narra todo lo que sucedió y lo que marcará la pauta de la jornada deportiva mundial presentándolo de manera divertida.(n)</desc>
+  </programme>
+  <programme start="20200228080000 -0800" stop="20200228090000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200228090000 -0800" stop="20200228100000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200228100000 -0800" stop="20200228110000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200228110000 -0800" stop="20200228113000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Monterrey campeón Apertura 2019</sub-title>
+    <desc lang="en">Programa especial que repasa los mejores momentos y las jugadas más destacadas del camino de los Rayados al título del Torneo Apertura 2019 de la Liga MX.(n)</desc>
+  </programme>
+  <programme start="20200228113000 -0800" stop="20200228133000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol Bundesliga</title>
+    <sub-title lang="en">Fortuna Düsseldorf vs. Hertha Berlin</sub-title>
+    <desc lang="en">Jornada 24 de la Bundesliga. Fortuna Düsseldorf recibe a Hertha Berlin en Merkur Spiel-Arena. Hertha ganó 1 de sus 12 partidos visitando a Düsseldorf, un 3-2 el 2 de abril de 1977. Karl-Heinz Granitza, Erich Beer y Wolfgang Sidka hicieron los goles.(n)</desc>
+  </programme>
+  <programme start="20200228133000 -0800" stop="20200228140000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">PBC Postfight Show</title>
+    <sub-title lang="en">Deontay Wilder vs. Tyson Fury II</sub-title>
+    <desc lang="en">Repaso y análisis del combate entre Deontay Wilder y Tyson Fury II.(n)</desc>
+  </programme>
+  <programme start="20200228140000 -0800" stop="20200228150000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fox Sports Radio México</title>
+    <desc lang="en">Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20200228150000 -0800" stop="20200228160000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200228160000 -0800" stop="20200228170000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">WWE Backstage</title>
+    <desc lang="en">Una charla con el análisis de las mejores historias en la WWE.(n)</desc>
+  </programme>
+  <programme start="20200228170000 -0800" stop="20200228190000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">Las superestrellas del mundo de la lucha libre profesional combaten y desarrollan sus grandes rivalidades.(n)</desc>
+  </programme>
+  <programme start="20200228190000 -0800" stop="20200228200000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Boxeo</title>
+    <sub-title lang="en">2019: Leo Santa Cruz vs. Miguel Flores</sub-title>
+    <desc lang="en">Leo Santa Cruz enfrenta a Miguel Flores por el título mundial superpluma de la AMB. Combate disputado el 23 de noviembre de 2019, en el MGM Grand de Las Vegas, Nevada.(n)</desc>
+  </programme>
+  <programme start="20200228200000 -0800" stop="20200228210000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200228210000 -0800" stop="20200228220000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200228220000 -0800" stop="20200228230000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200228230000 -0800" stop="20200229000000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200229000000 -0800" stop="20200229010000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200229010000 -0800" stop="20200229013000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200229013000 -0800" stop="20200229020000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200229020000 -0800" stop="20200229023000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200229023000 -0800" stop="20200229030000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200229030000 -0800" stop="20200229033000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+  </programme>
+  <programme start="20200229033000 -0800" stop="20200229040000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Bundesliga Weekly</title>
+    <desc lang="en">La mejor cobertura semanal del fútbol alemán, con toda las últimas novedades e información de la fecha.(n)</desc>
+  </programme>
+  <programme start="20200229040000 -0800" stop="20200229050000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200229050000 -0800" stop="20200229060000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200229060000 -0800" stop="20200229063000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Previa: Bundesliga</title>
+    <desc lang="en">Previa al partido de la liga alemana.(n)</desc>
+  </programme>
+  <programme start="20200229063000 -0800" stop="20200229083000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol Bundesliga</title>
+    <sub-title lang="en">Borussia Dortmund vs. Freiburg</sub-title>
+    <desc lang="en">Jornada 24 de la Bundesliga. Borussia Dortmund recibe a Freiburg en Signal Iduna Park. Freiburg ganó solo 1 de sus 19 partidos de Bundesliga visitando al Dortmund, un 2-0 el 21 de octubre de 2001 (goles de Soumaila Coulibaly y Sebastian Kehl).(n)</desc>
+  </programme>
+  <programme start="20200229083000 -0800" stop="20200229090000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">FOX Deportes en Vivo</title>
+    <desc lang="en">Toda la acción en el mundo de los deportes.(n)</desc>
+  </programme>
+  <programme start="20200229090000 -0800" stop="20200229100000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200229100000 -0800" stop="20200229120000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Tijuana vs. Puebla</sub-title>
+    <desc lang="en">Los Xolos de Tijuana enfrentan a Puebla por la Jornada 8 del Torneo Clausura 2020. Desde el estadio Caliente.(n)</desc>
+  </programme>
+  <programme start="20200229120000 -0800" stop="20200229140000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">Las superestrellas del mundo de la lucha libre profesional combaten y desarrollan sus grandes rivalidades.(n)</desc>
+  </programme>
+  <programme start="20200229140000 -0800" stop="20200229170000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol Americano XFL</title>
+    <sub-title lang="en">Seattle Dragons vs. St. Louis BattleHawks</sub-title>
+  </programme>
+  <programme start="20200229170000 -0800" stop="20200229173000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">FOX Deportes en Vivo</title>
+    <desc lang="en">Toda la acción en el mundo de los deportes.(n)</desc>
+  </programme>
+  <programme start="20200229173000 -0800" stop="20200229193000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Fútbol MLS</title>
+    <sub-title lang="en">Atlanta United vs. Nashville SC</sub-title>
+    <desc lang="en">Desde el Nissan Stadium en Nashville, TN, USA.(n)</desc>
+  </programme>
+  <programme start="20200229193000 -0800" stop="20200229200000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">FOX Deportes en Vivo</title>
+    <desc lang="en">Toda la acción en el mundo de los deportes.(n)</desc>
+  </programme>
+  <programme start="20200229200000 -0800" stop="20200229210000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200229210000 -0800" stop="20200229220000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
+  <programme start="20200229220000 -0800" stop="20200229230000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">Central Fox</title>
+    <desc lang="en">Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20200229230000 -0800" stop="20200301000000 -0800" channel="Fox Deportes - Mexico">
+    <title lang="en">La Última Palabra</title>
+    <desc lang="en">Programa de debate y polémica sobre el fútbol.(n)</desc>
+  </programme>
   <programme start="20200226000000 +0000" stop="20200226001500 +0000" channel="Eleven Sports 1 - Portugal">
     <title lang="en">Liga dos Campeões - Golos</title>
     <desc lang="en">Os golos, as jogadas e os protagonistas o essencial dos encontros já disputados da primeira jornada da UEFA Champions League.(n)</desc>
@@ -67339,337 +68036,5 @@
     <rating>
       <value>TP</value>
     </rating>
-  </programme>
-  <programme start="20200226050000 -0800" stop="20200226060000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200226060000 -0800" stop="20200226070000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200226070000 -0800" stop="20200226090000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">ESPN AM</title>
-    <desc lang="en">En un show fresco, creativo y casual que acompañará a los fanáticos cada mañana, periodistas especializados discuten los temas deportivos del día, principalmente todo lo relacionado con el fútbol mexicano.(n)</desc>
-  </programme>
-  <programme start="20200226090000 -0800" stop="20200226100000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200226100000 -0800" stop="20200226110000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200226110000 -0800" stop="20200226120000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200226120000 -0800" stop="20200226130000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Los capitanes</title>
-    <desc lang="en">Noticias, polémicas y acontecimientos del ambiente deportivo presentadas de manera original, dinámica y entretenida.(n)</desc>
-  </programme>
-  <programme start="20200226130000 -0800" stop="20200226160000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Jorge Ramos y su banda</title>
-    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
-  </programme>
-  <programme start="20200226160000 -0800" stop="20200226163000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Cronómetro</title>
-    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
-  </programme>
-  <programme start="20200226163000 -0800" stop="20200226170000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200226170000 -0800" stop="20200226193000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Baloncesto NBA</title>
-    <sub-title lang="en">Memphis Grizzlies vs. Houston Rockets</sub-title>
-    <desc lang="en">Los Grizzlies visitan a los Rockets en el Toyota Center en una nueva jornada de NBA. Los equipos se repartieron 2 partidos en Tennessee a principios de la campaña. James Harden promedió 42.5 puntos en esos enfrentamientos.(n)</desc>
-  </programme>
-  <programme start="20200226193000 -0800" stop="20200226220000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Baloncesto NBA</title>
-    <sub-title lang="en">Boston Celtics vs. Utah Jazz</sub-title>
-    <desc lang="en">Los Celtics cierran una gira de 4 juegos al visitar a los Jazz. En la campaña pasada, Utah se quedó con ambos juegos ante Boston por primera vez de la 2006-07. Gordon Hayward sumó 13 puntos en su primer juego en Utah tras firmar con los C's en 2017.(n)</desc>
-  </programme>
-  <programme start="20200226220000 -0800" stop="20200226230000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200226230000 -0800" stop="20200226233000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Ahora o nunca</title>
-    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
-  </programme>
-  <programme start="20200226233000 -0800" stop="20200227003000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200227003000 -0800" stop="20200227010000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Ahora o nunca</title>
-    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
-  </programme>
-  <programme start="20200227010000 -0800" stop="20200227020000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200227020000 -0800" stop="20200227030000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200227030000 -0800" stop="20200227040000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200227040000 -0800" stop="20200227050000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200227050000 -0800" stop="20200227060000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200227060000 -0800" stop="20200227070000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200227070000 -0800" stop="20200227090000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">ESPN AM</title>
-    <desc lang="en">En un show fresco, creativo y casual que acompañará a los fanáticos cada mañana, periodistas especializados discuten los temas deportivos del día, principalmente todo lo relacionado con el fútbol mexicano.(n)</desc>
-  </programme>
-  <programme start="20200227090000 -0800" stop="20200227100000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200227100000 -0800" stop="20200227110000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200227110000 -0800" stop="20200227120000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200227120000 -0800" stop="20200227130000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Los capitanes</title>
-    <desc lang="en">Noticias, polémicas y acontecimientos del ambiente deportivo presentadas de manera original, dinámica y entretenida.(n)</desc>
-  </programme>
-  <programme start="20200227130000 -0800" stop="20200227160000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Jorge Ramos y su banda</title>
-    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
-  </programme>
-  <programme start="20200227160000 -0800" stop="20200227163000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Cronómetro</title>
-    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
-  </programme>
-  <programme start="20200227163000 -0800" stop="20200227170000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200227170000 -0800" stop="20200227180000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">UFC Main Event</title>
-    <sub-title lang="en">UFC 201: Demetrious Johnson vs. Wilson Reis</sub-title>
-    <desc lang="en">Combate disputado el 15 de abril de 2017 en el Sprint Center de Kansas City, en Misuri, Estados Unidos.(n)</desc>
-  </programme>
-  <programme start="20200227180000 -0800" stop="20200227185000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200227185000 -0800" stop="20200227210000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol Mexicano División Ascenso</title>
-    <sub-title lang="en">Dorados vs. Mineros de Zacatecas</sub-title>
-    <desc lang="en">Jornada 6 del Torneo Clausura 2020. Dorados recibe a Mineros de Zacatecas, desde el estadio Banorte en Culiacán, Sinaloa.(n)</desc>
-  </programme>
-  <programme start="20200227210000 -0800" stop="20200227220000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200227220000 -0800" stop="20200227230000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200227230000 -0800" stop="20200227233000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Ahora o nunca</title>
-    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
-  </programme>
-  <programme start="20200227233000 -0800" stop="20200228003000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200228003000 -0800" stop="20200228010000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Ahora o nunca</title>
-    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
-  </programme>
-  <programme start="20200228010000 -0800" stop="20200228020000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200228020000 -0800" stop="20200228030000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200228030000 -0800" stop="20200228040000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200228040000 -0800" stop="20200228050000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200228050000 -0800" stop="20200228060000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200228060000 -0800" stop="20200228070000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200228070000 -0800" stop="20200228090000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">ESPN AM</title>
-    <desc lang="en">En un show fresco, creativo y casual que acompañará a los fanáticos cada mañana, periodistas especializados discuten los temas deportivos del día, principalmente todo lo relacionado con el fútbol mexicano.(n)</desc>
-  </programme>
-  <programme start="20200228090000 -0800" stop="20200228100000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200228100000 -0800" stop="20200228110000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200228110000 -0800" stop="20200228120000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200228120000 -0800" stop="20200228130000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Los capitanes</title>
-    <desc lang="en">Noticias, polémicas y acontecimientos del ambiente deportivo presentadas de manera original, dinámica y entretenida.(n)</desc>
-  </programme>
-  <programme start="20200228130000 -0800" stop="20200228160000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Jorge Ramos y su banda</title>
-    <desc lang="en">Con una combinación de entusiasmo, conocimiento y pasión Jorge Ramos y su Banda presentan las noticias más candentes, el debate en todas sus perspectivas y el análisis más detallado del acontecer diario en el mundo deportivo.(n)</desc>
-  </programme>
-  <programme start="20200228160000 -0800" stop="20200228163000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Cronómetro</title>
-    <desc lang="en">Programa de debate a contrarreloj, donde se discuten de modo ágil todas las noticias de última hora ocurridas dentro del mundo del deporte.(n)</desc>
-  </programme>
-  <programme start="20200228163000 -0800" stop="20200228170000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">NBA Tonight</title>
-    <desc lang="en">Destacados, análisis y actualizaciones de juegos a través del país.(n)</desc>
-  </programme>
-  <programme start="20200228170000 -0800" stop="20200228180000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">A los golpes</title>
-    <desc lang="en">Análisis de toda la acción del boxeo, las artes marciales mixtas y los deportes de contacto, con la participación especial de los principales peleadores.(n)</desc>
-  </programme>
-  <programme start="20200228180000 -0800" stop="20200228183000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200228183000 -0800" stop="20200228210000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol Mexicano Primera División</title>
-    <sub-title lang="en">Tijuana vs. Puebla</sub-title>
-    <desc lang="en">Los Xolos de Tijuana enfrentan a Puebla por la Jornada 8 del Torneo Clausura 2020. Desde el estadio Caliente.(n)</desc>
-  </programme>
-  <programme start="20200228210000 -0800" stop="20200228220000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200228220000 -0800" stop="20200228230000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200228230000 -0800" stop="20200228233000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Ahora o nunca</title>
-    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
-  </programme>
-  <programme start="20200228233000 -0800" stop="20200229003000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200229003000 -0800" stop="20200229010000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Ahora o nunca</title>
-    <desc lang="en">Show que mezcla la cultura y el deporte. Un repaso por los más recientes titulares deportivos, lo último en películas, música, eSport, el mundo de las celebridades y mucho más.(n)</desc>
-  </programme>
-  <programme start="20200229010000 -0800" stop="20200229020000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229020000 -0800" stop="20200229030000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229030000 -0800" stop="20200229040000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200229040000 -0800" stop="20200229050000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229050000 -0800" stop="20200229060000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229060000 -0800" stop="20200229070000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200229070000 -0800" stop="20200229080000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229080000 -0800" stop="20200229090000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">A los golpes</title>
-    <desc lang="en">Análisis de toda la acción del boxeo, las artes marciales mixtas y los deportes de contacto, con la participación especial de los principales peleadores.(n)</desc>
-  </programme>
-  <programme start="20200229090000 -0800" stop="20200229100000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">ESPN Fútbol Center</title>
-    <desc lang="en">Los analistas repasan pieza por pieza las noticias del fútbol europeo y revisan el desempeño de los futbolistas mexicanos en las principales ligas del viejo continente.(n)</desc>
-  </programme>
-  <programme start="20200229100000 -0800" stop="20200229110000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229110000 -0800" stop="20200229120000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229120000 -0800" stop="20200229130000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229130000 -0800" stop="20200229133000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">UFC Ultimate Knockouts</title>
-    <sub-title lang="en">Fastest Knockouts</sub-title>
-    <desc lang="en">Finales más rápidos en historia de MMA.(n)</desc>
-  </programme>
-  <programme start="20200229133000 -0800" stop="20200229143000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">ESPN Fútbol Center</title>
-    <desc lang="en">Los analistas repasan pieza por pieza las noticias del fútbol europeo y revisan el desempeño de los futbolistas mexicanos en las principales ligas del viejo continente.(n)</desc>
-  </programme>
-  <programme start="20200229143000 -0800" stop="20200229165500 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol Mexicano Primera División</title>
-    <sub-title lang="en">Pachuca vs. Querétaro</sub-title>
-    <desc lang="en">Querétaro visita a Pachuca por la Jornada 8 del Torneo Clausura 2020 de la Liga MX. Desde el estadio Hidalgo.(n)</desc>
-  </programme>
-  <programme start="20200229165500 -0800" stop="20200229190000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol Mexicano Primera División</title>
-    <sub-title lang="en">América vs. Necaxa</sub-title>
-    <desc lang="en">Las Águilas del América enfrentan a Necaxa por la Jornada 8 del Torneo Clausura 2020. Desde el estadio Azteca.(n)</desc>
-  </programme>
-  <programme start="20200229190000 -0800" stop="20200229200000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229200000 -0800" stop="20200229210000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229210000 -0800" stop="20200229220000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
-  </programme>
-  <programme start="20200229220000 -0800" stop="20200229230000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
-  </programme>
-  <programme start="20200229230000 -0800" stop="20200301000000 -0800" channel="Espn Deportes - Mexico">
-    <title lang="en">Fútbol picante</title>
-    <desc lang="en">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.(n)</desc>
   </programme>
 </tv>
