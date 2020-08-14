@@ -50,7 +50,7 @@
   </channel>
   <channel id="Espn Extra - Brasil">
     <display-name lang="pt">Espn Extra - Brasil</display-name>
-    <url>http://www.meuguia.tv</url>
+    <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="HBO - Latinoamerica">
     <display-name lang="es">HBO - Latinoamerica</display-name>
@@ -48086,18 +48086,6 @@
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/10236765.jpg" />
   </programme>
-  <programme start="20200814093000 -0300" stop="20200814113000 -0300" channel="Fox Sports 2 - Argentina">
-    <title lang="es">Fox Sports Radio</title>
-    <desc lang="es">El programa de radio al natural como si las cámaras no estuvieran ahí, logrando un formato televisivo original y novedoso. Debate, análisis, opinión e información futbolística al instante.(n)</desc>
-    <credits>
-      <actor>Sebastián Vignolo</actor>
-      <actor>Diego Latorre</actor>
-      <actor>Aldo Proieto</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/641490.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
   <programme start="20200814113000 -0300" stop="20200814120000 -0300" channel="Fox Sports 2 - Argentina">
     <title lang="es">Fox Fit</title>
     <desc lang="es">Lucila Vit y Carolina Villarino nos enseñan cómo mantener un cuerpo sano.(n)</desc>
@@ -48547,18 +48535,6 @@
     <category lang="es">Deportes</category>
     <icon src="https://epg.tcc.com.uy/recursos/eventos/10182348.jpg" />
     <country lang="es">USA</country>
-  </programme>
-  <programme start="20200814110000 -0300" stop="20200814113000 -0300" channel="Fox Sports 3 - Argentina">
-    <title lang="es">Rally on Board</title>
-    <desc lang="es">Vamos a recorrer el mundo del rally desde adentro y con la participación de los pilotos, mecánicos y toda la gente que trabaja en el rally, mostraremos como se vive, como se maneja y que pasa en las carreras.(n)</desc>
-    <credits>
-      <actor>Carolina Di Nezio</actor>
-      <actor>Pablo Schillaci</actor>
-      <actor>Marcos Ligato</actor>
-    </credits>
-    <category lang="es">Deportes</category>
-    <icon src="https://epg.tcc.com.uy/recursos/eventos/388321.jpg" />
-    <country lang="es">Argentina</country>
   </programme>
   <programme start="20200814113000 -0300" stop="20200814133000 -0300" channel="Fox Sports 3 - Argentina">
     <title lang="es">FIA Fórmula E Championship. ePrix Berlin 6</title>
